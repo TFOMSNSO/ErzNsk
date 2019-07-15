@@ -1,0 +1,19 @@
+
+§%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ñµ¤
+Msquid:S1197"8Move the array designator from the variable to the type.(»›Ï
+Bsquid:S1989"-Add a "try/catch" block for "getInputStream".(ò™°è
+Asquid:S1989"'Add a "try/catch" block for "readLine".(ô£”ûÿÿÿÿ
+:squid:S1989"%Add a "try/catch" block for "encode".(’Ååî
+?squid:S1989"%Add a "try/catch" block for "decode".(‡¡ùúÿÿÿÿ
+Bsquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âº¬Á
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô¾Œ×
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê¹¾
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(ô£”ûÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑÒÌ®
+Vsquid:S1854"<Remove this useless assignment to local variable "excelRow".(ğÆ•¯ùÿÿÿÿ
+asquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ

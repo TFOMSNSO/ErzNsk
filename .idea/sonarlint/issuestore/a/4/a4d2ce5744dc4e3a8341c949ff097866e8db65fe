@@ -1,0 +1,21 @@
+
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Î¹íìøÿÿÿÿ8ó˜Ç•¹-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ8ó˜Ç•¹-
+usquid:S1450"YRemove the "dataSource" field and declare it as a local variable in the relevant methods.(™ÒËÖ8ó˜Ç•¹-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ»Èúÿÿÿÿ8ó˜Ç•¹-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿Ç™—üÿÿÿÿ8ó˜Ç•¹-
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(×şÕ¹8ó˜Ç•¹-
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(·ššÔ8ó˜Ç•¹-
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ëçá×8ó˜Ç•¹-
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(™ÒËÖ8ó˜Ç•¹-
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(šÓÍ8ó˜Ç•¹-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8ó˜Ç•¹-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ó˜Ç•¹-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ó˜Ç•¹-
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇÌĞùøÿÿÿÿ8ó˜Ç•¹-
+Zsquid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8ó˜Ç•¹-
+Xsquid:UselessImportCheck"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8ó˜Ç•¹-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó˜Ç•¹-
+Dsquid:S1148"#Use a logger to log this exception.(­öçüÿÿÿÿ8ó˜Ç•¹-
+[squid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8ó˜Ç•¹-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8ó˜Ç•¹-

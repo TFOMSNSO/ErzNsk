@@ -1,0 +1,7 @@
+
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãşÃ¶8ˆ¾€½-
+Isquid:S1168+"+Return an empty collection instead of null.(¥¹ï8ˆ¾€½-
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ßÃ‰îúÿÿÿÿ8ˆ¾€½-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö„Ìıÿÿÿÿ8ˆ¾€½-
+Isquid:S1168&"+Return an empty collection instead of null.(¥¹ï8ˆ¾€½-

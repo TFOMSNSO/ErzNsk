@@ -1,0 +1,30 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞæÌüÿÿÿÿ8¬­·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºüÆŒ8¬­·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ãøÿÿÿÿ8¬­·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀâßĞ8¬­·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô™¢Œ8¬­·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê³Ö¦úÿÿÿÿ8¬­·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å¹µñùÿÿÿÿ8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+Zsquid:CallToDeprecatedMethod"-Remove this use of "Query"; it is deprecated.(ÏÉ“É8¬­·ñ¸-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜß8¬­·ñ¸-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÒÉÙ8¬­·ñ¸-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎòİP8¬­·ñ¸-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íù08¬­·ñ¸-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íù08¬­·ñ¸-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íù08¬­·ñ¸-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íù08¬­·ñ¸-
+vsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†­Üz8¬­·ñ¸-

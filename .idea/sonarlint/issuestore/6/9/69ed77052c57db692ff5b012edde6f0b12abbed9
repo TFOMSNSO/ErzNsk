@@ -1,0 +1,321 @@
+
+_squid:UnusedPrivateMethod"0Remove this unused private "getFileName" method.(ùúÂÀøÿÿÿÿ8«ı·ñ¸-
+\squid:UnusedPrivateMethod"2Remove this unused private "downloadExcel" method.(¼ö‰¸8«ı·ñ¸-
+csquid:UnusedPrivateMethod"9Remove this unused private "getGeneralEnpZp1calc" method.(Š©¢ª8«ı·ñ¸-
+gsquid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(· Ü“ùÿÿÿÿ8«ı·ñ¸-
+¸%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ùúÂÀøÿÿÿÿ8«ı·ñ¸-
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ŒªÙû8«ı·ñ¸-
+Dsquid:S3398"#Move this method into "AutoThread".(ÈÿèÆøÿÿÿÿ8«ı·ñ¸-
+Ysquid:S1197"8Move the array designator from the variable to the type.(›ÑòÒÿÿÿÿÿ8«ı·ñ¸-
+xsquid:S1192"\Define a constant instead of duplicating this literal "Check is double response OK" 6 times.(Ë¢ÿÇ8«ı·ñ¸-
+„squid:S1192"hDefine a constant instead of duplicating this literal "ĞĞ¶Ğ¸Ğ´Ğ°ĞµĞ¼ Ğ¾Ñ‚Ğ²ĞµÑ‚Ğ° Ğ½Ğ° A24P10" 4 times.(µÙğÚ8«ı·ñ¸-
+ squid:S1192"Define a constant instead of duplicating this literal "VSnum is OK after A08P16pr chanche last fio on new and A08P03 " 3 times.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+‚squid:S1192"aDefine a constant instead of duplicating this literal "Send A08P03 when all last empty " 4 times.(’ıÛùıÿÿÿÿ8«ı·ñ¸-
+„squid:S1192"hDefine a constant instead of duplicating this literal "VSnum is NO after ZP1pr A08P16pr A08P03" 3 times.(ŸŠéÙ8«ı·ñ¸-
+~squid:S1192"]Define a constant instead of duplicating this literal "Exit from thread on OK VsNum" 7 times.(†åª«ıÿÿÿÿ8«ı·ñ¸-
+£squid:S1192"†Define a constant instead of duplicating this literal "Wait response ZP1 after A08P03 after A08P16pr chanche last fio on new" 3 times.(îõÇ8«ı·ñ¸-
+ysquid:S1192"]Define a constant instead of duplicating this literal "Check is double response BAD" 4 times.(àÉ‹8«ı·ñ¸-
+«squid:S1192"Define a constant instead of duplicating this literal "NTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT" 3 times.(–‚Ş8«ı·ñ¸-
+…squid:S1192"jDefine a constant instead of duplicating this literal "Wait response A03P03 when all last empty " 3 times.(†Ñ8«ı·ñ¸-
+Dsquid:S1989"(Add a "try/catch" block for "getWriter".(Éì‘¡8«ı·ñ¸-
+Qsquid:S1989"0Add a "try/catch" block for "deleteFromTaskXLS".(Ë÷Ã³úÿÿÿÿ8«ı·ñ¸-
+Qsquid:S1989"0Add a "try/catch" block for "deleteFromTaskXLS".(Ë÷Ã³úÿÿÿÿ8«ı·ñ¸-
+4squid:S1989"Add a "try/catch" block.(©ê¯8«ı·ñ¸-
+Esquid:S1989"$Add a "try/catch" block for "close".(“ÿÇúÿÿÿÿ8«ı·ñ¸-
+Esquid:S1989"$Add a "try/catch" block for "close".(Ÿ®âÚûÿÿÿÿ8«ı·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…ªÔ·ÿÿÿÿÿ8«ı·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒŞ«Şøÿÿÿÿ8«ı·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°êŞùÿÿÿÿ8«ı·ñ¸-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïü­8«ı·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¢õäûÿÿÿÿ8«ı·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(â×Èıÿÿÿÿ8«ı·ñ¸-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†­à\8«ı·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¼Ãıøÿÿÿÿ8«ı·ñ¸-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö„Ëİ8«ı·ñ¸-
+jsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(‹Ì ¦ÿÿÿÿÿ8«ı·ñ¸-
+dsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(Š“8«ı·ñ¸-
+jsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ8«ı·ñ¸-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8«ı·ñ¸-
+ksquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(Õı¥Åıÿÿÿÿ8«ı·ñ¸-
+isquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(—€Ô¬8«ı·ñ¸-
+rsquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(‰¬õ¿ÿÿÿÿÿ8«ı·ñ¸-
+ksquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(Õı¥Åıÿÿÿÿ8«ı·ñ¸-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄñŞÏşÿÿÿÿ8«ı·ñ¸-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïÂ¦Ø8«ı·ñ¸-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïÂ¦Ø8«ı·ñ¸-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıóñ´ıÿÿÿÿ8«ı·ñ¸-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›–° 8«ı·ñ¸-
+squid:S1319"rThe type of the "chanche" object should be an interface such as "List" rather than the implementation "ArrayList".(ŒªÙû8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãĞ¶»øÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(€µë÷ùÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈßïÃ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÖÖûÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö¹ô¿8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(øöá¢ÿÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÑ³®8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û¦ı8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š“8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¢ÿÇ8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(òñ°Q8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(…±¼O8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¢ÿÇ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÉ‹8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì‡Ò»úÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÉ‹8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ÅÃ®ÿÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¢òı8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†åª«ıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ıÛùıÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(â¤Š8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(â¤Š8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÁ%8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õµÃ­8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬úòÉúÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¸£Ë8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¥¥Ü8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÙ¸ıüÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËËØ«8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‡Ç†øÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦óÄã8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦óÄã8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(›¹óÓşÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(“¼€Øúÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÍıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÍıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(äöŠÀıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(îú•Òüÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¥¥Ü8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜âÿæşÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õµÃ­8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÅ¨Ñ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–‚Ş8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(—‘ïª8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ØÖæ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±±Ìª8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ÄĞa8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì˜ÿÅ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì˜ÿÅ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(£á™Òùÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¢ÿÇ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ıÛùıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸŠéÙ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.( Û§“üÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¢ÿÇ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ıÛùıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸŠéÙ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÉ‹8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì‡Ò»úÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ıÛùıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıæô­şÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸŠéÙ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÉ‹8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(áîİÌûÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™Ÿê8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄäâÉøÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙùÛÄ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß‚­”ıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÿœíÿÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¡„õ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ŸËĞ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(öÄ¶–ûÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«’Ÿ­8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø¯íøÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(—˜òÎ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õî²şûÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ˆèô8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ–ıûÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(»š©Í8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ”İ‹úÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸—àŞ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÌûøùÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(øí çÿÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØëóÉùÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö³‰¾ûÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(â–—ÿÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÑ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÃÁáÿÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶·¾œ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÜÚúÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤ãÕüÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(îğÍÇûÿÿÿÿ8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¬¤_8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¡¢äüÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ÔÌƒşÿÿÿÿ8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(“®‘C8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(õçĞÖøÿÿÿÿ8«ı·ñ¸-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë÷¡8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(×áôïşÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(—”š›ıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç€¾Ğşÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(“£ÿşÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï«¸£8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ş¨‰ô8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÏƒıÿÿÿÿ8«ı·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(³©æúÿÿÿÿ8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Ê¦8«ı·ñ¸-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÕâ8«ı·ñ¸-
+ysquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(…ªÔ·ÿÿÿÿÿ8«ı·ñ¸-
+ysquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÀÓæüÿÿÿÿ8«ı·ñ¸-
+ysquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(«£½ùÿÿÿÿÿ8«ı·ñ¸-
+ysquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ŒŞ«Şøÿÿÿÿ8«ı·ñ¸-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8«ı·ñ¸-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8«ı·ñ¸-
+Lsquid:S1481"+Remove this unused "oldenp" local variable.(æÁéşøÿÿÿÿ8«ı·ñ¸-
+Jsquid:S1481")Remove this unused "rows" local variable.( Ùèüÿÿÿÿ8«ı·ñ¸-
+osquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 830 to the 15 allowed.(“–ış8«ı·ñ¸-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ŒªÙû8«ı·ñ¸-
+gsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(âçÛŒûÿÿÿÿ8«ı·ñ¸-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²á´Å8«ı·ñ¸-
+lsquid:S2259"K"NullPointerException" will be thrown when invoking method "createTasks()".(Ô¼²şøÿÿÿÿ8«ı·ñ¸-
+jsquid:S2259"IA "NullPointerException" could be thrown; "getNppZero()" can return null.(œª¯Îÿÿÿÿÿ8«ı·ñ¸-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(şóûê8«ı·ñ¸-
+[squid:S1854":Remove this useless assignment to local variable "oldenp".(æÁéşøÿÿÿÿ8«ı·ñ¸-
+Ysquid:S1854"8Remove this useless assignment to local variable "rows".( Ùèüÿÿÿÿ8«ı·ñ¸-
+Ysquid:S1854"=Remove this useless assignment to local variable "excelCell".(¬¹ô¼8«ı·ñ¸-
+Ysquid:S1854"=Remove this useless assignment to local variable "excelCell".(¦ò‘®8«ı·ñ¸-
+Ysquid:S1854"=Remove this useless assignment to local variable "excelCell".(íà8«ı·ñ¸-
+Xsquid:S1854"=Remove this useless assignment to local variable "excelCell".(…ïˆ48«ı·ñ¸-
+Xsquid:S1854"<Remove this useless assignment to local variable "excelRow".(«Ê³8«ı·ñ¸-
+Ysquid:S1854"=Remove this useless assignment to local variable "excelCell".(¬¹ô¼8«ı·ñ¸-
+Ysquid:S1854"=Remove this useless assignment to local variable "excelCell".(¦ò‘®8«ı·ñ¸-
+Ysquid:S1854"=Remove this useless assignment to local variable "excelCell".(íà8«ı·ñ¸-
+Xsquid:S1854"=Remove this useless assignment to local variable "excelCell".(…ïˆ48«ı·ñ¸-
+]squid:S1854"<Remove this useless assignment to local variable "excelRow".(—ä¶úÿÿÿÿ8«ı·ñ¸-
+asquid:S2147"ECombine this catch with the one at line 953, which has the same body.(²á´Å8«ı·ñ¸-
+fsquid:S2147"ECombine this catch with the one at line 953, which has the same body.(âÃƒŠıÿÿÿÿ8«ı·ñ¸-
+Msquid:S1153"1Directly append the argument of String.valueOf().(³•ï„8«ı·ñ¸-
+nsquid:UselessImportCheck"@Remove this unused import 'org.apache.poi.util.SystemOutLogger'.(ÄÇœøÿÿÿÿ8«ı·ñ¸-
+Dsquid:S1148"#Use a logger to log this exception.(Æ­é³üÿÿÿÿ8«ı·ñ¸-
+Dsquid:S1148"#Use a logger to log this exception.(âçÛŒûÿÿÿÿ8«ı·ñ¸-
+?squid:S1148"#Use a logger to log this exception.(²á´Å8«ı·ñ¸-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ı·ñ¸-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«ı·ñ¸-
+[
+squid:S899";Do something with the "boolean" value returned by "delete".(‹Ì ¦ÿÿÿÿÿ8«ı·ñ¸-
+[
+squid:S899";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ8«ı·ñ¸-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(çØß8«ı·ñ¸-
+[squid:S1161":Add the "@Override" annotation above this method signature(‚¨íşÿÿÿÿ8«ı·ñ¸-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ŸÒŞøÿÿÿÿ8«ı·ñ¸-
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(™‚í€8«ı·ñ¸-
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(º»çı8«ı·ñ¸-
+Ysquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ˆ„‘.8«ı·ñ¸-
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(² °Íÿÿÿÿÿ8«ı·ñ¸-

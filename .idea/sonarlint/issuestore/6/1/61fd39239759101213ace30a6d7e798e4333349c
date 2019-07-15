@@ -1,0 +1,6 @@
+
+‰"squid:ClassVariableVisibilityCheck"VMake otladkaXML a static final constant or non-public and provide accessors if needed.(Ó¾°™8ÄËÌğ¸-
+Psquid:S1444"5Make this "public static openWorkbookXls" field final(Ş¬­x8ÄËÌğ¸-
+"squid:ClassVariableVisibilityCheck"[Make openWorkbookXls a static final constant or non-public and provide accessors if needed.(Ş¬­x8ÄËÌğ¸-
+Lsquid:S1444"0Make this "public static otladkaXML" field final(Ó¾°™8ÄËÌğ¸-
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(·¥•8ÄËÌğ¸-

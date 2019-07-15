@@ -1,0 +1,30 @@
+
+Lsquid:S1068+".Remove this unused "messageZp1" private field.(¼ûõÙ8À·ÀÚº-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¨šµ8è²ê¹-
+\squid:UselessImportCheck "1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8À·ÀÚº-
+\squid:UselessImportCheck",Remove this unused import 'answer.AnswerZp'.(ãæñµıÿÿÿÿ8À·ÀÚº-
+ksquid:UselessImportCheck";Remove this unused import 'model.other.ListWebForXMLQuery'.(°ïµ”ùÿÿÿÿ8À·ÀÚº-
+Isquid:S1068-"+Remove this unused "request" private field.(íÑä™8À·ÀÚº-
+bsquid:UselessImportCheck""7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8À·ÀÚº-
+Vsquid:UselessImportCheck
+"+Remove this unused import 'loadparse.Load'.(”®Ğ8À·ÀÚº-
+`squid:UselessImportCheck"0Remove this unused import 'util.UtilParseDbXml'.(”ä÷üÿÿÿÿ8À·ÀÚº-
+`squid:UselessImportCheck"0Remove this unused import 'java.nio.CharBuffer'.(¦­²ãşÿÿÿÿ8À·ÀÚº-
+\squid:UselessImportCheck"1Remove this unused import 'loadparse.ZpLoadMock'.(Øæ‰‡8À·ÀÚº-
+Usquid:UselessImportCheck"*Remove this unused import 'task.TaskMock'.(ğÚ›å8À·ÀÚº-
+ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8À·ÀÚº-
+dsquid:UselessImportCheck"4Remove this unused import 'util.ConstantiNastrojki'.(Í©Í¬ûÿÿÿÿ8À·ÀÚº-
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8À·ÀÚº-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è²ê¹-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8À·ÀÚº-
+Wsquid:UselessImportCheck	"'Remove this unused import 'help.Const'.(çõ¿Íùÿÿÿÿ8À·ÀÚº-
+{squid:UselessImportCheck"PRemove this unused import 'com.fasterxml.jackson.databind.JsonMappingException'.(÷™‹Í8À·ÀÚº-
+zsquid:UselessImportCheck"JRemove this unused import 'com.fasterxml.jackson.core.JsonParseException'.(¸Ôéÿıÿÿÿÿ8À·ÀÚº-
+`squid:UselessImportCheck!"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8À·ÀÚº-
+dsquid:UselessImportCheck"9Remove this unused import 'javax.xml.bind.JAXBException'.(ª¥åå8À·ÀÚº-
+fsquid:UselessImportCheck"6Remove this unused import 'javax.websocket.OnMessage'.(ÏôŒ¸ùÿÿÿÿ8À·ÀÚº-
+^squid:UselessImportCheck".Remove this unused import 'answer.AnswerData'.(ˆÔÇôùÿÿÿÿ8À·ÀÚº-
+fsquid:CallToDeprecatedMethod."2Remove this use of "WsOutbound"; it is deprecated.(İÆÂèÿÿÿÿÿ8ı˜Ùê¹-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÂŒ»óşÿÿÿÿ8è²ê¹-

@@ -1,0 +1,12 @@
+
+-squid:S1989"Add a "try/catch" block.(©ê¯
+>squid:S1989"$Add a "try/catch" block for "close".(“ÿŽÇúÿÿÿÿ
+>squid:S1989"$Add a "try/catch" block for "close".(Ÿ®âÚûÿÿÿÿ
+>squid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ
+>squid:S1989"$Add a "try/catch" block for "doGet".(®Ó‘ûÿÿÿÿÿ
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+bsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(—€Ô¬
+ksquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(‰¬õ¿ÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñâ‰ê
+@squid:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+Xsquid:UselessImportCheck"1Remove this unused import 'javax.jws.WebService'.(‡œÐ£ýÿÿÿÿ

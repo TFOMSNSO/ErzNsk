@@ -1,0 +1,20 @@
+
+Usquid:S1197Ü"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+ksquid:S3008e"ORename this field "s_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò“…Éùÿÿÿÿ
+U
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+U
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(¶‰¼‚ıÿÿÿÿ
+O
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(Ê‡£
+U
+squid:S106à"9Replace this use of System.out or System.err by a logger.(•î§¡ùÿÿÿÿ
+P
+squid:S106á"9Replace this use of System.out or System.err by a logger.(£²±ç
+"squid:ClassVariableVisibilityCheck`"ZMake valueBeforeMD5 a static final constant or non-public and provide accessors if needed.(Òñ¿ıÿÿÿÿ
+Œ"squid:ClassVariableVisibilityChecka"YMake valueAfterMD5 a static final constant or non-public and provide accessors if needed.(§Ñ‹ºûÿÿÿÿ
+^squid:S2259²"AA "NullPointerException" could be thrown; "md5" is nullable here.(¡æ¯ıùÿÿÿÿ
+?squid:S1148v"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+|squid:S1149“"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Èñ­°ûÿÿÿÿ
+wsquid:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+wsquid:S1149Ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰

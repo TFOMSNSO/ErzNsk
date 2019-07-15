@@ -1,0 +1,25 @@
+
+8squid:S1643"Use a StringBuilder instead.(Î¬Í8ìÏ·ñ¸-
+8squid:S1643"Use a StringBuilder instead.(ªÕ´ó8ìÏ·ñ¸-
+³%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ğ©ìÛøÿÿÿÿ8ìÏ·ñ¸-
+9squid:S1989"Add a "try/catch" block.(ßëö›ûÿÿÿÿ8ìÏ·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ8ìÏ·ñ¸-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ­«·8ìÏ·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±„­¦ûÿÿÿÿ8ìÏ·ñ¸-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌêŞä8ìÏ·ñ¸-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìÎæ8ìÏ·ñ¸-
+jsquid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ìÏ·ñ¸-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8ìÏ·ñ¸-
+ksquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(Õı¥Åıÿÿÿÿ8ìÏ·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìš´˜ÿÿÿÿÿ8ìÏ·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÏéØúÿÿÿÿ8ìÏ·ñ¸-
+Qsquid:S1481"5Remove this unused "ajaxUpdateResult" local variable.(‰Ñø8ìÏ·ñ¸-
+Gsquid:S1481"&Remove this unused "f" local variable.(¦‚ˆ€üÿÿÿÿ8ìÏ·ñ¸-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ƒ¯’8ìÏ·ñ¸-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ­«·8ìÏ·ñ¸-
+hsquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ8ìÏ·ñ¸-
+[
+squid:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ìÏ·ñ¸-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8ìÏ·ñ¸-

@@ -1,0 +1,13 @@
+
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(öÌ„òûÿÿÿÿ
+Csquid:EmptyStatementUsageCheck"Remove this empty statement.(˜™¹u
+gsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(šËÁáùÿÿÿÿ
+csquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(”‘ù‰
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŠËšé
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÛìçøÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒŒµ–
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‰ÞÂ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S899";Do something with the "boolean" value returned by "delete".(Ì­„ñüÿÿÿÿ

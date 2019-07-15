@@ -1,0 +1,8 @@
+
+rsquid:S1192"QDefine a constant instead of duplicating this literal "ĞÑˆĞ¸Ğ±ĞºĞ° I/O" 4 times.(ÉŞ®ıÿÿÿÿ8ƒÒ·ñ¸-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úôú»şÿÿÿÿ8ƒÒ·ñ¸-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ¨À€ùÿÿÿÿ8ƒÒ·ñ¸-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ƒÒ·ñ¸-
+Esquid:S1905")Remove this unnecessary cast to "Object".(ÄÇıÖ8ƒÒ·ñ¸-
+hsquid:CallToDeprecatedMethod"6Remove this use of "createCriteria"; it is deprecated.(à­¾üûÿÿÿÿ8ƒÒ·ñ¸-

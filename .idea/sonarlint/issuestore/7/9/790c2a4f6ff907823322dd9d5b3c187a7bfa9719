@@ -1,0 +1,5 @@
+
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºì†øÿÿÿÿ8»şŠ½-
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆı™8»şŠ½-
+squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(òÄğå8»şŠ½-
+¤squid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÙ’Öıÿÿÿÿ8»şŠ½-

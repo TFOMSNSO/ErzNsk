@@ -1,0 +1,64 @@
+
+Isquid:S1172"/Remove this unused method parameter "username".(±’Ä£þÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æû€Â
+Msquid:UselessImportCheck"+Remove this unused import 'java.sql.Types'.(»¤¤Š
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾î¹±
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ž”‚æ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+zsquid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "jobquery".(˜ù‰´ÿÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õüç­øÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êœÿ²
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æû€Â
+ %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Æ‰Ö¬úÿÿÿÿ
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(—‰˜Ž
+gsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(ìô‰–
+fsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(å°ª`
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æû€Â
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾î¹±
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Dsquid:S1172"/Remove this unused method parameter "username".(ÏÙ¿á
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æû€Â
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Æ‰Ö¬úÿÿÿÿ
+fsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ñ J
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+Žsquid:S1319"tThe type of the "enpForZp1" object should be an interface such as "List" rather than the implementation "ArrayList".(§½°ãûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ž’»û
+lsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.( É—·úÿÿÿÿ
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(í¬¼ž
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üöäÿ
+gsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(î²–‡
+Ysquid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+lsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(½éÁ¢ýÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æû€Â
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+rsquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "query".(±£Ê
+lsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(¶…¨åþÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êœÿ²
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÊ™È
+Msquid:S1172"3Remove this unused method parameter "enpSeconList".(Æ‰Ö¬úÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ðÜþ­úÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‰Ö¬úÿÿÿÿ
+‰squid:S1319"tThe type of the "enpForZp1" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏÙ¿á
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÿïŠ
+Rsquid:S00107"=Method has 22 parameters, which is greater than 7 authorized.(³Ñ J
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(—‰˜Ž
+lsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(Í±áÐýÿÿÿÿ
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "resultSet".(—‰˜Ž
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾î¹±
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾î¹±
+Rsquid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ
+Žsquid:S1319"tThe type of the "enpForZp1" object should be an interface such as "List" rather than the implementation "ArrayList".(±’Ä£þÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É°ü€
+Isquid:S1172"/Remove this unused method parameter "username".(§½°ãûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÂÇ•8“£ÇØ»-

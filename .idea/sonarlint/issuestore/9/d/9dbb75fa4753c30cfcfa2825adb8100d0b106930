@@ -1,0 +1,70 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ûÁèúÿÿÿÿ
+Esquid:S1989"0Add a "try/catch" block for "loadToExcelResalt".(”çé½
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(€µë÷ùÿÿÿÿ
+dsquid:UselessImportCheck"BRemove this unused import 'org.apache.poi.ss.usermodel.CellStyle'.(î÷Üú
+bsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(—€Ô¬
+msquid:UselessImportCheck"FRemove this unused import 'org.apache.poi.ss.usermodel.IndexedColors'.(™ò’öûÿÿÿÿ
+±%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ùúÂÀøÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ææş
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¢õäûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÉ¬ùÿÿÿÿ
+>squid:S1989"$Add a "try/catch" block for "write".(…ì¥øÿÿÿÿ
+]squid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(Š“
+Esquid:S1989"0Add a "try/catch" block for "loadToExcelResalt".(”çé½
+:squid:S1181"%Catch Exception instead of Throwable.(çãòó
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÑ³®
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰”†4
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(•²ù
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š“
+Vsquid:S1854"<Remove this useless assignment to local variable "excelRow".(—ä¶úÿÿÿÿ
+Ysquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£¶«÷ùÿÿÿÿ
+Fsquid:S1989",Add a "try/catch" block for "downloadExcel".( øØ·ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôç¤ö
+Fsquid:S1989",Add a "try/catch" block for "downloadExcel".( øØ·ÿÿÿÿÿ
+`squid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(· Ü“ùÿÿÿÿ
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïü­
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÑËÆ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ş­ÈÜ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û¦ı
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë‡Ÿ
+?squid:S1989"*Add a "try/catch" block for "getFileName".(©½‘§
+`squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Î¹§À
+ksquid:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(‰¬õ¿ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãĞ¶»øÿÿÿÿ
+Dsquid:S00108")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+>squid:S1989"$Add a "try/catch" block for "close".(“ÿÇúÿÿÿÿ
+[squid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(ÍÙ†³
+-squid:S1989"Add a "try/catch" block.(©ê¯
+[squid:S3027"FPut single-quotes around '=' to use the faster "indexOf(char)" method.(•²ù
+dsquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(Õı¥Åıÿÿÿÿ
+dsquid:S2095"JUse try-with-resources or close this "HSSFWorkbook" in a "finally" clause.(Õı¥Åıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(çÛü”ÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š•†²
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(•Ùÿÿÿÿÿ
+fsquid:S2259"Q"NullPointerException" will be thrown when invoking method "loadToExcelResalt()".(”çé½
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎúÌ¼
+Osquid:S1161":Add the "@Override" annotation above this method signature(çØß
+>squid:S1989"$Add a "try/catch" block for "close".(Ÿ®âÚûÿÿÿÿ
+¬%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(÷÷·ğÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ËÃĞşÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ÃÁƒ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(şóûê
+Qsquid:S1854"=Remove this useless assignment to local variable "excelCell".(…ïˆ4
