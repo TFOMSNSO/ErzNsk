@@ -23,10 +23,16 @@ public class TaskMock implements Task {
 			taskOracle.deleteOldTask(statement, username);
 			String excelFile = username + ".xls";
 			long timeList0 = System.currentTimeMillis();
+			//записываем в коллекцию данные из рабочего эксель файла (Erznsk_all_the_rest/excel
 			ArrayList<ArrayList<String>> taskList = new ExcelTaskMock().taskCreate(excelFile);
+			System.out.println("taskList:");
+			for(ArrayList<String> x : taskList){
+				System.out.println(x);
+			}
 			long timeList1 = System.currentTimeMillis();
 			System.out.println("timeList - " + (timeList1 - timeList0));
 			// бежим по количеству строк
+			//вставляем данные в таблицу xml_task
 			long timeInsert0 = System.currentTimeMillis();
 			for (int i = 0; i < taskList.size(); i++)
 			{

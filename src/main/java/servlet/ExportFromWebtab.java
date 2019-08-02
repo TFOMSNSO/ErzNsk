@@ -277,8 +277,15 @@ private static final long serialVersionUID = 1L;
 					NUM_DOC_SECOND_LIST    = second_list.get(9).trim();
 					DATE_DOC_SECOND_LIST   = second_list.get(32).trim();
 					BORN_SECOND_LIST       = second_list.get(31).trim();
+
 					GOVER_SECOND_LIST      = parseGoverment(second_list.get(33).trim());
 					CODEDOC_SECOND_LIST    = second_list.get(17).trim();
+
+					if(CODEDOC_SECOND_LIST.equals("14") && GOVER_SECOND_LIST.equals("Б/Г")) {
+						GOVER_SECOND_LIST = "RUS";
+					}
+
+
 					KATEG_SECOND_LIST    = second_list.get(65).trim();
 					LINKSMO_SECOND_LIST    = second_list.get(11).trim();
 					
@@ -492,7 +499,13 @@ private static final long serialVersionUID = 1L;
 			 					 				// гражданство
 			 					 				f2m = (ArrayList<String>) listWeb1.get(0);
 			 					 				f2m.set(17, "GOVER");
-			 					 				f.set(17, parseGoverment(f2.get(33)	)	);
+			 					 				String gover_code = f2.get(33);
+			 					 				if( (gover_code.trim().trim().equals("0") || gover_code.trim().equals("") || gover_code.equals(" ")) && f2.get(17).trim().equals("14")){
+			 					 				    f.set(17,"RUS");
+                                                }else{
+                                                    f.set(17, parseGoverment(f2.get(33)));
+                                                }
+
 			 					 				 // код  основного документа
 			 					 				f2m = (ArrayList<String>) listWeb1.get(0);
 			 					 				f2m.set(18, "CODEDOC");
@@ -987,12 +1000,12 @@ private void chancheNUL(ArrayList<String> f)
  }
 	
  
- /**
-  * Метод делает проверку на одинаковый внешний ЕНП при одинаковом ГУИД
-  * Иначе, если при одинаковом ГУИД разные внешние ЕНП добавляем в коллекцию для дальнейшей работы (будем выдавать предупреждение по таким ГУИД).
- * @param listWeb3 - коллекция с ответом на ZP1
- * @return - Коллекцию с ЕНП которые не прошли проверку на одинаковый внешний ЕНП при одном ГУИД'е
- */
+     /**
+      * Метод делает проверку на одинаковый внешний ЕНП при одинаковом ГУИД
+      * Иначе, если при одинаковом ГУИД разные внешние ЕНП добавляем в коллекцию для дальнейшей работы (будем выдавать предупреждение по таким ГУИД).
+     * @param listWeb3 - коллекция с ответом на ZP1
+     * @return - Коллекцию с ЕНП которые не прошли проверку на одинаковый внешний ЕНП при одном ГУИД'е
+     */
  @SuppressWarnings("unchecked")
  private ArrayList<String> uniqueGUID(@SuppressWarnings("rawtypes") List listWeb3)
  {

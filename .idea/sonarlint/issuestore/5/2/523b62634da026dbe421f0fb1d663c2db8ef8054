@@ -1,13 +1,12 @@
 
-javascript:S3973T"WUse curly braces or indentation to denote the code conditionally executed by this "if".(±£İşÿÿÿÿ8Óˆ¹€½-
-Cjavascript:S1442ÿ" Remove this usage of alert(...).(²ìÚ8Óˆ¹€½-
-hjavascript:UnusedVariable"6Remove the declaration of the unused 'jqxhr' variable.(şş²ùÿÿÿÿ8Óˆ¹€½-
-cjavascript:UnusedVariableÇ"6Remove the declaration of the unused 'jqxhr' variable.(ßâ¸8Óˆ¹€½-
-Djavascript:S1442" Remove this usage of alert(...).(ûË²À8Óˆ¹€½-
-…javascript:S26926"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(‚çí„8Óˆ¹€½-
-kjavascript:S2814Ç"GRename "jqxhr" as this name is already used in declaration at line 142.(ßâ¸8Óˆ¹€½-
-Ijavascript:S1442÷" Remove this usage of alert(...).(³™Ûÿÿÿÿÿ8Óˆ¹€½-
-ajavascript:S1854"8Remove this useless assignment to local variable "jqxhr"(şş²ùÿÿÿÿ8Óˆ¹€½-
-ijavascript:S1126,"AReplace this if-then-else statement by a single return statement.(°ì®™ıÿÿÿÿ8Óˆ¹€½-
-Wjavascript:EmptyBlock´")Either remove or fill this block of code.(Úûººüÿÿÿÿ8Óˆ¹€½-
-\javascript:S1854Ç"8Remove this useless assignment to local variable "jqxhr"(ßâ¸8Óˆ¹€½-
+…javascript:S26926"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(‚çí„8ØÏçâÄ-
+Ijavascript:S1442ú" Remove this usage of alert(...).(³™Ûÿÿÿÿÿ8ØÏçâÄ-
+Cjavascript:S1442‚" Remove this usage of alert(...).(²ìÚ8ØÏçâÄ-
+Djavascript:S1442“" Remove this usage of alert(...).(ûË²À8ØÏçâÄ-
+kjavascript:S2814Ê"GRename "jqxhr" as this name is already used in declaration at line 145.(ßâ¸8ØÏçâÄ-
+ijavascript:S1126,"AReplace this if-then-else statement by a single return statement.(°ì®™ıÿÿÿÿ8ØÏçâÄ-
+Wjavascript:EmptyBlock·")Either remove or fill this block of code.(Úûººüÿÿÿÿ8ØÏçâÄ-
+hjavascript:UnusedVariable‘"6Remove the declaration of the unused 'jqxhr' variable.(şş²ùÿÿÿÿ8ØÏçâÄ-
+cjavascript:UnusedVariableÊ"6Remove the declaration of the unused 'jqxhr' variable.(ßâ¸8ØÏçâÄ-
+ajavascript:S1854‘"8Remove this useless assignment to local variable "jqxhr"(şş²ùÿÿÿÿ8ØÏçâÄ-
+\javascript:S1854Ê"8Remove this useless assignment to local variable "jqxhr"(ßâ¸8ØÏçâÄ-

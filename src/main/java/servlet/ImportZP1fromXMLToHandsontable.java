@@ -34,7 +34,6 @@ public class ImportZP1fromXMLToHandsontable extends HttpServlet {
 
 
   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-  	System.out.println("reeques:" + request);
 	  String json = null ;
 	  //ловим данные с webSocketAnswer.js
 	  String uprak2 = request.getParameter("uprak2");

@@ -1,12 +1,8 @@
 
-Ysquid:UselessImportCheck"1Remove this unused import 'oracle.ConnectOracle'.(öõÓn8‚•ãÜº-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8‚•ãÜº-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•ãÜº-
-Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‚•ãÜº-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•ãÜº-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(²Ú¸ùÿÿÿÿ8‚•ãÜº-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(º˜¦‘ıÿÿÿÿ8‚•ãÜº-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•ãÜº-
-_squid:UselessImportCheck"1Remove this unused import 'javax.sql.DataSource'.(ÉòÂ¿úÿÿÿÿ8‚•ãÜº-
+esquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8‚•ãÜº-
+asquid:UselessImportCheck"1Remove this unused import 'javax.sql.DataSource'.(ÉòÂ¿úÿÿÿÿ8‚•ãÜº-
+[squid:UselessImportCheck"1Remove this unused import 'oracle.ConnectOracle'.(öõÓn8‚•ãÜº-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•ãÜº-
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•ãÜº-
+Xsquid:S1141""5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8‚•ãÜº-
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚•ãÜº-

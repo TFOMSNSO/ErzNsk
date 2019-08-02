@@ -55,8 +55,8 @@ private static final long serialVersionUID = 1L;
       String json = "";
       if(br != null){ json = br.readLine(); }
       /*
-       * ��� ����������� ����������� �������� ��� �������� � ��������� � ������ ��������� ������������ ����������� ��������
-       * ���������� ��� ���
+       * ??? ??????????? ??????????? ???????? ??? ???????? ? ????????? ? ?????? ????????? ???????????? ??????????? ????????
+       * ?????????? ??? ???
        */
       String fg = URLEncoder.encode(json, "Cp1251");
       String fg2 = URLDecoder.decode(fg, "UTF-8");
@@ -102,39 +102,39 @@ private static final long serialVersionUID = 1L;
 			web.add((List<Object>) listWeb.getList1());
 			web.add((List<Object>) listWeb.getList2());
 			web.add((List<Object>) listWeb.getList3());
-			//System.out.println("����1 "+ listWeb.getList1());
-			//System.out.println("����2 "+ listWeb.getList2());
-			//System.out.println("����3 "+ listWeb.getList3());
+			//System.out.println("????1 "+ listWeb.getList1());
+			//System.out.println("????2 "+ listWeb.getList2());
+			//System.out.println("????3 "+ listWeb.getList3());
 			
 			
 		    for(int k = 0;k < quantityListForimportFromExcel; k++)
 		    {
 					HSSFSheet sheet = wb.getSheetAt(k);		
-					//System.out.println("�������� ���� "+ k);
+					//System.out.println("???????? ???? "+ k);
 					HSSFRow excelRow = null;
 					HSSFCell excelCell = null;
 					int rows = sheet.getPhysicalNumberOfRows();
 					
 					for(int i = 0; i < web.get(k).size() ; i++) 
 					{
-						//System.out.println("���� "+web.get(0).get(0));
+						//System.out.println("???? "+web.get(0).get(0));
 						excelRow = sheet.createRow(i);
 						excelRow = sheet.getRow(i);	
-						String perStroka[] = web.get(k).get(i).toString().replaceAll("\\?", "�").replaceAll("[^A-Za-z�-��-�0-9- -.-:-{-}-�-]", "").replaceAll("\\[", "").replaceAll("\\]", "").replace("null", "").trim().split(",");
+						String perStroka[] = web.get(k).get(i).toString().replaceAll("\\?", "?").replaceAll("[^A-Za-z?-??-?0-9- -.-:-{-}-?-]", "").replaceAll("\\[", "").replaceAll("\\]", "").replace("null", "").trim().split(",");
 						//String perStroka[] = web.get(k).get(i).toString().split(",");
 						for (int j = 0; j < perStroka.length; j++) 
 						{
 							
-						//	perStroka[j] = perStroka[j].replaceAll("\\?", "�").replaceAll("[^A-Za-z�-��-�0-9- -.-:-{-}-�-]", "").replaceAll("\\[", "").replaceAll("\\]", "").trim();
+						//	perStroka[j] = perStroka[j].replaceAll("\\?", "?").replaceAll("[^A-Za-z?-??-?0-9- -.-:-{-}-?-]", "").replaceAll("\\[", "").replaceAll("\\]", "").trim();
 							
 							System.out.println(j+ " "+perStroka[j]);
-							// �������� �������� ��������� /
-							if(perStroka[j].equalsIgnoreCase("��")){perStroka[j]= "�/�";}
+							// ???????? ???????? ????????? /
+							if(perStroka[j].equalsIgnoreCase("??")){perStroka[j]= "?/?";}
 							excelCell = excelRow.createCell(j);
 							excelCell = excelRow.getCell(j);
 							excelCell.setCellValue(perStroka[j]);
 							
-							// ���� ������ ���� � ��������� ������ � ��������� ������ � ������
+							// ???? ?????? ???? ? ????????? ?????? ? ????????? ?????? ? ??????
 							if(k == 0 && i ==  web.get(k).size()-1 && j == perStroka.length-1)
 							{
 								excelRow = sheet.createRow(i+1);

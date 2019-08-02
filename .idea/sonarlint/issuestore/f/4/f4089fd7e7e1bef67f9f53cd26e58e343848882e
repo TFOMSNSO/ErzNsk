@@ -1,176 +1,178 @@
 
-nsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(úØ˜ó8”Á·ñ¸-
-nsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(úØ˜ó8”Á·ñ¸-
-¦%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¡¡ûw8”Á·ñ¸-
-¬%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Çä—†ÿÿÿÿÿ8”Á·ñ¸-
-U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ã¸8”Á·ñ¸-
-Jsquid:S1659")Declare "second_list" on a separate line.(ÓÀûÒÿÿÿÿÿ8”Á·ñ¸-
-Isquid:S1659"(Declare "third_list" on a separate line.(ÓÀûÒÿÿÿÿÿ8”Á·ñ¸-
-Jsquid:S1659".Declare "ENPIN_THIRD_LIST" on a separate line.(ñØó8”Á·ñ¸-
-Psquid:S1659"/Declare "ENPOUT_FIRST_LIST" on a separate line.(ú›º­üÿÿÿÿ8”Á·ñ¸-
-Ksquid:S1659"/Declare "ENPOUT_THIRD_LIST" on a separate line.(é¤è•8”Á·ñ¸-
-Msquid:S1659",Declare "SMO_FIRST_LIST" on a separate line.(÷§¨¯ÿÿÿÿÿ8”Á·ñ¸-
-Msquid:S1659",Declare "SMO_THIRD_LIST" on a separate line.(ÍÌø°ıÿÿÿÿ8”Á·ñ¸-
-Msquid:S1659",Declare "D12_FIRST_LIST" on a separate line.(èéĞÛùÿÿÿÿ8”Á·ñ¸-
-Msquid:S1659",Declare "D12_THIRD_LIST" on a separate line.(‘åïµÿÿÿÿÿ8”Á·ñ¸-
-Hsquid:S1659",Declare "D13_FIRST_LIST" on a separate line.(…¬üÖ8”Á·ñ¸-
-Msquid:S1659",Declare "D13_THIRD_LIST" on a separate line.(æÄöµùÿÿÿÿ8”Á·ñ¸-
-Isquid:S1659".Declare "OKATO_FIRST_LIST" on a separate line.(ºım8”Á·ñ¸-
-Osquid:S1659".Declare "OKATO_THIRD_LIST" on a separate line.(ìÍáÉøÿÿÿÿ8”Á·ñ¸-
-Lsquid:S1659"0Declare "TYPEPOL_FIRST_LIST" on a separate line.(Èá³Ä8”Á·ñ¸-
-Qsquid:S1659"0Declare "TYPEPOL_THIRD_LIST" on a separate line.(ë¥øÿÿÿÿ8”Á·ñ¸-
-Hsquid:S1659",Declare "POL_FIRST_LIST" on a separate line.(ß¸Ñ¥8”Á·ñ¸-
-Hsquid:S1659",Declare "POL_THIRD_LIST" on a separate line.(‘§«¢8”Á·ñ¸-
-Isquid:S1659"-Declare "NNP__THIRD_LIST" on a separate line.(‰³Œ8”Á·ñ¸-
-Psquid:S1659"/Declare "ENPIN_SECOND_LIST" on a separate line.(êãÅÿşÿÿÿÿ8”Á·ñ¸-
-Msquid:S1659"1Declare "SURNAME_SECOND_LIST" on a separate line.(Î¤Ğ8”Á·ñ¸-
-Osquid:S1659"3Declare "FIRSTNAME_SECOND_LIST" on a separate line.(¸­à¦8”Á·ñ¸-
-Ssquid:S1659"2Declare "LASTNAME_SECOND_LIST" on a separate line.(“÷ó—úÿÿÿÿ8”Á·ñ¸-
-Ssquid:S1659"2Declare "PASS_DOC_SECOND_LIST" on a separate line.(ôıŠÎüÿÿÿÿ8”Á·ñ¸-
-Rsquid:S1659"1Declare "NUM_DOC_SECOND_LIST" on a separate line.(ß¨™›şÿÿÿÿ8”Á·ñ¸-
-Nsquid:S1659"2Declare "DATE_DOC_SECOND_LIST" on a separate line.(¨ ú8”Á·ñ¸-
-Jsquid:S1659".Declare "BORN_SECOND_LIST" on a separate line.(ÔäÍÙ8”Á·ñ¸-
-Ksquid:S1659"/Declare "GOVER_SECOND_LIST" on a separate line.(úÂªˆ8”Á·ñ¸-
-Msquid:S1659"1Declare "CODEDOC_SECOND_LIST" on a separate line.(Ä¥Šª8”Á·ñ¸-
-Psquid:S1659"/Declare "KATEG_SECOND_LIST" on a separate line.(ş¾ç‚üÿÿÿÿ8”Á·ñ¸-
-Lsquid:S1659"1Declare "LINKSMO_SECOND_LIST" on a separate line.(ˆè¥8”Á·ñ¸-
-Msquid:S1659",Declare "SEX_THRID_LIST" on a separate line.(üŸ§—ûÿÿÿÿ8”Á·ñ¸-
-Msquid:S1659"1Declare "BIRTHDAY_THRID_LIST" on a separate line.(Ä±¦ä8”Á·ñ¸-
-Isquid:S1659"-Declare "GUID_THRID_LIST" on a separate line.(øÏ§8”Á·ñ¸-
-Asquid:S1659" Declare "f2" on a separate line.(¦„Èìÿÿÿÿÿ8”Á·ñ¸-
-Bsquid:S1659"!Declare "f2m" on a separate line.(¦„Èìÿÿÿÿÿ8”Á·ñ¸-
-Msquid:S1659",Declare "frist_row_GUID" on a separate line.(¸Ê¤Şıÿÿÿÿ8”Á·ñ¸-
-Osquid:S1659".Declare "first_row_ENPOUT" on a separate line.(ìß®Üùÿÿÿÿ8”Á·ñ¸-
-Psquid:S1659"/Declare "second_row_ENPOUT" on a separate line.(ï­‹Ùüÿÿÿÿ8”Á·ñ¸-
-Isquid:S1659"-Declare "frist_row_ENPIN" on a separate line.(®æäÀ8”Á·ñ¸-
-Tsquid:S1197"8Move the array designator from the variable to the type.(…–šß8”Á·ñ¸-
-usquid:S1192"TDefine a constant instead of duplicating this literal "A08P02howINsmoPID29" 3 times.(Ù‡µ¤øÿÿÿÿ8”Á·ñ¸-
-bsquid:S1192"FDefine a constant instead of duplicating this literal "50000" 3 times.(ÌÉğñ8”Á·ñ¸-
-›squid:S1192"zDefine a constant instead of duplicating this literal "Ğ£ Ğ´Ğ°Ğ½Ğ½Ğ¾Ğ³Ğ¾ Ğ—Ğ› ÑƒĞ¶Ğµ Ğ¿Ñ€Ğ¾ÑÑ‚Ğ°Ğ²Ğ»ĞµĞ½Ğ° Ğ”Ğ¡" 3 times.(ß©¶ÿüÿÿÿÿ8”Á·ñ¸-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "PID29" 3 times.(ñê³¥üÿÿÿÿ8”Á·ñ¸-
-Ksquid:S1066"/Merge this if statement with the enclosing one.(Õš»Ö8”Á·ñ¸-
-wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Œºé¨8”Á·ñ¸-
-Isquid:S1989"-Add a "try/catch" block for "getInputStream".(ò™°è8”Á·ñ¸-
-Hsquid:S1989"'Add a "try/catch" block for "readLine".(ô£”ûÿÿÿÿ8”Á·ñ¸-
-Asquid:S1989"%Add a "try/catch" block for "encode".(’Ååî8”Á·ñ¸-
-Fsquid:S1989"%Add a "try/catch" block for "decode".(‡¡ùúÿÿÿÿ8”Á·ñ¸-
-Isquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÛÓşÿÿÿÿ8”Á·ñ¸-
-tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½‰¹8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÚ¹ñÿÿÿÿÿ8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÉ€×ÿÿÿÿÿ8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÉ€×ÿÿÿÿÿ8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ã€ùÿÿÿÿ8”Á·ñ¸-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8”Á·ñ¸-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ã€ùÿÿÿÿ8”Á·ñ¸-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8”Á·ñ¸-
-tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Œ¨V8”Á·ñ¸-
-isquid:S1871"HThis case's code block is the same as the block for the case on line 97.(¥íæšùÿÿÿÿ8”Á·ñ¸-
-dsquid:S1871"HThis case's code block is the same as the block for the case on line 97.(ß…üÁ8”Á·ñ¸-
-dsquid:S3986"HMake sure that Week Year "YYYY" is expected here instead of Year "yyyy".(½½Îù8”Á·ñ¸-
-ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó8”Á·ñ¸-
-hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ8”Á·ñ¸-
-ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó8”Á·ñ¸-
-hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰•¨êúÿÿÿÿ8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ–Ü°ıÿÿÿÿ8”Á·ñ¸-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï¶¸½8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹®§€øÿÿÿÿ8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æáäƒùÿÿÿÿ8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÉÌ—ÿÿÿÿÿ8”Á·ñ¸-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸¦­·8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Ù¯àÿÿÿÿÿ8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆîÇÉùÿÿÿÿ8”Á·ñ¸-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆîÇÉùÿÿÿÿ8”Á·ñ¸-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÌø°ıÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘åïµÿÿÿÿÿ8ïÉ Ä-
+usquid:S1192"TDefine a constant instead of duplicating this literal "A08P02howINsmoPID29" 3 times.(Ù‡µ¤øÿÿÿÿ8ïÉ Ä-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8ïÉ Ä-
+Hsquid:S1659",Declare "POL_THIRD_LIST" on a separate line.(‘§«¢8ïÉ Ä-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼8ïÉ Ä-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸¦­·8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨™›şÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¾ç‚üÿÿÿÿ8ïÉ Ä-
+Psquid:S1659"/Declare "ENPOUT_FIRST_LIST" on a separate line.(ú›º­üÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸­à¦8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰³Œ8ïÉ Ä-
+Psquid:S1659"/Declare "ENPIN_SECOND_LIST" on a separate line.(êãÅÿşÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìß®Üùÿÿÿÿ8ïÉ Ä-
+Isquid:S1659".Declare "OKATO_FIRST_LIST" on a separate line.(ºım8ïÉ Ä-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çä—†ÿÿÿÿÿ8ïÉ Ä-
+]squid:S1226"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó8ïÉ Ä-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ã¸8ïÉ Ä-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ïÉ Ä-
+Hsquid:S1481"'Remove this unused "st" local variable.(áÛÓşÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñØó8ïÉ Ä-
+Hsquid:S1989"'Add a "try/catch" block for "readLine".(ô£”ûÿÿÿÿ8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÉ€×ÿÿÿÿÿ8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÉ€×ÿÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“÷ó—úÿÿÿÿ8ïÉ Ä-
+`squid:UselessImportCheck"7Remove this unused import 'org.apache.tomcat.jni.Time'.(¤¬âÏ8ïÉ Ä-
+Jsquid:S1659".Declare "ENPIN_THIRD_LIST" on a separate line.(ñØó8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹êûÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¥øÿÿÿÿ8ïÉ Ä-
+€squid:UselessImportCheck"RRemove this unused import 'org.hibernate.loader.plan.build.spi.TreePrinterHelper'.(œüÉàûÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëç‚Ó8ïÉ Ä-
+]squid:S1226"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÚ¹ñÿÿÿÿÿ8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÛÓşÿÿÿÿ8ïÉ Ä-
+wsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ğÚ¹ñÿÿÿÿÿ8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ã€ùÿÿÿÿ8ïÉ Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(çŞº¦şÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹®§€øÿÿÿÿ8ïÉ Ä-
+Msquid:S1659"1Declare "BIRTHDAY_THRID_LIST" on a separate line.(Ä±¦ä8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¸Ñ¥8ïÉ Ä-
+dsquid:S1871"HThis case's code block is the same as the block for the case on line 97.(ß…üÁ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú›º­üÿÿÿÿ8ïÉ Ä-
+usquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFWorkbook'.(¾§—Œıÿÿÿÿ8ïÉ Ä-
+Ysquid:S1854"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ8ïÉ Ä-
+Psquid:S1659"/Declare "second_row_ENPOUT" on a separate line.(ï­‹Ùüÿÿÿÿ8ïÉ Ä-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ïÉ Ä-
+Jsquid:S1659")Declare "second_list" on a separate line.(ÓÀûÒÿÿÿÿÿ8ïÉ Ä-
+Ksquid:S1066"/Merge this if statement with the enclosing one.(Õš»Ö8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆîÇÉùÿÿÿÿ8ïÉ Ä-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 77 to the 15 allowed.(íøîåúÿÿÿÿ8ïÉ Ä-
+Psquid:S1659"/Declare "KATEG_SECOND_LIST" on a separate line.(ş¾ç‚üÿÿÿÿ8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Æáäƒùÿÿÿÿ8ïÉ Ä-
+qsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(½‰¹8ïÉ Ä-
+bsquid:S1192"FDefine a constant instead of duplicating this literal "50000" 3 times.(ÌÉğñ8ïÉ Ä-
+Ssquid:S1659"2Declare "LASTNAME_SECOND_LIST" on a separate line.(“÷ó—úÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÍáÉøÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï­‹Ùüÿÿÿÿ8ïÉ Ä-
+¬%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Çä—†ÿÿÿÿÿ8ïÉ Ä-
+Isquid:S1659"-Declare "GUID_THRID_LIST" on a separate line.(øÏ§8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ ú8ïÉ Ä-
+gsquid:S1192"FDefine a constant instead of duplicating this literal "PID29" 3 times.(ñê³¥üÿÿÿÿ8ïÉ Ä-
+Isquid:S1989"(Add a "try/catch" block for "readValue".(Ëææüÿÿÿÿ8ïÉ Ä-
+Hsquid:S1659",Declare "D13_FIRST_LIST" on a separate line.(…¬üÖ8ïÉ Ä-
+Nsquid:S1659"2Declare "DATE_DOC_SECOND_LIST" on a separate line.(¨ ú8ïÉ Ä-
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÉÌ—ÿÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¤Ğ8ïÉ Ä-
+[squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ïÉ Ä-
+zsquid:UselessImportCheck"LRemove this unused import 'org.apache.poi.poifs.filesystem.POIFSFileSystem'.(ù„üÿÿÿÿ8ïÉ Ä-
+Msquid:S1659",Declare "D12_THIRD_LIST" on a separate line.(‘åïµÿÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôıŠÎüÿÿÿÿ8ïÉ Ä-
+[squid:S1161":Add the "@Override" annotation above this method signature(½œ•Æşÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›´Â’ùÿÿÿÿ8ïÉ Ä-
+Msquid:S1659",Declare "D12_FIRST_LIST" on a separate line.(èéĞÛùÿÿÿÿ8ïÉ Ä-
+Isquid:S1989"-Add a "try/catch" block for "getInputStream".(ò™°è8ïÉ Ä-
+hsquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ8ïÉ Ä-
+Isquid:S1989"(Add a "try/catch" block for "readValue".(Ëææüÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èá³Ä8ïÉ Ä-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï¶¸½8ïÉ Ä-
+Msquid:S1172",Remove this unused method parameter "kluch".(íøîåúÿÿÿÿ8ïÉ Ä-
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¤è•8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔäÍÙ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÏ§8ïÉ Ä-
+Rsquid:S1659"1Declare "NUM_DOC_SECOND_LIST" on a separate line.(ß¨™›şÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èéĞÛùÿÿÿÿ8ïÉ Ä-
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä±¦ä8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êãÅÿşÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¥Šª8ïÉ Ä-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íøîåúÿÿÿÿ8ïÉ Ä-
+Hsquid:S1659",Declare "POL_FIRST_LIST" on a separate line.(ß¸Ñ¥8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀûÒÿÿÿÿÿ8ïÉ Ä-
+ksquid:UselessImportCheck"=Remove this unused import 'oracle.ConnectionPoolOracle_dawn'.(±«àŸøÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀûÒÿÿÿÿÿ8ïÉ Ä-
+Wsquid:S1854"6Remove this useless assignment to local variable "st".(áÛÓşÿÿÿÿ8ïÉ Ä-
+tsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 256 to the 15 allowed.(ï²ëƒùÿÿÿÿ8ïÉ Ä-
+Fsquid:S00108")Either remove or fill this block of code.(å¥‡8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®æäÀ8ïÉ Ä-
+nsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(úØ˜ó8ïÉ Ä-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½‰¹8ïÉ Ä-
+Isquid:S1659"-Declare "NNP__THIRD_LIST" on a separate line.(‰³Œ8ïÉ Ä-
+Ssquid:S1659"2Declare "PASS_DOC_SECOND_LIST" on a separate line.(ôıŠÎüÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÑ¿Ò8ïÉ Ä-
+›squid:S1192"zDefine a constant instead of duplicating this literal "Ğ£ Ğ´Ğ°Ğ½Ğ½Ğ¾Ğ³Ğ¾ Ğ—Ğ› ÑƒĞ¶Ğµ Ğ¿Ñ€Ğ¾ÑÑ‚Ğ°Ğ²Ğ»ĞµĞ½Ğ° Ğ”Ğ¡" 3 times.(ß©¶ÿüÿÿÿÿ8ïÉ Ä-
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Ù¯àÿÿÿÿÿ8ïÉ Ä-
+Msquid:S1659",Declare "SEX_THRID_LIST" on a separate line.(üŸ§—ûÿÿÿÿ8ïÉ Ä-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÈ…Öşÿÿÿÿ8ïÉ Ä-
+Zsquid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8ïÉ Ä-
+Lsquid:S1659"1Declare "LINKSMO_SECOND_LIST" on a separate line.(ˆè¥8ïÉ Ä-
+esquid:UselessImportCheck"<Remove this unused import 'org.apache.poi.ss.usermodel.Row'.(›Ü…8ïÉ Ä-
+isquid:S1871"HThis case's code block is the same as the block for the case on line 97.(¥íæšùÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ñ†Œøÿÿÿÿ8ïÉ Ä-
+ksquid:UselessImportCheck"BRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFRow'.(‹õ·¿8ïÉ Ä-
+msquid:UselessImportCheck"DRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFSheet'.(®…óŸ8ïÉ Ä-
+osquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 155 to the 15 allowed.(ëÒ¶ 8ïÉ Ä-
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ëÒ¶ 8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷§¨¯ÿÿÿÿÿ8ïÉ Ä-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Œ¨V8ïÉ Ä-
+Osquid:S1659".Declare "first_row_ENPOUT" on a separate line.(ìß®Üùÿÿÿÿ8ïÉ Ä-
+Osquid:S1659"3Declare "FIRSTNAME_SECOND_LIST" on a separate line.(¸­à¦8ïÉ Ä-
+Lsquid:S1659"0Declare "TYPEPOL_FIRST_LIST" on a separate line.(Èá³Ä8ïÉ Ä-
+Msquid:S1659"1Declare "SURNAME_SECOND_LIST" on a separate line.(Î¤Ğ8ïÉ Ä-
+¦%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¡¡ûw8ïÉ Ä-
+Msquid:S1659",Declare "D13_THIRD_LIST" on a separate line.(æÄöµùÿÿÿÿ8ïÉ Ä-
+Msquid:S1659"1Declare "CODEDOC_SECOND_LIST" on a separate line.(Ä¥Šª8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÄöµùÿÿÿÿ8ïÉ Ä-
+Ksquid:S1659"/Declare "ENPOUT_THIRD_LIST" on a separate line.(é¤è•8ïÉ Ä-
+Osquid:S1481".Remove this unused "variables" local variable.(ğÚ¹ñÿÿÿÿÿ8ïÉ Ä-
+Asquid:S1659" Declare "f2" on a separate line.(¦„Èìÿÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘§«¢8ïÉ Ä-
+^squid:S1854"=Remove this useless assignment to local variable "variables".(ğÚ¹ñÿÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀûÒÿÿÿÿÿ8ïÉ Ä-
+Msquid:S1659",Declare "frist_row_GUID" on a separate line.(¸Ê¤Şıÿÿÿÿ8ïÉ Ä-
+Msquid:S1659",Declare "SMO_FIRST_LIST" on a separate line.(÷§¨¯ÿÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¬üÖ8ïÉ Ä-
+Jsquid:S1659".Declare "BORN_SECOND_LIST" on a separate line.(ÔäÍÙ8ïÉ Ä-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³ã€ùÿÿÿÿ8ïÉ Ä-
+Fsquid:S1989"%Add a "try/catch" block for "decode".(‡¡ùúÿÿÿÿ8ïÉ Ä-
+Isquid:S1989"(Add a "try/catch" block for "readValue".(Ëææüÿÿÿÿ8ïÉ Ä-
+Qsquid:S1659"0Declare "TYPEPOL_THIRD_LIST" on a separate line.(ë¥øÿÿÿÿ8ïÉ Ä-
+Osquid:S1659".Declare "OKATO_THIRD_LIST" on a separate line.(ìÍáÉøÿÿÿÿ8ïÉ Ä-
+Asquid:S1989"%Add a "try/catch" block for "encode".(’Ååî8ïÉ Ä-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºım8ïÉ Ä-
+ksquid:UselessImportCheck"=Remove this unused import 'org.apache.poi.ss.usermodel.Cell'.(éÊˆüÿÿÿÿ8ïÉ Ä-
+nsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(úØ˜ó8ïÉ Ä-
+`squid:S1226"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ8ïÉ Ä-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÂªˆ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù­‰¦üÿÿÿÿ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ê¤Şıÿÿÿÿ8ïÉ Ä-
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(«ôÀı8”Á·ñ¸-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(çŞº¦şÿÿÿÿ8”Á·ñ¸-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÈ…Öşÿÿÿÿ8”Á·ñ¸-
-tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÊŸ‘8”Á·ñ¸-
-Xsquid:S2589"7Remove this expression which always evaluates to "true"(ô£”ûÿÿÿÿ8”Á·ñ¸-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8”Á·ñ¸-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8”Á·ñ¸-
-]squid:S1226"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó8”Á·ñ¸-
-`squid:S1226"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ8”Á·ñ¸-
-]squid:S1226"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó8”Á·ñ¸-
-`squid:S1226"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ8”Á·ñ¸-
-Hsquid:S1481"'Remove this unused "st" local variable.(áÛÓşÿÿÿÿ8”Á·ñ¸-
-Osquid:S1481".Remove this unused "variables" local variable.(ğÚ¹ñÿÿÿÿÿ8”Á·ñ¸-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(íøîåúÿÿÿÿ8”Á·ñ¸-
-osquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 144 to the 15 allowed.(ëÒ¶ 8”Á·ñ¸-
-tsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 256 to the 15 allowed.(ï²ëƒùÿÿÿÿ8”Á·ñ¸-
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íøîåúÿÿÿÿ8”Á·ñ¸-
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µñ·ºÿÿÿÿÿ8”Á·ñ¸-
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çä—†ÿÿÿÿÿ8”Á·ñ¸-
-Msquid:S1172",Remove this unused method parameter "kluch".(íøîåúÿÿÿÿ8”Á·ñ¸-
-^squid:S2259"BA "NullPointerException" could be thrown; "date" is nullable here.(ıë8”Á·ñ¸-
-Fsquid:S00108")Either remove or fill this block of code.(å¥‡8”Á·ñ¸-
-hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(íøîåúÿÿÿÿ8”Á·ñ¸-
-csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ëÒ¶ 8”Á·ñ¸-
-^squid:S1854"=Remove this useless assignment to local variable "variables".(ğÚ¹ñÿÿÿÿÿ8”Á·ñ¸-
-Wsquid:S1854"6Remove this useless assignment to local variable "st".(áÛÓşÿÿÿÿ8”Á·ñ¸-
-Ysquid:S1854"8Remove this useless assignment to local variable "date".(”Ç©šùÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀûÒÿÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀûÒÿÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀûÒÿÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›´Â’ùÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñØó8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú›º­üÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¤è•8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷§¨¯ÿÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÌø°ıÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èéĞÛùÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘åïµÿÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¬üÖ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÄöµùÿÿÿÿ8”Á·ñ¸-
-msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºım8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÍáÉøÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èá³Ä8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¥øÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¸Ñ¥8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘§«¢8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰³Œ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êãÅÿşÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¤Ğ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸­à¦8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“÷ó—úÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôıŠÎüÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¨™›şÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ ú8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔäÍÙ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÂªˆ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¥Šª8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¾ç‚üÿÿÿÿ8”Á·ñ¸-
-msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆè¥8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŸ§—ûÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä±¦ä8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÏ§8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÑ¿Ò8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‹êûÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù­‰¦üÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ñ†Œøÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ê¤Şıÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìß®Üùÿÿÿÿ8”Á·ñ¸-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï­‹Ùüÿÿÿÿ8”Á·ñ¸-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®æäÀ8”Á·ñ¸-
-hsquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ8”Á·ñ¸-
-ksquid:UselessImportCheck"=Remove this unused import 'oracle.ConnectionPoolOracle_dawn'.(±«àŸøÿÿÿÿ8”Á·ñ¸-
-lsquid:UselessImportCheck"CRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFCell'.(™Óšà8”Á·ñ¸-
-[squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8”Á·ñ¸-
-ksquid:UselessImportCheck"BRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFRow'.(‹õ·¿8”Á·ñ¸-
-`squid:UselessImportCheck"7Remove this unused import 'org.apache.tomcat.jni.Time'.(¤¬âÏ8”Á·ñ¸-
-Zsquid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8”Á·ñ¸-
-zsquid:UselessImportCheck"LRemove this unused import 'org.apache.poi.poifs.filesystem.POIFSFileSystem'.(ù„üÿÿÿÿ8”Á·ñ¸-
-msquid:UselessImportCheck"DRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFSheet'.(®…óŸ8”Á·ñ¸-
-ksquid:UselessImportCheck"=Remove this unused import 'org.apache.poi.ss.usermodel.Cell'.(éÊˆüÿÿÿÿ8”Á·ñ¸-
-€squid:UselessImportCheck"RRemove this unused import 'org.hibernate.loader.plan.build.spi.TreePrinterHelper'.(œüÉàûÿÿÿÿ8”Á·ñ¸-
-esquid:UselessImportCheck"<Remove this unused import 'org.apache.poi.ss.usermodel.Row'.(›Ü…8”Á·ñ¸-
-usquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFWorkbook'.(¾§—Œıÿÿÿÿ8”Á·ñ¸-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”Á·ñ¸-
-qsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(½‰¹8”Á·ñ¸-
-wsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ğÚ¹ñÿÿÿÿÿ8”Á·ñ¸-
-Vsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8”Á·ñ¸-
-[squid:S1161":Add the "@Override" annotation above this method signature(½œ•Æşÿÿÿÿ8”Á·ñ¸-
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ôÀı8ïÉ Ä-
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(ô£”ûÿÿÿÿ8ïÉ Ä-
+Bsquid:S1659"!Declare "f2m" on a separate line.(¦„Èìÿÿÿÿÿ8ïÉ Ä-
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÊŸ‘8ïÉ Ä-
+Ksquid:S1659"/Declare "GOVER_SECOND_LIST" on a separate line.(úÂªˆ8ïÉ Ä-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŸ§—ûÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ–Ü°ıÿÿÿÿ8ïÉ Ä-
+dsquid:S3986"HMake sure that Week Year "YYYY" is expected here instead of Year "yyyy".(½½Îù8ïÉ Ä-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰•¨êúÿÿÿÿ8ïÉ Ä-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆîÇÉùÿÿÿÿ8ïÉ Ä-
+msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆè¥8ïÉ Ä-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µñ·ºÿÿÿÿÿ8ïÉ Ä-
+lsquid:UselessImportCheck"CRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFCell'.(™Óšà8ïÉ Ä-
+Isquid:S1659"-Declare "frist_row_ENPIN" on a separate line.(®æäÀ8ïÉ Ä-
+Isquid:S1659"(Declare "third_list" on a separate line.(ÓÀûÒÿÿÿÿÿ8ïÉ Ä-
+`squid:S1226"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ8ïÉ Ä-
+Msquid:S1659",Declare "SMO_THIRD_LIST" on a separate line.(ÍÌø°ıÿÿÿÿ8ïÉ Ä-
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Œºé¨8ïÉ Ä-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8ïÉ Ä-
+Tsquid:S1197"8Move the array designator from the variable to the type.(…–šß8ïÉ Ä-

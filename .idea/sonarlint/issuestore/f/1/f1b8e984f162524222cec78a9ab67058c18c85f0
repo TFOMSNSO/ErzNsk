@@ -1,0 +1,15 @@
+
+=squid:S1989#"&Add a "try/catch" block for "forward".(Ÿ¶êﬂ
+=squid:S1989#"&Add a "try/catch" block for "forward".(Ÿ¶êﬂ
+=squid:S19893"&Add a "try/catch" block for "forward".(Ÿ¶êﬂ
+=squid:S19893"&Add a "try/catch" block for "forward".(Ÿ¶êﬂ
+@squid:S1989E"$Add a "try/catch" block for "write".(‚¿õ∆¯ˇˇˇˇ
+;squid:S1989F"$Add a "try/catch" block for "close".(÷¥å˛
+=squid:S1989H"&Add a "try/catch" block for "forward".(µÊÆΩ
+=squid:S1989H"&Add a "try/catch" block for "forward".(µÊÆΩ
+psquid:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê˙ï∏
+csquid:S2095+"GUse try-with-resources or close this "Statement" in a "finally" clause.(‰ÃÖãˇˇˇˇˇ
+^squid:S2095,"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(«ÒÅã
+Xsquid:S1854>"<Remove this useless assignment to local variable "excelRow".(ñàÈí˘ˇˇˇˇ
+Ssquid:S1854@"=Remove this useless assignment to local variable "excelCell".(ÖÔà4
+?squid:S11482"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ

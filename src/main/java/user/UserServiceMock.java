@@ -25,7 +25,6 @@ public class UserServiceMock implements UserService {
 		boolean accept = false;
 		Statement statement = null;
 		Connection conn = null;
-		System.out.println("jdbc");
 		try {
 			conn = ConnectionPoolOracle.getConnectionDataSource().getConnection();
 			statement = conn.createStatement();
@@ -75,7 +74,6 @@ public class UserServiceMock implements UserService {
         {
         	InetAddress addr = InetAddress.getLocalHost();
     		String hostname = addr.getHostName();
-    		System.out.println("Хост имя "+hostname);
     		request.getSession().setAttribute("usercomp", hostname);
     		request.getSession().setAttribute("username", request.getParameter("username"));
         }

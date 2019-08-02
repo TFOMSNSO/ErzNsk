@@ -80,8 +80,10 @@ private static final long serialVersionUID = 1L;
 	        // lastes date (limit) - 1 day
 	        res = stat.executeQuery("select max(t.d_insert) from goznak_csv t");
 	        while(res.next()) {datalimit =  res.getString(1);}
+	        System.out.println("dataLimit: " + datalimit);
 	       int r= Integer.valueOf(datalimit.substring(8, 10))-1;
-	       if(r == 0) r=30;
+			System.out.println("R:" + r);
+	        if(r == 0) r=30;
 	       String q =String.valueOf(r);
 	        datalimit = q+"."+datalimit.substring(5, 7)+"."+datalimit.substring(0, 4);
 	        
@@ -94,7 +96,7 @@ private static final long serialVersionUID = 1L;
 			
 			
 			while(res.next()) {l.add(res.getString(1));}
-	     
+	     	if(!l.isEmpty()) System.out.println("L.size:" + l.size() + "L(0):" + l.get(0));
 				
 			for(int i=0;i<l.size();i++)
 			{
@@ -116,7 +118,7 @@ private static final long serialVersionUID = 1L;
 	  	      ObjectMapper mapper = new ObjectMapper();
 	  	      // 3. Convert received JSON to Article
 	  	      ListWebForXMLQuery article = mapper.readValue(fg2, ListWebForXMLQuery.class);
-	  	     
+
 	  	      
 	  	      ArrayList<ArrayList<String>> tab = method(article,request,l);
 	  	      Map<String, ArrayList<ArrayList<String>>> ind = new LinkedHashMap<String, ArrayList<ArrayList<String>>>();

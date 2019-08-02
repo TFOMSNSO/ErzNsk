@@ -1,11 +1,15 @@
 
-T
-squid:S106!"9Replace this use of System.out or System.err by a logger.(­ôÑêùÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(”®Ëş
-^squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv
-T
-squid:S106+"9Replace this use of System.out or System.err by a logger.(¤»Ä›øÿÿÿÿ
-?squid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-£squid:S26810"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(â¹şÃùÿÿÿÿ
-nsquid:S3973."WUse curly braces or indentation to denote the code conditionally executed by this "if".(’şØ¸
+¡squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(â¹şÃùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ôÑêùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”®Ëş
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤»Ä›øÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úµ‰t8Ù»±ÂÂ-
+\squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv
+lsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(’şØ¸
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ñ²ÂÂ-

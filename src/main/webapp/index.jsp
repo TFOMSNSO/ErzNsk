@@ -555,7 +555,8 @@ $(document).ready(function()
  		        				         if('A08P02howINsmo' === ids){ var gouser = "zapros=A08P02howINsmo";	var myDatap02 = { list1:hotInstance.getData(0,0,e1-1,wd1-1), list2:hotInstance2.getData(0,0,e2-1,wd2-1), list3:hotInstance3.getData(0,0,e3-1,wd3-1), gouser	} }
  		        				         if('A08P02howINsmoPID29' === ids){ var gouser = "zapros=A08P02howINsmoPID29";	var myDatap02 = { list1:hotInstance.getData(0,0,e1-1,wd1-1), list2:hotInstance2.getData(0,0,e2-1,wd2-1), list3:hotInstance3.getData(0,0,e3-1,wd3-1), gouser	} }
  		        				         if('A08P02akaZP3' === ids){ var gouser = "zapros=A08P02akaZP3";	var myDatap02 = { list1:hotInstance.getData(0,0,e1-1,wd1-1), list2:hotInstance2.getData(0,0,e2-1,wd2-1), list3:hotInstance3.getData(0,0,e3-1,wd3-1), gouser	} }
- 		        				          
+
+ 		        				         console.log(JSON.stringify(myDatap02));
  		        				         
  		        				        $("#dim2").css("height", $(document).height());
 	        	        	     		$("#dim2").fadeIn();
@@ -988,7 +989,7 @@ $(document).ready(function()
 			        	        	     		   $("#dim3").fadeIn();
 			        	        	     		   spinner.spin($('#spinner_center2')[0]);
 			        	        	        	   ajax_cnt++;
-			        	        	        	   
+			        	        	        	   console.log("P04 data:" + JSON.stringify(myData));
 						        	        	   $.ajax({
 				        						        url: "TaskP04",
 				        						        type: 'POST',
@@ -1767,7 +1768,7 @@ $(document).ready(function()
 					<!-- МЕНЮ ДРУГИЕ ЗАПРОСЫ ФОМС !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 					<li class="dropdown"><a href="#" class="dropdown-toggle"
 						id="zapros2" data-toggle="dropdown"><i
-							class="fa fa-spinner faa-spin animated-hover"></i> Другие запросыs<span
+							class="fa fa-spinner faa-spin animated-hover"></i> Другие запросы<span
 							class="caret"></span></a>
 						<ul class="dropdown-menu" id="dr2" role="menu">
 							<li>

@@ -1,45 +1,44 @@
 
-usquid:S3776e"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ºƒÊüÿÿÿÿ8¿é½€½-
-[
-squid:S106>"9Replace this use of System.out or System.err by a logger.(…²‘•ûÿÿÿÿ8¿é½€½-
-isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ãÂı…8¿é½€½-
-wsquid:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜•“ä8¿é½€½-
-\
-squid:S106 "9Replace this use of System.out or System.err by a logger.(²Åú˜ÿÿÿÿÿ8Úğü…½-
-]squid:S1161$":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8¿é½€½-
-isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(İ›§ö8¿é½€½-
-V
-squid:S106D"9Replace this use of System.out or System.err by a logger.(­’ƒÙ8¿é½€½-
-V
-squid:S106@"9Replace this use of System.out or System.err by a logger.(ñ³ƒ8¿é½€½-
-Xsquid:S1161Q":Add the "@Override" annotation above this method signature(‹¨¯¿8¿é½€½-
-Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿é½€½-
-W
-squid:S106"9Replace this use of System.out or System.err by a logger.(¨®é›8›õ†½-
-V
-squid:S1061"9Replace this use of System.out or System.err by a logger.(“™šß8¿é½€½-
-[
-squid:S106g"9Replace this use of System.out or System.err by a logger.(¿òâÖüÿÿÿÿ8Øñø…½-
-[
-squid:S106%"9Replace this use of System.out or System.err by a logger.(Äí Ûıÿÿÿÿ8›÷æ€½-
-[
-squid:S106k"9Replace this use of System.out or System.err by a logger.(²Åú˜ÿÿÿÿÿ8›õ†½-
-W
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(’´ÇÂ8›õ†½-
-Ksquid:S1989L"(Add a "try/catch" block for "getWriter".(Î¹íìøÿÿÿÿ8¿é½€½-
-V
-squid:S106m"9Replace this use of System.out or System.err by a logger.(±×¸8›õ†½-
-\
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8ì®ª‡½-
-V
-squid:S106i"9Replace this use of System.out or System.err by a logger.(¨®é›8©Ãû…½-
-Usquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8¿é½€½-
-V
-squid:S106B"9Replace this use of System.out or System.err by a logger.(ü¿ ¿8¿é½€½-
-[
-squid:S106I"9Replace this use of System.out or System.err by a logger.(ÇÃáûÿÿÿÿ8¿é½€½-
-[
-squid:S106:"9Replace this use of System.out or System.err by a logger.(‡±áüÿÿÿÿ8Ûõ…½-
-W
-squid:S106¢"9Replace this use of System.out or System.err by a logger.(±×¸8Óµ€†½-
-Usquid:S1135R"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¿é½€½-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜•“ä8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±×¸8›õ†½-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ›§ö8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(­’ƒÙ8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ³ƒ8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(’´ÇÂ8›õ†½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“™šß8¿é½€½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(…²‘•ûÿÿÿÿ8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨®é›8©Ãû…½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü¿ ¿8¿é½€½-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ºƒÊüÿÿÿÿ8¿é½€½-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(Î¹íìøÿÿÿÿ8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±×¸8Óµ€†½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡±áüÿÿÿÿ8Ûõ…½-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãÂı…8¿é½€½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÃáûÿÿÿÿ8¿é½€½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿òâÖüÿÿÿÿ8Øñø…½-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¿é½€½-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨®é›8›õ†½-
+rsquid:S2259"QA "NullPointerException" could be thrown; "parsedatauprmessZP1" is nullable here.(µ€ûÿÿÿÿ8ÔÆâ¸Â-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8¿é½€½-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¿é½€½-
+[squid:S1161":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ8¿é½€½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(²Åú˜ÿÿÿÿÿ8›õ†½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(²Åú˜ÿÿÿÿÿ8Úğü…½-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8¿é½€½-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8ì®ª‡½-

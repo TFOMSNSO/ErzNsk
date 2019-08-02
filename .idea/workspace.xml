@@ -6,7 +6,580 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aff44a55-a1e5-44ce-849b-f828630e0563" name="Default" comment="" />
+    <list default="true" id="aff44a55-a1e5-44ce-849b-f828630e0563" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02506fc523a2ccfdef6ad452409c9749b7f4c011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cbbbb2b76aaba737cf8a8cf86f6faa53b8506fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fc237630526f0105067044ae5ad126a23c070a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/214eabd6d20058405b57f1404f99c0e42b77db66" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30062eacc57329765f3e4befc529bb436e8cfc07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33de3059641e5734743221b5012a8c469eb32310" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/3575e9126a381881995bbea7f7eaaa74f99a28ed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44d0499f4c5d5aed246b0110176f0d98ffd9b7b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4caf1d3dbca980cfa2003aff4837945aae550d33" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53f243f1794f1a6f7ea1f385c73a9a5450c11a43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58adc5dfb353a1f30e3337c4dc284023631b620b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/631cb0963dc1075446385f79040afc2de2b7e3ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7078b202cfee0087668f0c76e8fdd40ca914c8ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72b82389d24a314a65ea9d87506fe9d3efedc89c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73d1025acbe2349c5431911720152b6f0ee69853" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75db4c31707e336cef4ca285ba6484f4e90b344b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b24d044820801256e37e2c57dbbe2f48b2d4c3c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fe8c954f69d2b6fa4281dcd77a48f26694c48b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/8949813ce02b1f00c4c3a7996b9db1847855d2cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93231e8dd24ae236a6ab8167a49f6b8c8b96cb8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dd19a8e87682bca7932c5163eb0b66d5afd42ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a717dd34fcfb3b7642228939826b1414d4dda45f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb15acaa9c4637cba811c334240ff4a2900ae362" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bba7649bb2e996ba70b9b0cc0e32cbebd05fd525" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc5bb8c20fa71070a07bcc992a0db9c6dc7a535b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdb8d3feddbefbd7a131e5159d97e8d1fbb259d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d19481978f1dcd4774f8901f8ebd57b137596b30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4c5e300abd047dbfd1adb1b0091a5f44c099ec7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6da908b47dc6ab2a09282e69733b25180be1703" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef55820698116cd7e950b7de5f9adb57ceacd050" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f050237fd68b2d26aa9731411b2172fbfcdbc567" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1b8e984f162524222cec78a9ab67058c18c85f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f213e595f223d21e562ca5a4178d2c440667e385" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2754b57aa3c7cb659b025e1ddad916c4fec6cc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/model/message/MessageA08p16Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/answer/Answer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/answer/AnswerData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/answer/AnswerError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/answer/AnswerMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/answer/AnswerZp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/dao/impl/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/dao/impl/QueryAkaExcelfromPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/directories.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/excel/ExcelTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/excel/ExcelTaskMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/file/FileTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/file/FileTransferMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/file/TimeTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/file/TimeTaskImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/filter/EncofingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/filter/LogFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/help/Const.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/help/HostName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/help/RandomGUID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/help/UserUrl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/AppakLoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/AppakParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/AppakRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/ErrorLoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/ErrorParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/ErrorRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/Load.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/ZpLoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/ZpParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/ZpRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/Zu2LoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/Zu2Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/loadparse/Zu2Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA03p07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p03For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p03kol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p03pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08p16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA08v01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA13p09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA24p10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA24p102.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageA24p10com.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageCommon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageP26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageP27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageZp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageZp1Fiod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageZp1pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageZp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/message/MessageZp9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/CollectList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/Employees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ListWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ListWebForXMLQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ListWebForXMLQuery2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/RecordH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/Secondlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/WrapZP3Marshaling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ZP3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ZpLoadMock2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ZpParser2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/model/other/ZpRecord2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/AppakOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/ConnectOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/ConnectionPoolOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/ConnectionPoolOracle_dawn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/ErrorOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/TaskOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/UserOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/ZpOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle/Zu2Oracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/oracle_dawn.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/dao/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/dao/PersonDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/dao/PersonDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/domain/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/domain/PersonAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/main/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p03pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p03pr_anouthOkato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p03pr_newDr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p16chanchelastfioOnnew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA08p16emptyalllast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageA24p10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageZp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/messages/MessageZp1pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/parser/Zp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/parser/ZpLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/pylypiv/errorGZ/parser/ZpParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/services/Services.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/A08P08_process.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/DataService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/DelEmptyRowsFromWebExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/EditOutEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ExcelEditController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ExportFromWebtab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ExportToExcelFromEmdedTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ExportToExcelFromEmdedTableLARGE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/FileUploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/GenEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/HelpEditOutEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/HelpQueryFiod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/HelpQueryOutEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/Help_Import_Uprak2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ImportFromExcelToHandsontable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ImportUprak2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ImportZP1fromXMLToHandsontable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ImportZP3fromXMLToHandsontable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/List1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoadAppakController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoadCountRab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoadErrorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoadGoznakError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoadZpController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoadZu2Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/Logout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/MessageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/OutFileUploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ProcessErrorGZ$AutoThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ProcessErrorGZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ProgressBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/Refresh_Tab_errorGZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ReportErrorGZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/ServletA08P14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/Status18Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/TaskP02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/TaskP03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/TaskP04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/TestingServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/WsAnswer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/WsAnswer$SocketMess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/servlet/WsAnswer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/task/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/task/TaskMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/user/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/user/UserServiceMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/user/UserUrl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/ConstantiNastrojki.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/CryptoUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/FileTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/RandomGuid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/ResObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/UtilForErrorGz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/classes/util/UtilParseDbXml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/pages/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/pages/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/pages/sidebar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/pages/template.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/css/bootstrap-tagsinput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-300.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-500.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-500.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-700.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-700.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/fonts/roboto-v15-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/script/bootstrap-tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/script/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/assets/script/jquery-3.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/area.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/bar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/bubble.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/column.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/doughnut.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/line.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/pie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/scatter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/spline-area.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/spline.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/stacked-area.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/stacked-area100.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/stacked-bar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/stacked-bar100.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/stacked-column.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/stacked-column100.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/step-area.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart-types/step-line.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/chart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/font-awesome-animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/font-awesome/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/handsontable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/handsontable.full.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/css/stylesnow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/date-time.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/event-handling.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/export-chart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/log-axis.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/multi-series-chart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/multiple-y-axis.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/reverse-axis.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/striplines.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/zooming-panning.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/features/zp3_1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/forcelogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/create-chart-from-csv.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/create-chart-from-json.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/create-chart-from-xml.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/data-from-database.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/datapoints-from-user-input.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/enable-disable-ds.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/live-chart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/multiple-charts-in-a-page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/play-stop-live-chart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/how-to/sync-multiple-charts.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/dim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/logo2.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/logo2.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/polarlights.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/polarlightsOld.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/snow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/snow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/snow3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/image/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/fileUploadScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/handsontable.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/numeral.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/samples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/js/spin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/loginNY.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/loginWIn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/loglastseans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/readme.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/script/checkNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/script/checkNumberIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/script/checkNumberLogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/script/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/script/webSocketAnswer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/stylesnow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/successfull.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/un404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/unSuccessfull.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk-1.0-SNAPSHOT/unSuccessfullLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ErzNsk_1.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/answer/Answer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/answer/AnswerData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/answer/AnswerError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/answer/AnswerMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/answer/AnswerZp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/impl/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/impl/QueryAkaExcelfromPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/directories.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/excel/ExcelTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/excel/ExcelTaskMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/FileTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/FileTransferMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/TimeTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/file/TimeTaskImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/filter/EncofingFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/filter/LogFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/help/Const.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/help/HostName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/help/RandomGUID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/help/UserUrl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/AppakLoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/AppakParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/AppakRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/ErrorLoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/ErrorParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/ErrorRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/Load.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/ZpLoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/ZpParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/ZpRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/Zu2LoadMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/Zu2Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/loadparse/Zu2Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA03p07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p03For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p03kol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p03pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08p16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA08v01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA13p09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA24p10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA24p102.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageA24p10com.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageCommon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageP26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageP27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageZp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageZp1Fiod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageZp1pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageZp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/message/MessageZp9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/CollectList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/Employees.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ListWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ListWebForXMLQuery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ListWebForXMLQuery2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/RecordH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/Secondlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/WrapZP3Marshaling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ZP3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ZpLoadMock2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ZpParser2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/other/ZpRecord2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/AppakOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/ConnectOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/ConnectionPoolOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/ConnectionPoolOracle_dawn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/ErrorOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/TaskOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/UserOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/ZpOracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle/Zu2Oracle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/oracle_dawn.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/dao/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/dao/PersonDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/dao/PersonDAOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/domain/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/domain/PersonAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/main/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p03pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p03pr_anouthOkato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p03pr_newDr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p16chanchelastfioOnnew.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA08p16emptyalllast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageA24p10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageZp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/messages/MessageZp1pr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/parser/Zp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/parser/ZpLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pylypiv/errorGZ/parser/ZpParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/services/Services.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/A08P08_process.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/DataService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/DelEmptyRowsFromWebExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/EditOutEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ExcelEditController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ExportFromWebtab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ExportToExcelFromEmdedTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ExportToExcelFromEmdedTableLARGE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/FileUploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/GenEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/HelpEditOutEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/HelpQueryFiod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/HelpQueryOutEnp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/Help_Import_Uprak2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ImportFromExcelToHandsontable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ImportUprak2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ImportZP1fromXMLToHandsontable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ImportZP3fromXMLToHandsontable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/List1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoadAppakController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoadCountRab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoadErrorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoadGoznakError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoadZpController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoadZu2Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/Logout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/MessageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/OutFileUploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ProcessErrorGZ$AutoThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ProcessErrorGZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ProgressBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/Refresh_Tab_errorGZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ReportErrorGZ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/ServletA08P14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/Status18Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/TaskP02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/TaskP03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/TaskP04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/TestingServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/WsAnswer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/WsAnswer$SocketMess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servlet/WsAnswer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/task/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/task/TaskMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/user/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/user/UserServiceMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/user/UserUrl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/ConstantiNastrojki.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/CryptoUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/FileTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/RandomGuid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/ResObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/UtilForErrorGz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/UtilParseDbXml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-model.message.MessageA08p16Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/model.message.MessageA08p16Test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/model/message/MessageA08p16Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0264a9c705d92f6029f4b2eb33d119c06e12422b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0264a9c705d92f6029f4b2eb33d119c06e12422b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/055b5d0d022529b04f7d0529fb665d2ae4648cb7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/055b5d0d022529b04f7d0529fb665d2ae4648cb7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b15230efd11d7867e7141a86578be4e1916b2b3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b15230efd11d7867e7141a86578be4e1916b2b3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f8eee50284353f1e5b670d4c9d192ebbeeb9d2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f8eee50284353f1e5b670d4c9d192ebbeeb9d2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31626db2d6f0b4350ba6dbb2426cd944b47da6e6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31626db2d6f0b4350ba6dbb2426cd944b47da6e6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c4ca747d4fed7314c40fcb1ca125c0f23a05827" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c4ca747d4fed7314c40fcb1ca125c0f23a05827" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40431f7ef531c0675ac6e8efc4e83d4b00f42325" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40431f7ef531c0675ac6e8efc4e83d4b00f42325" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4601b97c4e8d176da26232b40c41b46d92ab62eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4601b97c4e8d176da26232b40c41b46d92ab62eb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47566c3b9654576a45fe4342c7784a24a1c2fa59" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/47566c3b9654576a45fe4342c7784a24a1c2fa59" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523b62634da026dbe421f0fb1d663c2db8ef8054" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523b62634da026dbe421f0fb1d663c2db8ef8054" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/5316947321cb54fbf62589e20b3427e367bae6f3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/5316947321cb54fbf62589e20b3427e367bae6f3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61fd39239759101213ace30a6d7e798e4333349c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61fd39239759101213ace30a6d7e798e4333349c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64d6364f35d79977f351b832efdeaa0b7e2b3c96" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64d6364f35d79977f351b832efdeaa0b7e2b3c96" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6dc94bbd75a3d600d62962fd4fb7282d27d43e74" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6dc94bbd75a3d600d62962fd4fb7282d27d43e74" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c569a874ebe897c7a5ce53c2c77d2c96e86e382" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c569a874ebe897c7a5ce53c2c77d2c96e86e382" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fc815f4352184e1021035fa4b57ba97c5c80fbb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fc815f4352184e1021035fa4b57ba97c5c80fbb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88e7e61a3d623d13973adbf6a70f9772a37ab2bf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88e7e61a3d623d13973adbf6a70f9772a37ab2bf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98cff1744260ace1111943114cdcfcaa7bc60a46" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98cff1744260ace1111943114cdcfcaa7bc60a46" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b02295ee0b64968ad2a3f9c817d7352360f684fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b02295ee0b64968ad2a3f9c817d7352360f684fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbf62f9c7b0063b865a6651ff6a36f426de17e5e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbf62f9c7b0063b865a6651ff6a36f426de17e5e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bccb784710d8fbd6320fc2d835438e1c7aceae15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bccb784710d8fbd6320fc2d835438e1c7aceae15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c65fa89d744506762aaa44196d41770adeeb842e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c65fa89d744506762aaa44196d41770adeeb842e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c96a05b71da82986358c20cd1be44fd678aa63a1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c96a05b71da82986358c20cd1be44fd678aa63a1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd307dd07f506338a47ced73d4746e9434bec370" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd307dd07f506338a47ced73d4746e9434bec370" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d82c84b6c55ab897677c19cfd7f0cabc7d010f51" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d82c84b6c55ab897677c19cfd7f0cabc7d010f51" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d85e091ffb56c0c7dd6e7a390847f554f3ce2068" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d85e091ffb56c0c7dd6e7a390847f554f3ce2068" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0ea48e4402a35821008d96422f6fd7a3b4ebe11" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0ea48e4402a35821008d96422f6fd7a3b4ebe11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f3757848f2408f757c56e70ec625d4f5c57410" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f3757848f2408f757c56e70ec625d4f5c57410" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4089fd7e7e1bef67f9f53cd26e58e343848882e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f4089fd7e7e1bef67f9f53cd26e58e343848882e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f61bbe8d112b867af71d207bf6ec729918a04f9b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f61bbe8d112b867af71d207bf6ec729918a04f9b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/excel/ExcelTaskMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/excel/ExcelTaskMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/message/MessageA08p16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/message/MessageA08p16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/message/MessageA24p102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/message/MessageA24p102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/message/MessageZp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/message/MessageZp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/ExportFromWebtab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/ExportFromWebtab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTableLARGE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTableLARGE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/ImportZP1fromXMLToHandsontable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/ImportZP1fromXMLToHandsontable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/TaskP04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/TaskP04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task/TaskMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/TaskMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/user/UserServiceMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/user/UserServiceMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,55 +589,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ZpParser2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/other/ZpParser2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-              <folding>
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webSocketAnswer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImportZP1fromXMLToHandsontable.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ImportZP1fromXMLToHandsontable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="164" column="30" selection-start-line="164" selection-start-column="30" selection-end-line="164" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZpLoadMock2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/other/ZpLoadMock2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WsAnswer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5780">
-              <caret line="403" selection-start-line="403" selection-end-line="403" />
+            <state relative-caret-position="748">
+              <caret line="489" column="22" lean-forward="true" selection-start-line="489" selection-start-column="22" selection-end-line="489" selection-end-column="22" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#2923#2924#0" expanded="true" />
                 <element signature="e#2953#2954#0" expanded="true" />
               </folding>
@@ -72,84 +618,116 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="111" column="45" lean-forward="true" selection-start-line="111" selection-start-column="45" selection-end-line="111" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EncofingFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/filter/EncofingFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UtilParseDbXml.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/UtilParseDbXml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="195" column="16" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webSocketAnswer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MessageCommon.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18887">
-              <caret line="1145" column="41" selection-start-line="1145" selection-start-column="41" selection-end-line="1145" selection-end-column="41" />
+            <state relative-caret-position="19737">
+              <caret line="1195" column="75" selection-start-line="1195" selection-start-column="75" selection-end-line="1195" selection-end-column="75" />
               <folding>
                 <element signature="e#2714#2715#0" expanded="true" />
                 <element signature="e#2735#2736#0" expanded="true" />
+                <element signature="e#9890#9891#0" expanded="true" />
+                <element signature="e#9919#9920#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UtilParseDbXml.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/UtilParseDbXml.java">
+      <file leaf-file-name="MessageZp1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
+            <state relative-caret-position="1224">
+              <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Secondlist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/other/Secondlist.java">
+      <file leaf-file-name="Services.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/Services.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/model/other/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>prepareData</find>
-      <find>flagOtladkiXML</find>
-      <find>&quot;modalZP1</find>
-      <find>tamessage</find>
-      <find>zp1ajax</find>
-      <find>postToServerOtladkaXMLNO</find>
-      <find>chechboxotladka</find>
-      <find>myoutbound</find>
-      <find>initusername</find>
-      <find>parseEnterMesForZP1</find>
-      <find>methozp1</find>
-      <find>zp1</find>
-      <find>webSocket</find>
-      <find>Consta</find>
-      <find>uprmes</find>
-      <find>IOException</find>
-      <find>Zp1ajax</find>
-      <find>guidBhs</find>
-      <find>count</find>
-      <find>onme</find>
-      <find>onmessage</find>
-      <find>methoZp1</find>
-      <find>datauprmessZP</find>
-      <find>System.out</find>
-      <find>upra</find>
-      <find>uprak1</find>
-      <find>cha</find>
-      <find>pid7</find>
       <find>create</find>
-      <find>size</find>
+      <find>messageforallquery</find>
+      <find>task =</find>
+      <find>getData</find>
+      <find>Zp1</find>
+      <find>btnexport</find>
+      <find>KATEG</find>
+      <find>бд</find>
+      <find>A08P03</find>
+      <find>uprmes</find>
+      <find>hiber</find>
+      <find>ПУТЬ</find>
+      <find>CWE</find>
+      <find>datauprmessZP</find>
+      <find>parseG</find>
+      <find>delrows</find>
+      <find>zaprosWebExcel</find>
+      <find>tt</find>
+      <find>Другие запросы</find>
+      <find>a08p02</find>
+      <find>taskP04</find>
+      <find>итог</find>
+      <find>@@@</find>
+      <find>A08P02</find>
+      <find>A08P02test</find>
+      <find>вторая часть</find>
+      <find>вторая</find>
+      <find>гуид</find>
+      <find>первая</find>
+      <find>ZP1AJAX</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,26 +741,36 @@
         <option value="$PROJECT_DIR$/src/main/java/servlet/GenEnp.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/filter/LogFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="C:/Program Files/Apache Software Foundation/Tomcat 9.0_Tomcat91/webapps/manager/WEB-INF/web.xml" />
         <option value="C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat77/conf/tomcat-users.xml" />
         <option value="C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat77/webapps/manager/WEB-INF/web.xml" />
         <option value="C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat77/conf/server.xml" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/LoginController.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/TestingServlet.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/oracle/ConnectionPoolOracle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/user/UserServiceMock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/oracle/TaskOracle.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js" />
         <option value="$PROJECT_DIR$/src/main/java/model/other/ZpRecord2.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/other/ZpLoadMock2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/UtilParseDbXml.java" />
-        <option value="$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/other/ZpParser2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/task/TaskMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/excel/ExcelTaskMock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/model/message/MessageA08p16Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/oracle/TaskOracle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/message/MessageZp1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/message/MessageA08p16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/message/MessageA24p102.java" />
+        <option value="$PROJECT_DIR$/src/main/java/user/UserServiceMock.java" />
         <option value="$PROJECT_DIR$/src/main/java/servlet/ImportZP1fromXMLToHandsontable.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/TaskP04.java" />
+        <option value="C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat71/conf/tomcat-users.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/ExportFromWebtab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTableLARGE.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -213,11 +801,6 @@
           <item name="ErzNsk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ErzNsk" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
       </expand>
       <select />
     </treeState>
@@ -240,7 +823,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,27 +830,66 @@
               <item name="ErzNsk" type="b2602c69:ProjectViewProjectNode" />
               <item name="TfomsErzNsk" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ErzNsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TfomsErzNsk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErzNsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TfomsErzNsk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErzNsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TfomsErzNsk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErzNsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TfomsErzNsk" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Users/esa/Desktop/lib/javax.servlet.jar!/javax/servlet/Filter.class&#10;output&#9;PSI&#9;JAVA://help.Const#OUTPUTDONE&#10;uprmes&#9;null&#9;null&#10;WebSocket&#9;PSI&#9;JAVA://org.eclipse.jetty.websocket.api.annotations.WebSocket&#10;searchInDirectory&#9;null&#9;null&#10;loadGoznakError&#9;PSI&#9;JAVA://servlet.LoadGoznakError&#10;Report&#9;PSI&#9;JAVA://servlet.ReportErrorGZ" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/ErzAutoProcessingda" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49310344" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model.message" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\esa\TfomsErzNsk\src\main\resources" />
     </key>
@@ -288,6 +909,52 @@
   <component name="RunManager" selected="Tomcat Server.tm7">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MessageA08p16Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TfomsErzNsk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="model.message" />
+      <option name="MAIN_CLASS_NAME" value="model.message.MessageA08p16Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MessageA08p16Test.getNewCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TfomsErzNsk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="model.message" />
+      <option name="MAIN_CLASS_NAME" value="model.message.MessageA08p16Test" />
+      <option name="METHOD_NAME" value="getNewCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -471,7 +1138,15 @@
     <list>
       <item itemvalue="Tomcat Server.tm7" />
       <item itemvalue="Tomcat Server.tm9" />
+      <item itemvalue="JUnit.MessageA08p16Test" />
+      <item itemvalue="JUnit.MessageA08p16Test.getNewCategory" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessageA08p16Test.getNewCategory" />
+        <item itemvalue="JUnit.MessageA08p16Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -493,50 +1168,91 @@
       <workItem from="1562551922210" duration="22179000" />
       <workItem from="1562638155138" duration="2612000" />
       <workItem from="1562727114322" duration="68000" />
-      <workItem from="1563182259765" duration="1085000" />
+      <workItem from="1563182259765" duration="1451000" />
+      <workItem from="1563943111488" duration="3492000" />
+      <workItem from="1564023989536" duration="22719000" />
+      <workItem from="1564106419152" duration="22339000" />
+      <workItem from="1564365772963" duration="25301000" />
+      <workItem from="1564452233567" duration="16111000" />
+      <workItem from="1564538385136" duration="1554000" />
+      <workItem from="1564643449341" duration="7709000" />
+      <workItem from="1564711519242" duration="3635000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 09m 35s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 11m 34s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 12m 28s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 12m 44s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 15m 11s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 15m 37s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 15m 58s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 20m 01s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 10h 20m 18s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageA08p16Test_getNewCategory - 2019.07.26 at 11h 11m 05s.xml">
+      <configuration name="MessageA08p16Test.getNewCategory" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134344000" />
+    <option name="totallyTimeSpent" value="237570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.24047878" />
-      <window_info anchor="right" id="Maven Projects" order="11" visible="true" weight="0.12686567" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="10" weight="0.24047878" />
+      <window_info anchor="right" id="Maven Projects" order="11" visible="true" weight="0.13006397" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="right" id="CDI" order="9" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" weight="0.16044776" />
+      <window_info id="Structure" order="1" sideWeight="0.43524417" side_tool="true" weight="0.16897655" />
       <window_info anchor="right" id="JSF" order="8" weight="0.32995737" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39934713" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2546246" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3297062" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3297062" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3373232" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297062" />
-      <window_info id="Persistence" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7889273" visible="true" weight="0.1748401" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.31120783" />
+      <window_info anchor="bottom" id="Run" order="14" weight="0.36126223" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3297062" />
+      <window_info id="Persistence" order="2" sideWeight="0.5157767" side_tool="true" weight="0.1673774" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5659574" visible="true" weight="0.23987207" />
       <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info id="Web" order="7" sideWeight="0.21107267" side_tool="true" weight="0.16364606" />
-      <window_info anchor="bottom" id="SonarLint" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3297062" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
     </layout>
@@ -549,35 +1265,353 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat77/webapps/manager/WEB-INF/web.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/7.0.52/tomcat-catalina-7.0.52-sources.jar!/org/apache/catalina/websocket/MessageInbound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="67" column="51" lean-forward="true" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TaskP03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TaskP02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="63" column="121" selection-start-line="63" selection-start-column="115" selection-end-line="63" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat71/conf/tomcat-users.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="38" column="75" lean-forward="true" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TaskP04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="1001" column="63" selection-start-line="1001" selection-start-column="63" selection-end-line="1001" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="57" column="56" lean-forward="true" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1454">
+          <caret line="101" column="78" selection-start-line="101" selection-start-column="78" selection-end-line="101" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/ListWebForXMLQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/model/message/MessageA08p16Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ImportZP1fromXMLToHandsontable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTableLARGE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="118" column="48" selection-start-line="118" selection-start-column="48" selection-end-line="118" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ExportToExcelFromEmdedTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Apache Software Foundation/Tomcat 7.0_Tomcat77/conf/server.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ExportFromWebtab.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="64" column="55" lean-forward="true" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+        <state relative-caret-position="629">
+          <caret line="84" column="44" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/spin.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/DelEmptyRowsFromWebExcel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="198">
+          <caret line="168" column="62" selection-start-line="168" selection-start-column="62" selection-end-line="168" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/UserOracle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/TaskOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="98" column="32" lean-forward="true" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp1Fiod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp1pr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="185" column="70" selection-start-line="185" selection-start-column="70" selection-end-line="185" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageP27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageP26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA24p102.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA24p10com.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA24p10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="77" lean-forward="true" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA13p09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08v01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p03pr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p03kol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="225" column="22" selection-start-line="225" selection-start-column="22" selection-end-line="225" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p03For.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="69" column="51" selection-start-line="69" selection-start-column="51" selection-end-line="69" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA08p01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageA03p07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="39" column="87" selection-start-line="39" selection-start-column="87" selection-end-line="39" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="75" column="12" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/Services.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19737">
+          <caret line="1195" column="75" selection-start-line="1195" selection-start-column="75" selection-end-line="1195" selection-end-column="75" />
+          <folding>
+            <element signature="e#2714#2715#0" expanded="true" />
+            <element signature="e#2735#2736#0" expanded="true" />
+            <element signature="e#9890#9891#0" expanded="true" />
+            <element signature="e#9919#9920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="489" column="22" lean-forward="true" selection-start-line="489" selection-start-column="22" selection-end-line="489" selection-end-column="22" />
+          <folding>
+            <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2953#2954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="111" column="45" lean-forward="true" selection-start-line="111" selection-start-column="45" selection-end-line="111" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TestingServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="44" column="39" lean-forward="true" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -588,345 +1622,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/help/Const.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/lib/javax.servlet.jar!/javax/servlet/FilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/filter/EncofingFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="352" selection-start-line="352" selection-end-line="352" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/lib/javax.servlet.jar!/javax/servlet/Filter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Apache Software Foundation/Tomcat 9.0_Tomcat91/conf/server.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2269">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="1148" selection-start-line="1148" selection-end-line="1148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Java/Tomcat 7.0/conf/server.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1093">
-          <caret line="70" column="47" lean-forward="true" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/TestingServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/user/UserServiceMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/ConnectionPoolOracle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="61" column="45" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/ConnectOracle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/help/RandomGUID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-256">
-          <caret line="93" column="13" selection-start-line="93" selection-start-column="13" selection-end-line="93" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/ErzAutoProcessing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/oracle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/sql/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/task/TaskMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oracle/TaskOracle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="158" column="81" selection-start-line="158" selection-start-column="81" selection-end-line="158" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30039">
-          <caret line="1767" column="76" selection-start-line="1767" selection-start-column="76" selection-end-line="1767" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ImportUprak2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1707">
-          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/org/xml/sax/helpers/DefaultHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="340" column="37" selection-start-line="340" selection-start-column="37" selection-end-line="340" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="31" column="89" selection-start-line="31" selection-start-column="89" selection-end-line="31" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/Employees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/CollectList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/file/FileTransferMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Desktop/lib/jdom-2.0.4.jar!/org/jdom2/Element.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3813">
-          <caret line="368" column="19" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageZp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/ZpRecord2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="209" column="28" lean-forward="true" selection-start-line="209" selection-start-column="28" selection-end-line="209" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/Secondlist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/handsontable.full.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="4661" column="9" lean-forward="true" selection-start-line="4661" selection-start-column="9" selection-end-line="4661" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/script/webSocketAnswer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/message/MessageCommon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18887">
-          <caret line="1145" column="41" selection-start-line="1145" selection-start-column="41" selection-end-line="1145" selection-end-column="41" />
-          <folding>
-            <element signature="e#2714#2715#0" expanded="true" />
-            <element signature="e#2735#2736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/ZpParser2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-          <folding>
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/WsAnswer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5780">
-          <caret line="403" selection-start-line="403" selection-end-line="403" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2923#2924#0" expanded="true" />
-            <element signature="e#2953#2954#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/UtilParseDbXml.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/model/other/ZpLoadMock2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="431" column="13" selection-start-line="431" selection-start-column="13" selection-end-line="431" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="262" column="18" lean-forward="true" selection-start-line="262" selection-start-column="18" selection-end-line="262" selection-end-column="18" />
-          <folding>
-            <element signature="e#7343#7349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/ImportZP1fromXMLToHandsontable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="164" column="30" selection-start-line="164" selection-start-column="30" selection-end-line="164" selection-end-column="30" />
+        <state relative-caret-position="17">
+          <caret line="195" column="16" selection-start-line="195" selection-start-column="16" selection-end-line="195" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -997,7 +1703,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1008,5 +1714,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

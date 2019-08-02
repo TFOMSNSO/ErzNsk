@@ -98,7 +98,7 @@ public abstract class MessageCommon implements Message {
 		rootElement.addNamespaceDeclaration(namespaceRtc);
 		rootElement.addNamespaceDeclaration(namespaceXsd);
 		Document doc = new Document(rootElement);
-		
+
 		Element bhs = new Element("BHS", namespace);
 		rootElement.addContent(bhs);
 		bhs.addContent(new Element("BHS.1", namespace).addContent("|"));
@@ -130,7 +130,7 @@ public abstract class MessageCommon implements Message {
 		
 		long timeGiud0 = System.currentTimeMillis();
 		
-
+		
 		rememberGuid();
 		long timeGiud1 = System.currentTimeMillis();
 		System.out.println("timeGiud - " + (timeGiud1 - timeGiud0));
@@ -314,13 +314,18 @@ public abstract class MessageCommon implements Message {
 		//pid3_1.addContent(new Element("CX.5", namespace).addContent("9"));
 		pid3_1.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 		pid3_1.addContent(new Element("CX.8", namespace).addContent(dataList.get(i).get(D2)));
-		
-		
+
+
 		if (dataList.get(i).get(PERSON_DOCPERSONID).equals("9")) {
 			Element pid3_2 = new Element("PID.3", namespace);
 			pid.addContent(pid3_2);
 			pid3_2.addContent(new Element("CX.1", namespace).addContent((("".equals(seria) || seria == null) ? "" : seria + " № ") + dataList.get(i).get(PERSON_NUMDOC)));
-			pid3_2.addContent(new Element("CX.5", namespace).addContent("23"));
+			if (!dataList.get(i).get(RUSSIAN).equals("RUS")) {
+				String kateg = dataList.get(i).get(dataList.get(0).get(0).equals("PERSON_SERDOC") ? 69 : 21).trim();
+				pid3_2.addContent(new Element("CX.5", namespace).addContent(kateg.equals("11") ? "29" : "23"));
+			} else {
+				pid3_2.addContent(new Element("CX.5", namespace).addContent("23"));
+			}
 			pid3_2.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 			pid3_2.addContent(new Element("CX.8", namespace).addContent(dataList.get(i).get(D2)));
 		}
@@ -329,8 +334,12 @@ public abstract class MessageCommon implements Message {
 			Element pid3_5 = new Element("PID.3", namespace);
 			pid.addContent(pid3_5);
 			pid3_5.addContent(new Element("CX.1", namespace).addContent((("".equals(seria) || seria == null) ? "" : seria + " № ") + dataList.get(i).get(PERSON_NUMDOC)));
-			if(dataList.get(i).get(KATEG).equals("11")){}////////////////////////////
-			pid3_5.addContent(new Element("CX.5", namespace).addContent("23"));
+			if (!dataList.get(i).get(RUSSIAN).equals("RUS")) {
+				String kateg = dataList.get(i).get(dataList.get(0).get(0).equals("PERSON_SERDOC") ? 69 : 21).trim();
+				pid3_5.addContent(new Element("CX.5", namespace).addContent(kateg.equals("11") ? "29" : "23"));
+			} else {
+				pid3_5.addContent(new Element("CX.5", namespace).addContent("23"));
+			}
 			String d2 = dataList.get(i).get(D2);
 			String d2minus3year ="";
 			if(!d2.equals("")) {	d2minus3year = String.valueOf(Integer.parseInt(d2.substring(0, 4)) - 3) + d2.substring(4);}
@@ -389,7 +398,7 @@ public abstract class MessageCommon implements Message {
 		 **/
 		
 		KATEG = dataList.get(0).get(0).equals("PERSON_SERDOC") ? 69 : 21;
-		
+		System.out.println("KATEG:" + KATEG);
 		if(! dataList.get(i).get(RUSSIAN).equals("RUS")){
 			if(dataList.get(i).get(KATEG).equals("5") || dataList.get(i).get(KATEG).equals("10")){
 				Element pid26_2 = new Element("PID.26", namespace);
@@ -450,7 +459,7 @@ public abstract class MessageCommon implements Message {
 	
 	@Override
 	public boolean create(String userMachine,ArrayList<ArrayList<String>> listList1,String kluch) {
-	
+		System.out.println("create(usermachine,list,kluch)");
 		if(kluch.equals("list1enpzp9"))
 		{
 			prepareDataQukly2(userMachine,listList1.toString());
@@ -475,11 +484,10 @@ public abstract class MessageCommon implements Message {
 						
 					}
 					else {
-					prepareData(userMachine,listList1);
+						prepareData(userMachine,listList1);
 					}
 				}
 			}
-
 		}
 		
 		int count = dataList.size(); if(count == 0)	count = 1;
@@ -555,7 +563,7 @@ public abstract class MessageCommon implements Message {
 						count = count - 1;
 					}
 					else {
-					createMiddle(count, namespace, rootElement, curDate,true);
+						createMiddle(count, namespace, rootElement, curDate,true);
 					}
 				}
 			}
@@ -1123,7 +1131,7 @@ public abstract class MessageCommon implements Message {
 	
  public boolean prepareDataQukly(String userMachine,String stList) 
  {
- 	//System.out.println("prepareDataQukly("+userMachine+","+stList+")");
+ 	System.out.println("prepareDataQukly("+userMachine+","+stList+")");
     // очищаем старую коллекцию со старым содержимым зп1
 	dataList.clear();
 	// преобразуем вошедшую строку в коллекцию. Это данные с листа1 (енп) 

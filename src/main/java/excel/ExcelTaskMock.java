@@ -30,17 +30,22 @@ public class ExcelTaskMock implements ExcelTask {
 	@Override
 	public ArrayList<ArrayList<String>> taskCreate(String excelFile) throws FileNotFoundException, IOException {
 		POIFSFileSystem fs = new POIFSFileSystem(new FileInputStream(Const.PROGRAM_PATH + excelFile));
-		HSSFWorkbook wb = new HSSFWorkbook(fs);	
-		HSSFSheet sheet = wb.getSheetAt(0);		
+		System.out.println("POIFS:" + fs);
+		HSSFWorkbook wb = new HSSFWorkbook(fs);
+		System.out.println("Workbook:" + wb);
+		HSSFSheet sheet = wb.getSheetAt(0);
+		System.out.println("SHEET:"+sheet);
 		HSSFRow excelRow = null;
 		HSSFCell excelCell = null;
 		int rows = sheet.getPhysicalNumberOfRows();
+		System.out.println("ROWS:" + rows);
 		int cols = COLS;
 		ArrayList<ArrayList<String>> taskList = new ArrayList<ArrayList<String>>();
 		ArrayList<String> taskListRow = new ArrayList<String>();
 		for(int i = 1; i < rows ; i++) 
 		{
-			excelRow = sheet.getRow(i);	
+			excelRow = sheet.getRow(i);
+			System.out.println("ROW:" + excelRow);
 			taskListRow = new ArrayList<String>();
 			for(int j = 0; j < cols; j++) 
 			{

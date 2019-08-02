@@ -6,9 +6,9 @@ var port = +location.port ? ':'+location.port: '';
 
 
 
-var ws = new WebSocket("ws://192.168.199.240"+port+"/wsAnswer");
-//var ws = new WebSocket("ws://it-rm3"+port+"/ErzNsk/wsAnswer");
-console.log('Connect to :'+ "ws://" + location.hostname +port+"/wsAnswer");
+var ws = new WebSocket("ws://192.168.199.240"+port+"/wsAnswerNew");
+//var ws = new WebSocket("ws://asu-srp"+port+"/ErzNsk_1/wsAnswerNew");
+console.log('Connect to :'+ "ws://" + location.hostname +port+"/wsAnswerNew");
 //var ws = new WebSocket("ws://" + location.hostname +port+"/wsAnswer");
 
 //флаг открытли запрос
@@ -79,10 +79,13 @@ ws.onmessage =function(event)
 		// ложим в текстареа тправленую серером инфу
 		var logarea = document.getElementById("tamessage");
 	    logarea.value =logarea.value+"\n"+event.data;
+	    console.log("onmessage data:" + event.data);
 	    // если длинна входящего от сервера соккета боль ше 12
 	    // условие поставили чтобы не поймать ошибку т.к. сервак отправляет сообщения размером меньше
-	    if(event.data.length > 12)
-	    var polucheno = event.data.substring(0,9);
+	    if(event.data.length > 12) {
+            var polucheno = event.data.substring(0, 9);
+        	console.log(JSON.stringify(polucheno));
+	    }
 	    //Ловим с servlets/WsAnswer.java json данные по которым формировалися upmess
 	    // Потом когда придет сообшение получен **************.uprak2 будем выводить на второй лист и третий
 	    // в данном случае uprmesszp - это ключ по по которому определяется что эти данные при формировании uprmessa
@@ -164,12 +167,12 @@ ws.onmessage =function(event)
     	
     } 
     
-    if(polucheno == "> poluche" )
+    if(polucheno == "> получен" )
     {
     	console.log(datauprmessZP);
     	var kluch;
     	nowCount= 0;
-    	var uprak2 = event.data.substring(12,54);
+    	var uprak2 = event.data.substring(10,52);
     	console.log('uprak2:' + uprak2);
     	if(event.data.indexOf('zp1') + 1) { kluch = 'zp1';	}
     	if(event.data.indexOf('list1enpzp9') + 1) { kluch = 'list1enpzp9';	}

@@ -1,4 +1,4 @@
 
-ß%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(„ Âò
-ù%squid:RedundantThrowsDeclarationCheck"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(„ Âò
-\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(„ Âò
+ü%squid:RedundantThrowsDeclarationCheck"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(„ Âò
+©%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(„ Âò
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(„ Âò

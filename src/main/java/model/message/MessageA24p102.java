@@ -57,7 +57,7 @@ public class MessageA24p102 extends MessageCommon {
 			Element evn = new Element("EVN", namespace);
 			adt_a24.addContent(evn);
 			evn.addContent(new Element("EVN.2", namespace).addContent(curDate));
-			evn.addContent(new Element("EVN.4", namespace).addContent("ï¿½10"));
+			evn.addContent(new Element("EVN.4", namespace).addContent("?10"));
 			
 			//PID-2
 			Element pid = new Element("PID", namespace);
@@ -65,14 +65,14 @@ public class MessageA24p102 extends MessageCommon {
 			
 			Element pid3_1 = new Element("PID.3", namespace);
 			pid.addContent(pid3_1);
-			pid3_1.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ï¿½ " + dataList.get(i).get(PERSON_NUMDOC)));
+			pid3_1.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ? " + dataList.get(i).get(PERSON_NUMDOC)));
 			pid3_1.addContent(new Element("CX.5", namespace).addContent(dataList.get(i).get(PERSON_DOCPERSONID)));
 			pid3_1.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 	
 			if (dataList.get(i).get(PERSON_DOCPERSONID).equals("9")) {
 				Element pid3_2 = new Element("PID.3", namespace);
 				pid.addContent(pid3_2);
-				pid3_2.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ï¿½ " + dataList.get(i).get(PERSON_NUMDOC)));
+				pid3_2.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ? " + dataList.get(i).get(PERSON_NUMDOC)));
 				pid3_2.addContent(new Element("CX.5", namespace).addContent("23"));
 				pid3_2.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 			}
@@ -134,7 +134,7 @@ public class MessageA24p102 extends MessageCommon {
 			Element evn = new Element("EVN", namespace);
 			adt_a24.addContent(evn);
 			evn.addContent(new Element("EVN.2", namespace).addContent(curDate));
-			evn.addContent(new Element("EVN.4", namespace).addContent("ï¿½10"));
+			evn.addContent(new Element("EVN.4", namespace).addContent("Ï10"));
 			
 			//PID-2
 			Element pid = new Element("PID", namespace);
@@ -142,14 +142,14 @@ public class MessageA24p102 extends MessageCommon {
 			
 			Element pid3_1 = new Element("PID.3", namespace);
 			pid.addContent(pid3_1);
-			pid3_1.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ï¿½ " + dataList.get(i).get(PERSON_NUMDOC)));
+			pid3_1.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ? " + dataList.get(i).get(PERSON_NUMDOC)));
 			pid3_1.addContent(new Element("CX.5", namespace).addContent(dataList.get(i).get(PERSON_DOCPERSONID)));
 			pid3_1.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 	
 			if (dataList.get(i).get(PERSON_DOCPERSONID).equals("9")) {
 				Element pid3_2 = new Element("PID.3", namespace);
 				pid.addContent(pid3_2);
-				pid3_2.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ï¿½ " + dataList.get(i).get(PERSON_NUMDOC)));
+				pid3_2.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_SERDOC) + " ? " + dataList.get(i).get(PERSON_NUMDOC)));
 				pid3_2.addContent(new Element("CX.5", namespace).addContent("23"));
 				pid3_2.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 			}

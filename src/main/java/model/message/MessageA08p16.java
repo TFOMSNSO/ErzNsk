@@ -70,11 +70,13 @@ public class MessageA08p16 extends MessageCommon {
 			pid3_1.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 			pid3_1.addContent(new Element("CX.8", namespace).addContent(dataList.get(i).get(D2)));
 
+			String kateg = dataList.get(i).get(KATEG).trim();
+
 			if (dataList.get(i).get(PERSON_DOCPERSONID).equals("9")) {
 				Element pid3_2 = new Element("PID.3", namespace);
 				pid.addContent(pid3_2);
 				pid3_2.addContent(new Element("CX.1", namespace).addContent((("".equals(seria) || seria == null) ? "" : seria + " ¹ ") + dataList.get(i).get(PERSON_NUMDOC)));
-				pid3_2.addContent(new Element("CX.5", namespace).addContent("23"));
+				pid3_2.addContent(new Element("CX.5", namespace).addContent(kateg.equals("11") ? "29" : "23"));
 				pid3_2.addContent(new Element("CX.7", namespace).addContent(dataList.get(i).get(DATEPASSPORT)));
 				pid3_2.addContent(new Element("CX.8", namespace).addContent(dataList.get(i).get(D2)));
 			}
@@ -83,7 +85,7 @@ public class MessageA08p16 extends MessageCommon {
 				Element pid3_5 = new Element("PID.3", namespace);
 				pid.addContent(pid3_5);
 				pid3_5.addContent(new Element("CX.1", namespace).addContent((("".equals(seria) || seria == null) ? "" : seria + " ¹ ") + dataList.get(i).get(PERSON_NUMDOC)));
-				pid3_5.addContent(new Element("CX.5", namespace).addContent("23"));
+				pid3_5.addContent(new Element("CX.5", namespace).addContent(kateg.equals("11") ? "29" : "23"));
 				String d2 = dataList.get(i).get(D2);
 				String d2minus3year = String.valueOf(Integer.parseInt(d2.substring(0, 4)) - 3) + d2.substring(4);
 				pid3_5.addContent(new Element("CX.7", namespace).addContent(d2minus3year));
@@ -124,6 +126,12 @@ public class MessageA08p16 extends MessageCommon {
 			pid.addContent(pid26);
 			pid26.addContent(new Element("CWE.1", namespace).addContent(dataList.get(i).get(RUSSIAN)));
 			pid26.addContent(new Element("CWE.3", namespace).addContent("1.2.643.2.40.5.0.25.3"));
+			if(!dataList.get(i).get(RUSSIAN).trim().equals("RUS")) {
+				Element pid26_2 = new Element("PID.26", namespace);
+				pid.addContent(pid26_2);
+				pid26_2.addContent(new Element("CWE.1", namespace).addContent(getNewCategory(dataList.get(i).get(KATEG).trim())));
+				pid26_2.addContent(new Element("CWE.3", namespace).addContent("1.2.643.2.40.3.3.0.6.19"));
+			}
 
 			if (dataList.get(i).get(PERSON_DOCPERSONID).equals("1")) {		
 				pid.addContent(new Element("PID.32", namespace).addContent("7"));
@@ -342,6 +350,25 @@ protected void createMiddle(int count, Namespace namespace,
 protected void createMiddle(Namespace namespace, Element rootElement, String curDate) {
 	// TODO Auto-generated method stub
 	
+}
+
+public String getNewCategory(String i){
+	    if( i != null) {
+            switch (i){
+                case "2": return "3";
+                case "3": return "4";
+                case "5": return "1";
+                case "7": return "3";
+                case "8": return "4";
+                case "10": return "1";
+                case "11": return "5";
+                case "12": return "6";
+                case "13": return "7";
+                case "14": return "8";
+                default: return " ";
+            }
+        }
+		return " ";
 }
 
 }

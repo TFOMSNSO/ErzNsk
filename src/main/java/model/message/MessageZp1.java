@@ -48,7 +48,7 @@ public class MessageZp1 extends MessageCommon {
 
 	protected void createMiddle(int count, Namespace namespace,	Element rootElement, String curDate) 
 	{
-		
+		System.out.println("ZP1 create middle MessageZp1.java");
 		for (int i = 1; i < count; i++)
 		{
 		

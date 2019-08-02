@@ -102,7 +102,9 @@ private static final long serialVersionUID = 1L;
 	        sh1.setRandomAccessWindowSize(100);// keep 100 rows in memory, exceeding rows will be flushed to disk
 	        sh2.setRandomAccessWindowSize(100);// keep 100 rows in memory, exceeding rows will be flushed to disk
 	        sh3.setRandomAccessWindowSize(100);// keep 100 rows in memory, exceeding rows will be flushed to disk
-	        
+
+            System.out.println("TableLARGE:אבגדהו¸זח [^A-Za-zÀ-‗א-ÿ0-9- -.-:-{-}-¹-]");
+
 	        for(int k = 0;k < quantityListForimportFromExcel; k++)
 		    {
 	        	Sheet sheet = wb.getSheetAt(k);

@@ -1,18 +1,28 @@
 
-¬%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(›ßÖ–ùÿÿÿÿ
-§%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¦Ûä–
+[
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(´‰×øÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›šÀæüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›óĞ±8ìõ¬ÃÂ-
 ¬%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ÓâÊ¢úÿÿÿÿ
 ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê£ìüÿÿÿÿ
 nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÕóú
 nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–·Æÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›šÀæüÿÿÿÿ
-Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›ßÖ–ùÿÿÿÿ
-Šsquid:S1319"uThe type of the "answerList" object should be an interface such as "List" rather than the implementation "ArrayList".(¦Ûä–
+¬%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(›ßÖ–ùÿÿÿÿ
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¼÷_8û°ÃÂ-
+Qsquid:S1854"7Remove this useless assignment to local variable "row".(ª‚šŒıÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øàæ…ùÿÿÿÿ8ÀşÃÃÂ-
+§%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¦Ûä–
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(°“Ğøÿÿÿÿ8Âæ®ÃÂ-
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(¶ô•œûÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(•¼ÍØüÿÿÿÿ8­°ÃÂ-
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›ßÖ–ùÿÿÿÿ
+Šsquid:S1319"uThe type of the "answerList" object should be an interface such as "List" rather than the implementation "ArrayList".(¦Ûä–
 Tsquid:S1854"?Remove this useless assignment to local variable "taskListRow".(ÿÕóú
 Qsquid:S1854"7Remove this useless assignment to local variable "row".(ª‚šŒıÿÿÿÿ
 Lsquid:S1854"8Remove this useless assignment to local variable "cell".(İ†’0
-Qsquid:S1854"7Remove this useless assignment to local variable "row".(ª‚šŒıÿÿÿÿ
-[
-squid:S899"BDo something with the "boolean" value returned by "createNewFile".(´‰×øÿÿÿÿ
