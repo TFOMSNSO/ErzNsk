@@ -1,435 +1,442 @@
 
-msquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚åÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-ssquid:S00116"QRename this field "P14CX6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(üæÂ´8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‚Øòÿÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "PR_FAM" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-Qsquid:S1481"0Remove this unused "prepareData" local variable.(„ÅşŞıÿÿÿÿ8ô¦âÄ-
-xsquid:S00116"VRename this field "USER_SERDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ô¦âÄ-
-Rsquid:S1659"1Declare "PERSON_KINDLASTNAME" on a separate line.(–üøãşÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-tsquid:S00116"RRename this field "RUSSIAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-bsquid:S1192"GDefine a constant instead of duplicating this literal "PID.26" 8 times.(­ö‹G8ô¦âÄ-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÒˆh8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BHS.1" 4 times.(Š¯´¿ùÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-Bsquid:S1659"!Declare "POL" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-\squid:S1659";Declare "PERSON_LINKSMOESTABLISHMENTID" on a separate line.(–üøãşÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(“óÊê8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ë©®úÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "D_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BHS.3" 4 times.( ëı¯ûÿÿÿÿ8ô¦âÄ-
-psquid:S00116"NRename this field "D_V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ô¦âÄ-
-Gsquid:S1659"&Declare "USER_POL" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÈÄıÿÿÿÿ8ô¦âÄ-
-qsquid:S00116"ORename this field "XPN3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BHS.2" 4 times.(áÑ˜Íıÿÿÿÿ8ô¦âÄ-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹”ò¢şÿÿÿÿ8ô¦âÄ-
-Bsquid:S1659"&Declare "USER_SMO" on a separate line.(¡˜«‹8ô¦âÄ-
-tsquid:S00116"RRename this field "LAST_OT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìëşÂüÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-wsquid:S00116"URename this field "PERSON_SEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-Csquid:S1659"'Declare "USER_D_12" on a separate line.(¡˜«‹8ô¦âÄ-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(µü†ÿÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ß±‰8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ú¦“üÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Æ€’ã8ô¦âÄ-
-Fsquid:S1659"%Declare "LAST_DR" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¹¢¦ïşÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¥¡Ãşÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ô¦âÄ-
-wsquid:S1192"VDefine a constant instead of duplicating this literal "1.2.643.2.40.3.3.1.0" 10 times.(®¬¼øÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ù–»äıÿÿÿÿ8ô¦âÄ-
-ssquid:S1192"XDefine a constant instead of duplicating this literal "1.2.643.2.40.3.3.0.6.19" 7 times.(Á¿øQ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-msquid:S1192"LDefine a constant instead of duplicating this literal "list1enpzp9" 3 times.(Ã·’³ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö£âô8ô¦âÄ-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üô ï8ô¦âÄ-
-qsquid:S00116"TRename this field "USER_D_12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ô¦âÄ-
-qsquid:S00116"ORename this field "D_12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-Csquid:S1659""Declare "XPN3" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-Fsquid:S1659"%Declare "LAST_IM" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(©Œâ„şÿÿÿÿ8ô¦âÄ-
-bsquid:S1192"FDefine a constant instead of duplicating this literal "BHS.4" 4 times.(òäïâ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-Csquid:S1659""Declare "XPN1" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èğ™Øøÿÿÿÿ8ô¦âÄ-
-ssquid:S00116"QRename this field "PFR_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ô¦âÄ-
-usquid:S00116"SRename this field "LAST_FAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ô¦âÄ-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šŠùä8ô¦âÄ-
-Gsquid:S1659"+Declare "PERSON_NUMDOC" on a separate line.(‘…÷ò8ô¦âÄ-
-Esquid:S1659"$Declare "PFR_ID" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ô¦âÄ-
-squid:S1192"oDefine a constant instead of duplicating this literal "ĞĞ¢Ğ ĞĞ‘ĞĞ¢ĞĞ› Ğ‘ĞĞ›Ğ¬Ğ¨ĞĞ™ Ğ—ĞĞŸĞ ĞĞ¡" 3 times.(¥¡Ãşÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö£âô8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "CWE.3" 8 times.(¼—‹™ûÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ô¦âÄ-
-?squid:S1148"#Use a logger to log this exception.(¹ñ¦ç8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ô¦âÄ-
-qsquid:S00116"ORename this field "D_13" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-zsquid:S1192"YDefine a constant instead of duplicating this literal "yyyy-MM-dd'T'HH:mm:ss'Z'" 4 times.(ø¿ôùÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ô¦âÄ-
-dsquid:S00107"BConstructor has 69 parameters, which is greater than 7 authorized.(Ğ‡’ÿÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "SNILS" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ô¦âÄ-
-ssquid:S00116"QRename this field "P14CX5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-Csquid:S1659""Declare "D_13" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‡÷Üÿÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "P14CX1" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-usquid:S00116"SRename this field "USER_POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ô¦âÄ-
-usquid:S00116"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Fsquid:S1659"%Declare "LAST_OT" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ô¦âÄ-
-ysquid:S00116"WRename this field "USER_OKATO_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(«ÅÕ¢8ô¦âÄ-
-qsquid:S00116"TRename this field "USER_D_13" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ô¦âÄ-
-asquid:S1192"FDefine a constant instead of duplicating this literal "BHS.7" 4 times.(éâØb8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚ïúÎ8ô¦âÄ-
-psquid:S00116"SRename this field "USER_SMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ô¦âÄ-
-zsquid:S00116"XRename this field "USER_DOC_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "ENP_1" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-Fsquid:S1659"%Declare "VS_DATE" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÎÙ‰8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-usquid:S00116"SRename this field "USER_ENP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-vsquid:S00116"TRename this field "PFR_NOTID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-|squid:S00116"_Rename this field "PERSON_KINDFIRSTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ô¦âÄ-
-Csquid:S1659"'Declare "USER_D_13" on a separate line.(¡˜«‹8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ô¦âÄ-
-tsquid:S00116"RRename this field "VS_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Gsquid:S1659"&Declare "USERNAME" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÏÒ»éúÿÿÿÿ8ô¦âÄ-
-Fsquid:S1659"%Declare "OKATO_3" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-\squid:S2259"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8ô¦âÄ-
-vsquid:S00116"TRename this field "ZADMINUS1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-zsquid:S00116"XRename this field "USER_TYPE_POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¸8ô¦âÄ-
-osquid:S00116"MRename this field "D2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-tsquid:S00116"RRename this field "LAST_DR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ô¦âÄ-
-Msquid:S1659"1Declare "USER_PERSON_SURNAME" on a separate line.(¡˜«‹8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "ENP_2" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏÑÿşÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "NBLANC" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Ssquid:S1659"7Declare "USER_PERSON_KINDFIRSTNAME" on a separate line.(¡˜«‹8ô¦âÄ-
-dsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¯ª—…8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¬±ÛÀ8ô¦âÄ-
-Bsquid:S1659"!Declare "ZAD" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "PR_OT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-Rsquid:S1659"6Declare "USER_PERSON_KINDLASTNAME" on a separate line.(¡˜«‹8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¡ª’şÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "D_SER" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÕ‡ı8ô¦âÄ-
-Hsquid:S1659"'Declare "PFR_NOTID" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-‹squid:S1192"jDefine a constant instead of duplicating this literal "http://www.w3.org/2001/XMLSchema-instance" 4 times.(ìÖ¶ìıÿÿÿÿ8ô¦âÄ-
-hsquid:S1192"GDefine a constant instead of duplicating this literal "A03P07" 3 times.(îç¥üÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áìàÜ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(İ—îëıÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "VS_NUM" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-€squid:S00116"^Rename this field "PERSON_KINDLASTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-hsquid:S1192"GDefine a constant instead of duplicating this literal "BHS.11" 4 times.(Ï¶øäşÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "Pid29" on a separate line.(Ø›”´ÿÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜úŞŒ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BHS.6" 4 times.(Ëµ¦£şÿÿÿÿ8ô¦âÄ-
-ssquid:S00116"QRename this field "PR_FAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ô¦âÄ-
-Hsquid:S1659"'Declare "ZADPLUS40" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-dsquid:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‹–Ãâ8ô¦âÄ-
-wsquid:S00116"URename this field "D_12_PLUS1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ô¦âÄ-
-¬%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Çä—†ÿÿÿÿÿ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "^~\\&" 5 times.(áÑ˜Íıÿÿÿÿ8ô¦âÄ-
-‹squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËŠ 8ô¦âÄ-
-c$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(üæÂ´8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ô¦âÄ-
-osquid:S1192"NDefine a constant instead of duplicating this literal "list1snilszp9" 3 times.(ÆÆÂ²øÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¸8ô¦âÄ-
-rsquid:S00116"PRename this field "PR_IM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-vsquid:S00116"TRename this field "PFR_SNILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-qsquid:S00116"ORename this field "BORN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-lsquid:S1192"PDefine a constant instead of duplicating this literal "UPRMessageBatch" 4 times.(¸¨ÉÏ8ô¦âÄ-
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Î¯ãË8ô¦âÄ-
-Nsquid:S1659"-Declare "PERSON_BIRTHDAY" on a separate line.(–üøãşÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-vsquid:S00116"YRename this field "PERSON_SURNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ô¦âÄ-
-squid:S00116"dRename this field "USER_PERSON_KINDFIRSTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ô¦âÄ-
-Ksquid:S1066"/Merge this if statement with the enclosing one.(áÔêõ8ô¦âÄ-
-Hsquid:S1659",Declare "PERSON_SURNAME" on a separate line.(‘…÷ò8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BTS.3" 4 times.(‘¼¤İùÿÿÿÿ8ô¦âÄ-
-ksquid:S1192"JDefine a constant instead of duplicating this literal "Ğ¡Ğ Ğ— 54" 5 times.( ëı¯ûÿÿÿÿ8ô¦âÄ-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´¿ûØúÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ô¦âÄ-
-ssquid:S00116"QRename this field "VS_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "P14CX5" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "CWE.1" 8 times.(ùŒ£±şÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "KATEG" on a separate line.(……Î³üÿÿÿÿ8ô¦âÄ-
-usquid:S00116"SRename this field "TYPE_POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ô¦âÄ-
-osquid:S1192"NDefine a constant instead of duplicating this literal "PERSON_SERDOC" 3 times.(¹“ÉÙÿÿÿÿÿ8ô¦âÄ-
-asquid:S2147"ECombine this catch with the one at line 661, which has the same body.(”ı¾8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ú¦“üÿÿÿÿ8ô¦âÄ-
-rsquid:S1192"QDefine a constant instead of duplicating this literal "list1passportzp9" 3 times.(—ıÅ—ıÿÿÿÿ8ô¦âÄ-
-Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(«Æä8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ«âùÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ô¦âÄ-
-nsquid:S1192"RDefine a constant instead of duplicating this literal "urn:hl7-org:v2xml" 4 times.(À—Ãç8ô¦âÄ-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(™Û¼ãıÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-{squid:S00116"^Rename this field "USER_PERSON_SURNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ô¦âÄ-
-}squid:S00116"[Rename this field "PERSON_ADDRESSID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ô¦âÄ-
-Ksquid:S1659"*Declare "USER_OKATO_3" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-Bsquid:S1659"!Declare "ENP" on a separate line.(–üøãşÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ô¦âÄ-
-Csquid:S1659""Declare "BORN" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-Osquid:S1659".Declare "PERSON_ADDRESSID" on a separate line.(–üøãşÿÿÿÿ8ô¦âÄ-
-Fsquid:S1659"%Declare "RUSSIAN" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-Gsquid:S1659"&Declare "USER_ENP" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-tsquid:S00116"RRename this field "LAST_IM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¥¡Ãşÿÿÿÿ8ô¦âÄ-
-Psquid:S1066"/Merge this if statement with the enclosing one.(¯‚¸Áüÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-esquid:S1192"IDefine a constant instead of duplicating this literal ".uprmes" 16 times.(‹–Ãâ8ô¦âÄ-
-vsquid:S00116"TRename this field "ZADPLUS40" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(µşúûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-esquid:S1192"IDefine a constant instead of duplicating this literal "Zp1Ajax:" 3 times.(æÚ¢æ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ô¦âÄ-
-asquid:S1192"FDefine a constant instead of duplicating this literal "PID.3" 5 times.(‚åÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ô¦âÄ-
-Csquid:S1659""Declare "XPN2" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Lsquid:S1659"0Declare "PERSON_DOCPERSONID" on a separate line.(‘…÷ò8ô¦âÄ-
-dsquid:S00107"BConstructor has 70 parameters, which is greater than 7 authorized.(Ğ‡’ÿÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-tsquid:S00116"RRename this field "OKATO_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "SNILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-usquid:S1192"TDefine a constant instead of duplicating this literal "ConstantiNastrojki " 4 times.(áªÂŸÿÿÿÿÿ8ô¦âÄ-
-hsquid:S2259"GA "NullPointerException" could be thrown; "statement" is nullable here.(´Ó¶«ıÿÿÿÿ8ô¦âÄ-
-lsquid:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(“‡ŞÍşÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ„ßÕ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "PR_IM" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ô¦âÄ-
-Isquid:S1659"(Declare "PERSON_SEX" on a separate line.(–üøãşÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ô¦âÄ-
-Lsquid:S1659"+Declare "USER_DOC_DATE" on a separate line.(……Î³üÿÿÿÿ8ô¦âÄ-
-Hsquid:S1659"'Declare "ZADMINUS1" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô”åáøÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "ENP_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-psquid:S00116"NRename this field "POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ô¦âÄ-
-wsquid:S00116"URename this field "USER_DOCID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ô¦âÄ-
-msquid:S1192"LDefine a constant instead of duplicating this literal "Ğ¦Ğš Ğ•Ğ ĞŸ" 5 times.(ñàó²ÿÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "ENP_PA" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-isquid:S1192"MDefine a constant instead of duplicating this literal "Windows-1251" 4 times.(òÛ»À8ô¦âÄ-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ùé§±üÿÿÿÿ8ô¦âÄ-
-|squid:S00116"ZRename this field "PERSON_BIRTHDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BHS.5" 4 times.(ñàó²ÿÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-ysquid:S00116"WRename this field "DATEPASSPORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-bsquid:S2147"FCombine this catch with the one at line 1209, which has the same body.(”ı¾8ô¦âÄ-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ô¦âÄ-
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»¯‘µ8ô¦âÄ-
-Gsquid:S1659"&Declare "TYPE_POL" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ß±‰8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-S
-squid:S106"9Replace this use of System.out or System.err by a logger.(Î¸¨8ô¦âÄ-
-Lsquid:S1659"+Declare "USER_TYPE_POL" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ô¦âÄ-
-Isquid:S1659"(Declare "USER_DOCID" on a separate line.(……Î³üÿÿÿÿ8ô¦âÄ-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ô¦âÄ-
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çä—†ÿÿÿÿÿ8ô¦âÄ-
-qsquid:S00116"ORename this field "XPN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-Bsquid:S1659"!Declare "SMO" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µÀÃ™8ô¦âÄ-
-psquid:S00116"NRename this field "ENP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ô¦âÄ-
-dsquid:S1192"HDefine a constant instead of duplicating this literal "50000-" 16 times.(‹–Ãâ8ô¦âÄ-
-rsquid:S1192"VDefine a constant instead of duplicating this literal "http://www.rintech.ru" 4 times.(È­ş€8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ô¦âÄ-
-Osquid:S1659".Declare "PERSON_DATEINPUT" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-ssquid:S00116"QRename this field "P14CX1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-qsquid:S00116"ORename this field "XPN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "KATEG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-bsquid:S2147"FCombine this catch with the one at line 1413, which has the same body.(”ı¾8ô¦âÄ-
-Dsquid:S1659"#Declare "PR_OT" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ô¦âÄ-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆîÇÉùÿÿÿÿ8ô¦âÄ-
-psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²í£ÿÿÿÿÿ8ô¦âÄ-
-Isquid:S1659"(Declare "D_12_PLUS1" on a separate line.(……Î³üÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ô¦âÄ-
-Jsquid:S1659")Declare "USER_SERDOC" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ô¦âÄ-
-Jsquid:S1659")Declare "USER_NUMDOC" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¸8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ô¦âÄ-
-hsquid:S2259"GA "NullPointerException" could be thrown; "statement" is nullable here.(´Ó¶«ıÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ô¦âÄ-
-ysquid:S00116"WRename this field "VS_DATEPLUS1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Qsquid:S1481"0Remove this unused "prepareData" local variable.(„ÅşŞıÿÿÿÿ8ô¦âÄ-
-Šsquid:S00116"hRename this field "PERSON_LINKSMOESTABLISHMENTID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ô¦âÄ-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ô¦âÄ-
-xsquid:S00116"VRename this field "USER_NUMDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-Ssquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ô¦âÄ-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô¸ıÀ8ô¦âÄ-
-Asquid:S1659" Declare "D2" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó8ô¦âÄ-
-bsquid:S2147"FCombine this catch with the one at line 1020, which has the same body.(”ı¾8ô¦âÄ-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å¸­¢ÿÿÿÿÿ8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö£âô8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ô¦âÄ-
-Esquid:S1659"$Declare "P14CX7" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-Ksquid:S1659"*Declare "VS_DATEPLUS1" on a separate line.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(•²í£ÿÿÿÿÿ8ô¦âÄ-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú…šóúÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-Nsquid:S1659"2Declare "PERSON_KINDFIRSTNAME" on a separate line.(‘…÷ò8ô¦âÄ-
-hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(šò¨úÿÿÿÿ8ô¦âÄ-
-Bsquid:S1659"!Declare "D_V" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-usquid:S00116"XRename this field "PERSON_SERDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ô¦âÄ-
-csquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ô¦âÄ-
-ssquid:S00116"QRename this field "NBLANC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ô¦âÄ-
-Ksquid:S1659"*Declare "DATEPASSPORT" on a separate line.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-usquid:S00116"XRename this field "PERSON_NUMDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-squid:S1319"tThe type of the "listList1" object should be an interface such as "List" rather than the implementation "ArrayList".(ÛŸ›²8ô¦âÄ-
-squid:S1319"tThe type of the "listList1" object should be an interface such as "List" rather than the implementation "ArrayList".(Î¯ãË8ô¦âÄ-
-ssquid:S00116"QRename this field "P14CX7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-Qsquid:S1481"0Remove this unused "prepareData" local variable.(„ÅşŞıÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ô¦âÄ-
-psquid:S00116"NRename this field "ZAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Hsquid:S1659"'Declare "PFR_SNILS" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "D_SER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "ENP_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-Gsquid:S1659"&Declare "LAST_FAM" on a separate line.(£­À¿ûÿÿÿÿ8ô¦âÄ-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¸àĞ8ô¦âÄ-
-psquid:S00116"NRename this field "SMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ô¦âÄ-
-ssquid:S00116"QRename this field "ENP_PA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ô¦âÄ-
-Dsquid:S1659"#Declare "D_NUM" on a separate line.(ÄËà¡úÿÿÿÿ8ô¦âÄ-
-‚squid:S1192"aDefine a constant instead of duplicating this literal "http://www.w3.org/2001/XMLSchema" 4 times.(İâÿ¼úÿÿÿÿ8ô¦âÄ-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ô¦âÄ-
-Esquid:S1659"$Declare "P14CX6" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-rsquid:S00116"PRename this field "Pid29" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø›”´ÿÿÿÿÿ8ô¦âÄ-
-Csquid:S1659""Declare "D_12" on a separate line.(…Š¬Çüÿÿÿÿ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "+7:00" 4 times.(ø¿ôùÿÿÿÿ8ô¦âÄ-
-gsquid:S1192"FDefine a constant instead of duplicating this literal "BTS.1" 4 times.(ÿöüÿÿÿÿ8ô¦âÄ-
-zsquid:S00116"]Rename this field "PERSON_DOCPERSONID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¥¡Ãşÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ô¦âÄ-
-€squid:S00116"cRename this field "USER_PERSON_KINDLASTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ô¦âÄ-
-}squid:S00116"[Rename this field "PERSON_DATEINPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ô¦âÄ-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ô¦âÄ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼‘Õşÿÿÿÿ8ˆô°âÄ-
+¯%squid:RedundantThrowsDeclarationCheckÌ"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(Çä—†ÿÿÿÿÿ8ó×ŒÏ-
+Isquid:S1659!"+Declare "PERSON_NUMDOC" on a separate line.(‘…÷ò8ó×ŒÏ-
+Nsquid:S1659!"0Declare "PERSON_DOCPERSONID" on a separate line.(‘…÷ò8ó×ŒÏ-
+Jsquid:S1659!",Declare "PERSON_SURNAME" on a separate line.(‘…÷ò8ó×ŒÏ-
+Psquid:S1659!"2Declare "PERSON_KINDFIRSTNAME" on a separate line.(‘…÷ò8ó×ŒÏ-
+Tsquid:S1659""1Declare "PERSON_KINDLASTNAME" on a separate line.(–üøãşÿÿÿÿ8ó×ŒÏ-
+Psquid:S1659""-Declare "PERSON_BIRTHDAY" on a separate line.(–üøãşÿÿÿÿ8ó×ŒÏ-
+Ksquid:S1659""(Declare "PERSON_SEX" on a separate line.(–üøãşÿÿÿÿ8ó×ŒÏ-
+^squid:S1659"";Declare "PERSON_LINKSMOESTABLISHMENTID" on a separate line.(–üøãşÿÿÿÿ8ó×ŒÏ-
+Dsquid:S1659""!Declare "ENP" on a separate line.(–üøãşÿÿÿÿ8ó×ŒÏ-
+Qsquid:S1659"".Declare "PERSON_ADDRESSID" on a separate line.(–üøãşÿÿÿÿ8ó×ŒÏ-
+Qsquid:S1659#".Declare "PERSON_DATEINPUT" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659#"#Declare "SNILS" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Esquid:S1659#""Declare "BORN" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Msquid:S1659#"*Declare "DATEPASSPORT" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659#"$Declare "ENP_PA" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659#"$Declare "VS_NUM" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Hsquid:S1659#"%Declare "VS_DATE" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Dsquid:S1659#"!Declare "ZAD" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Csquid:S1659#" Declare "D2" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Dsquid:S1659#"!Declare "SMO" on a separate line.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+Esquid:S1659$""Declare "D_12" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Esquid:S1659$""Declare "D_13" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Hsquid:S1659$"%Declare "OKATO_3" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Isquid:S1659$"&Declare "TYPE_POL" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Dsquid:S1659$"!Declare "POL" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659$"#Declare "ENP_1" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659$"#Declare "ENP_2" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659$"$Declare "P14CX1" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659$"$Declare "P14CX5" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659$"$Declare "P14CX6" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659$"$Declare "P14CX7" on a separate line.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+Esquid:S1659%""Declare "XPN1" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Esquid:S1659%""Declare "XPN2" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Esquid:S1659%""Declare "XPN3" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Isquid:S1659%"&Declare "USERNAME" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Jsquid:S1659%"'Declare "ZADMINUS1" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Jsquid:S1659%"'Declare "ZADPLUS40" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659%"$Declare "NBLANC" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Msquid:S1659%"*Declare "VS_DATEPLUS1" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Isquid:S1659%"&Declare "USER_ENP" on a separate line.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+Osquid:S1659&"1Declare "USER_PERSON_SURNAME" on a separate line.(¡˜«‹8ó×ŒÏ-
+Usquid:S1659&"7Declare "USER_PERSON_KINDFIRSTNAME" on a separate line.(¡˜«‹8ó×ŒÏ-
+Tsquid:S1659&"6Declare "USER_PERSON_KINDLASTNAME" on a separate line.(¡˜«‹8ó×ŒÏ-
+Dsquid:S1659&"&Declare "USER_SMO" on a separate line.(¡˜«‹8ó×ŒÏ-
+Esquid:S1659&"'Declare "USER_D_12" on a separate line.(¡˜«‹8ó×ŒÏ-
+Esquid:S1659&"'Declare "USER_D_13" on a separate line.(¡˜«‹8ó×ŒÏ-
+Msquid:S1659'"*Declare "USER_OKATO_3" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Nsquid:S1659'"+Declare "USER_TYPE_POL" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Isquid:S1659'"&Declare "USER_POL" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Hsquid:S1659'"%Declare "RUSSIAN" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Dsquid:S1659'"!Declare "D_V" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659'"#Declare "D_SER" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659'"#Declare "D_NUM" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659'"$Declare "PR_FAM" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659'"#Declare "PR_IM" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659'"#Declare "PR_OT" on a separate line.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+Isquid:S1659("&Declare "LAST_FAM" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Hsquid:S1659("%Declare "LAST_IM" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Hsquid:S1659("%Declare "LAST_OT" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Hsquid:S1659("%Declare "LAST_DR" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Jsquid:S1659("'Declare "PFR_SNILS" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1659("$Declare "PFR_ID" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Jsquid:S1659("'Declare "PFR_NOTID" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Lsquid:S1659(")Declare "USER_SERDOC" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Lsquid:S1659(")Declare "USER_NUMDOC" on a separate line.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+Ksquid:S1659)"(Declare "USER_DOCID" on a separate line.(……Î³üÿÿÿÿ8ó×ŒÏ-
+Nsquid:S1659)"+Declare "USER_DOC_DATE" on a separate line.(……Î³üÿÿÿÿ8ó×ŒÏ-
+Ksquid:S1659)"(Declare "D_12_PLUS1" on a separate line.(……Î³üÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659)"#Declare "KATEG" on a separate line.(……Î³üÿÿÿÿ8ó×ŒÏ-
+Fsquid:S1659/"#Declare "Pid29" on a separate line.(Ø›”´ÿÿÿÿÿ8ó×ŒÏ-
+dsquid:S1192l"FDefine a constant instead of duplicating this literal "BHS.4" 4 times.(òäïâ8ó×ŒÏ-
+nsquid:S1192`"PDefine a constant instead of duplicating this literal "UPRMessageBatch" 4 times.(¸¨ÉÏ8ó×ŒÏ-
+msquid:S1192j"JDefine a constant instead of duplicating this literal "Ğ¡Ğ Ğ— 54" 5 times.( ëı¯ûÿÿÿÿ8ó×ŒÏ-
+xsquid:S1192Ÿ"TDefine a constant instead of duplicating this literal "ConstantiNastrojki " 4 times.(áªÂŸÿÿÿÿÿ8ó×ŒÏ-
+gsquid:S1192š"HDefine a constant instead of duplicating this literal "50000-" 16 times.(‹–Ãâ8ó×ŒÏ-
+psquid:S1192^"RDefine a constant instead of duplicating this literal "urn:hl7-org:v2xml" 4 times.(À—Ãç8ó×ŒÏ-
+osquid:S1192‹"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 4 times.(“‡ŞÍşÿÿÿÿ8ó×ŒÏ-
+isquid:S1192q"FDefine a constant instead of duplicating this literal "BHS.5" 4 times.(ñàó²ÿÿÿÿÿ8ó×ŒÏ-
+isquid:S1192w"FDefine a constant instead of duplicating this literal "+7:00" 4 times.(ø¿ôùÿÿÿÿ8ó×ŒÏ-
+jsquid:S1192ˆ"FDefine a constant instead of duplicating this literal "CWE.1" 8 times.(ùŒ£±şÿÿÿÿ8ó×ŒÏ-
+isquid:S1192h"FDefine a constant instead of duplicating this literal "BHS.1" 4 times.(Š¯´¿ùÿÿÿÿ8ó×ŒÏ-
+“squid:S1192ê"oDefine a constant instead of duplicating this literal "ĞĞ¢Ğ ĞĞ‘ĞĞ¢ĞĞ› Ğ‘ĞĞ›Ğ¬Ğ¨ĞĞ™ Ğ—ĞĞŸĞ ĞĞ¡" 3 times.(¥¡Ãşÿÿÿÿ8ó×ŒÏ-
+isquid:S1192i"FDefine a constant instead of duplicating this literal "^~\\&" 5 times.(áÑ˜Íıÿÿÿÿ8ó×ŒÏ-
+osquid:S1192q"LDefine a constant instead of duplicating this literal "Ğ¦Ğš Ğ•Ğ ĞŸ" 5 times.(ñàó²ÿÿÿÿÿ8ó×ŒÏ-
+hsquid:S1192Â"IDefine a constant instead of duplicating this literal "Zp1Ajax:" 3 times.(æÚ¢æ8ó×ŒÏ-
+jsquid:S1192z"GDefine a constant instead of duplicating this literal "BHS.11" 4 times.(Ï¶øäşÿÿÿÿ8ó×ŒÏ-
+psquid:S1192Ñ"LDefine a constant instead of duplicating this literal "list1enpzp9" 3 times.(Ã·’³ûÿÿÿÿ8ó×ŒÏ-
+esquid:S1192†"GDefine a constant instead of duplicating this literal "PID.26" 8 times.(­ö‹G8ó×ŒÏ-
+|squid:S1192w"YDefine a constant instead of duplicating this literal "yyyy-MM-dd'T'HH:mm:ss'Z'" 4 times.(ø¿ôùÿÿÿÿ8ó×ŒÏ-
+isquid:S1192i"FDefine a constant instead of duplicating this literal "BHS.2" 4 times.(áÑ˜Íıÿÿÿÿ8ó×ŒÏ-
+jsquid:S1192“"FDefine a constant instead of duplicating this literal "BTS.3" 4 times.(‘¼¤İùÿÿÿÿ8ó×ŒÏ-
+hsquid:S1192š"IDefine a constant instead of duplicating this literal ".uprmes" 16 times.(‹–Ãâ8ó×ŒÏ-
+rsquid:S1192İ"NDefine a constant instead of duplicating this literal "list1snilszp9" 3 times.(ÆÆÂ²øÿÿÿÿ8ó×ŒÏ-
+usquid:S1192×"QDefine a constant instead of duplicating this literal "list1passportzp9" 3 times.(—ıÅ—ıÿÿÿÿ8ó×ŒÏ-
+isquid:S1192r"FDefine a constant instead of duplicating this literal "BHS.6" 4 times.(Ëµ¦£şÿÿÿÿ8ó×ŒÏ-
+lsquid:S1192˜"MDefine a constant instead of duplicating this literal "Windows-1251" 4 times.(òÛ»À8ó×ŒÏ-
+isquid:S1192j"FDefine a constant instead of duplicating this literal "BHS.3" 4 times.( ëı¯ûÿÿÿÿ8ó×ŒÏ-
+rsquid:S1192Ä"NDefine a constant instead of duplicating this literal "PERSON_SERDOC" 3 times.(¹“ÉÙÿÿÿÿÿ8ó×ŒÏ-
+ysquid:S1192o"VDefine a constant instead of duplicating this literal "1.2.643.2.40.3.3.1.0" 10 times.(®¬¼øÿÿÿÿ8ó×ŒÏ-
+dsquid:S1192µ"FDefine a constant instead of duplicating this literal "PID.3" 5 times.(‚åÿ8ó×ŒÏ-
+tsquid:S1192\"VDefine a constant instead of duplicating this literal "http://www.rintech.ru" 4 times.(È­ş€8ó×ŒÏ-
+ksquid:S1192â"GDefine a constant instead of duplicating this literal "A03P07" 3 times.(îç¥üÿÿÿÿ8ó×ŒÏ-
+„squid:S1192]"aDefine a constant instead of duplicating this literal "http://www.w3.org/2001/XMLSchema" 4 times.(İâÿ¼úÿÿÿÿ8ó×ŒÏ-
+squid:S1192["jDefine a constant instead of duplicating this literal "http://www.w3.org/2001/XMLSchema-instance" 4 times.(ìÖ¶ìıÿÿÿÿ8ó×ŒÏ-
+jsquid:S1192’"FDefine a constant instead of duplicating this literal "BTS.1" 4 times.(ÿöüÿÿÿÿ8ó×ŒÏ-
+vsquid:S1192™"XDefine a constant instead of duplicating this literal "1.2.643.2.40.3.3.0.6.19" 7 times.(Á¿øQ8ó×ŒÏ-
+jsquid:S1192‰"FDefine a constant instead of duplicating this literal "CWE.3" 8 times.(¼—‹™ûÿÿÿÿ8ó×ŒÏ-
+csquid:S1192x"FDefine a constant instead of duplicating this literal "BHS.7" 4 times.(éâØb8ó×ŒÏ-
+Ssquid:S1066À"/Merge this if statement with the enclosing one.(¯‚¸Áüÿÿÿÿ8ó×ŒÏ-
+Nsquid:S1066Á"/Merge this if statement with the enclosing one.(áÔêõ8ó×ŒÏ-
+wsquid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(áìàÜ8ó×ŒÏ-
+|squid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú…šóúÿÿÿÿ8ó×ŒÏ-
+|squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹”ò¢şÿÿÿÿ8ó×ŒÏ-
+xsquid:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¸àĞ8ó×ŒÏ-
+}squid:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÈÄıÿÿÿÿ8ó×ŒÏ-
+xsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ó×ŒÏ-
+xsquid:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ó×ŒÏ-
+xsquid:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¸8ó×ŒÏ-
+xsquid:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö£âô8ó×ŒÏ-
+xsquid:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ó×ŒÏ-
+xsquid:S2293ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¸8ó×ŒÏ-
+xsquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö£âô8ó×ŒÏ-
+xsquid:S2293¢	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ó×ŒÏ-
+xsquid:S2293Ä
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú¦¸8ó×ŒÏ-
+xsquid:S2293Ş
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö£âô8ó×ŒÏ-
+xsquid:S2293ï
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÕùÊ8ó×ŒÏ-
+f$squid:AssignmentInSubExpressionCheckò".Extract the assignment out of this expression.(üæÂ´8ó×ŒÏ-
+fsquid:S2095Ì"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ó×ŒÏ-
+fsquid:S2095Ç"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ó×ŒÏ-
+gsquid:S2095š"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‹–Ãâ8ó×ŒÏ-
+fsquid:S2095å"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ó×ŒÏ-
+nsquid:S2095¶"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó8ó×ŒÏ-
+ksquid:S2095·"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(šò¨úÿÿÿÿ8ó×ŒÏ-
+gsquid:S2095¡"HUse try-with-resources or close this "Connection" in a "finally" clause.(¯ª—…8ó×ŒÏ-
+fsquid:S2095	"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ó×ŒÏ-
+fsquid:S2095æ"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ó×ŒÏ-
+fsquid:S2095Ñ
+"HUse try-with-resources or close this "Connection" in a "finally" clause.(åÊÑv8ó×ŒÏ-
+jsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(ô¸ıÀ8ó×ŒÏ-
+jsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(üô ï8ó×ŒÏ-
+jsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(šŠùä8ó×ŒÏ-
+osquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(ÏÑÿşÿÿÿÿ8ó×ŒÏ-
+osquid:CommentedOutCodeLine†	"<This block of commented-out lines of code should be removed.(™Û¼ãıÿÿÿÿ8ó×ŒÏ-
+osquid:CommentedOutCodeLine™	"<This block of commented-out lines of code should be removed.(´¿ûØúÿÿÿÿ8ó×ŒÏ-
+osquid:CommentedOutCodeLine·	"<This block of commented-out lines of code should be removed.(å¸­¢ÿÿÿÿÿ8ó×ŒÏ-
+osquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ÆîÇÉùÿÿÿÿ8ó×ŒÏ-
+squid:S1319>"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(µÀÃ™8ó×ŒÏ-
+squid:S1319H"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ËŠ 8ó×ŒÏ-
+squid:S1319M"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(«Æä8ó×ŒÏ-
+“squid:S1319º"tThe type of the "listList1" object should be an interface such as "List" rather than the implementation "ArrayList".(ÛŸ›²8ó×ŒÏ-
+”squid:S1319‡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èğ™Øøÿÿÿÿ8ó×ŒÏ-
+“squid:S1319Ï"tThe type of the "listList1" object should be an interface such as "List" rather than the implementation "ArrayList".(Î¯ãË8ó×ŒÏ-
+W
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(«ÅÕ¢8ó×ŒÏ-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(“óÊê8ó×ŒÏ-
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(©Œâ„şÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ó×ŒÏ-
+W
+squid:S106«"9Replace this use of System.out or System.err by a logger.(‚ïúÎ8ó×ŒÏ-
+\
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(Ğ«âùÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(µşúûÿÿÿÿ8ó×ŒÏ-
+V
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(Î¸¨8ó×ŒÏ-
+V
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ˆÒˆh8ó×ŒÏ-
+W
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(Æ€’ã8ó×ŒÏ-
+\
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(¥¡Ãşÿÿÿÿ8ó×ŒÏ-
+W
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(¬±ÛÀ8ó×ŒÏ-
+W
+squid:S106ò"9Replace this use of System.out or System.err by a logger.(üæÂ´8ó×ŒÏ-
+W
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(ÇÎÙ‰8ó×ŒÏ-
+\
+squid:S106­"9Replace this use of System.out or System.err by a logger.(İ—îëıÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(Ô”åáøÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106«"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106²"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(¥¡Ãşÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(áªÂŸÿÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106à"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(¼‘Õşÿÿÿÿ8ó×ŒÏ-
+\
+squid:S106Ö
+"9Replace this use of System.out or System.err by a logger.(¥¡Ãşÿÿÿÿ8ó×ŒÏ-
+W
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(ÈÕ‡ı8ó×ŒÏ-
+\
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Ë©®úÿÿÿÿ8ó×ŒÏ-
+Vsquid:S1135š"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ó×ŒÏ-
+Vsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ó×ŒÏ-
+Vsquid:S1135¾	"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ó×ŒÏ-
+Vsquid:S1135Š"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ó×ŒÏ-
+Tsquid:S1481Õ"0Remove this unused "prepareData" local variable.(„ÅşŞıÿÿÿÿ8ó×ŒÏ-
+Tsquid:S1481Š	"0Remove this unused "prepareData" local variable.(„ÅşŞıÿÿÿÿ8ó×ŒÏ-
+Tsquid:S1481Ú
+"0Remove this unused "prepareData" local variable.(„ÅşŞıÿÿÿÿ8ó×ŒÏ-
+vsquid:S3776±"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ÏÒ»éúÿÿÿÿ8ó×ŒÏ-
+qsquid:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Î¯ãË8ó×ŒÏ-
+vsquid:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ùé§±üÿÿÿÿ8ó×ŒÏ-
+vsquid:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(µü†ÿÿÿÿÿ8ó×ŒÏ-
+qsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»¯‘µ8ó×ŒÏ-
+vsquid:S3776Ñ	"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(•²í£ÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S3776¿
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ù–»äıÿÿÿÿ8ó×ŒÏ-
+ssquid:S00100Ñ	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²í£ÿÿÿÿÿ8ó×ŒÏ-
+ssquid:S00100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çä—†ÿÿÿÿÿ8ó×ŒÏ-
+ksquid:S2259×"GA "NullPointerException" could be thrown; "statement" is nullable here.(´Ó¶«ıÿÿÿÿ8ó×ŒÏ-
+_squid:S2259Ã"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8ó×ŒÏ-
+ksquid:S2259ğ"GA "NullPointerException" could be thrown; "statement" is nullable here.(´Ó¶«ıÿÿÿÿ8ó×ŒÏ-
+gsquid:S00107±"BConstructor has 70 parameters, which is greater than 7 authorized.(Ğ‡’ÿÿÿÿÿ8ó×ŒÏ-
+gsquid:S00107"BConstructor has 69 parameters, which is greater than 7 authorized.(Ğ‡’ÿÿÿÿÿ8ó×ŒÏ-
+ksquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¹¢¦ïşÿÿÿÿ8ó×ŒÏ-
+dsquid:S2147™"ECombine this catch with the one at line 663, which has the same body.(”ı¾8ó×ŒÏ-
+esquid:S2147€"FCombine this catch with the one at line 1022, which has the same body.(”ı¾8ó×ŒÏ-
+esquid:S2147½	"FCombine this catch with the one at line 1211, which has the same body.(”ı¾8ó×ŒÏ-
+esquid:S2147‰"FCombine this catch with the one at line 1415, which has the same body.(”ı¾8ó×ŒÏ-
+wsquid:S00116!"XRename this field "PERSON_SERDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ó×ŒÏ-
+wsquid:S00116!"XRename this field "PERSON_NUMDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ó×ŒÏ-
+|squid:S00116!"]Rename this field "PERSON_DOCPERSONID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ó×ŒÏ-
+xsquid:S00116!"YRename this field "PERSON_SURNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ó×ŒÏ-
+~squid:S00116!"_Rename this field "PERSON_KINDFIRSTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘…÷ò8ó×ŒÏ-
+‚squid:S00116""^Rename this field "PERSON_KINDLASTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ó×ŒÏ-
+~squid:S00116""ZRename this field "PERSON_BIRTHDAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ó×ŒÏ-
+ysquid:S00116""URename this field "PERSON_SEX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ó×ŒÏ-
+Œsquid:S00116""hRename this field "PERSON_LINKSMOESTABLISHMENTID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ó×ŒÏ-
+rsquid:S00116""NRename this field "ENP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ó×ŒÏ-
+squid:S00116""[Rename this field "PERSON_ADDRESSID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üøãşÿÿÿÿ8ó×ŒÏ-
+squid:S00116#"[Rename this field "PERSON_DATEINPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116#"PRename this field "SNILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+ssquid:S00116#"ORename this field "BORN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+{squid:S00116#"WRename this field "DATEPASSPORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+usquid:S00116#"QRename this field "ENP_PA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+usquid:S00116#"QRename this field "VS_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+vsquid:S00116#"RRename this field "VS_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+rsquid:S00116#"NRename this field "ZAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+qsquid:S00116#"MRename this field "D2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+rsquid:S00116#"NRename this field "SMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó½ßüÿÿÿÿ8ó×ŒÏ-
+ssquid:S00116$"ORename this field "D_12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+ssquid:S00116$"ORename this field "D_13" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+vsquid:S00116$"RRename this field "OKATO_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+wsquid:S00116$"SRename this field "TYPE_POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+rsquid:S00116$"NRename this field "POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116$"PRename this field "ENP_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116$"PRename this field "ENP_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+usquid:S00116$"QRename this field "P14CX1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+usquid:S00116$"QRename this field "P14CX5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+usquid:S00116$"QRename this field "P14CX6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+usquid:S00116$"QRename this field "P14CX7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Š¬Çüÿÿÿÿ8ó×ŒÏ-
+ssquid:S00116%"ORename this field "XPN1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+ssquid:S00116%"ORename this field "XPN2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+ssquid:S00116%"ORename this field "XPN3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+wsquid:S00116%"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+xsquid:S00116%"TRename this field "ZADMINUS1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+xsquid:S00116%"TRename this field "ZADPLUS40" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+usquid:S00116%"QRename this field "NBLANC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+{squid:S00116%"WRename this field "VS_DATEPLUS1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+wsquid:S00116%"SRename this field "USER_ENP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜³¿¯şÿÿÿÿ8ó×ŒÏ-
+}squid:S00116&"^Rename this field "USER_PERSON_SURNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ó×ŒÏ-
+ƒsquid:S00116&"dRename this field "USER_PERSON_KINDFIRSTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ó×ŒÏ-
+‚squid:S00116&"cRename this field "USER_PERSON_KINDLASTNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ó×ŒÏ-
+rsquid:S00116&"SRename this field "USER_SMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ó×ŒÏ-
+ssquid:S00116&"TRename this field "USER_D_12" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ó×ŒÏ-
+ssquid:S00116&"TRename this field "USER_D_13" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡˜«‹8ó×ŒÏ-
+{squid:S00116'"WRename this field "USER_OKATO_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+|squid:S00116'"XRename this field "USER_TYPE_POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+wsquid:S00116'"SRename this field "USER_POL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00116'"RRename this field "RUSSIAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+rsquid:S00116'"NRename this field "D_V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116'"PRename this field "D_SER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116'"PRename this field "D_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+usquid:S00116'"QRename this field "PR_FAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116'"PRename this field "PR_IM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116'"PRename this field "PR_OT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄËà¡úÿÿÿÿ8ó×ŒÏ-
+wsquid:S00116("SRename this field "LAST_FAM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00116("RRename this field "LAST_IM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00116("RRename this field "LAST_OT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00116("RRename this field "LAST_DR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+xsquid:S00116("TRename this field "PFR_SNILS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+usquid:S00116("QRename this field "PFR_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+xsquid:S00116("TRename this field "PFR_NOTID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+zsquid:S00116("VRename this field "USER_SERDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+zsquid:S00116("VRename this field "USER_NUMDOC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­À¿ûÿÿÿÿ8ó×ŒÏ-
+ysquid:S00116)"URename this field "USER_DOCID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ó×ŒÏ-
+|squid:S00116)"XRename this field "USER_DOC_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ó×ŒÏ-
+ysquid:S00116)"URename this field "D_12_PLUS1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116)"PRename this field "KATEG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Î³üÿÿÿÿ8ó×ŒÏ-
+tsquid:S00116/"PRename this field "Pid29" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø›”´ÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‚Øòÿÿÿÿÿ8ó×ŒÏ-
+psquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚åÿ8ó×ŒÏ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜úŞŒ8ó×ŒÏ-
+vsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á‡÷Üÿÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ„ßÕ8ó×ŒÏ-
+vsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìëşÂüÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¡ª’şÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+qsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+qsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+qsquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+qsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+qsquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+qsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê„»¼8ó×ŒÏ-
+vsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ó×ŒÏ-
+qsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ó×ŒÏ-
+vsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ó×ŒÏ-
+qsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ó×ŒÏ-
+qsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ß±‰8ó×ŒÏ-
+qsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ó×ŒÏ-
+qsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ó×ŒÏ-
+qsquid:S00117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ó×ŒÏ-
+vsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ú¦“üÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ó×ŒÏ-
+qsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ó×ŒÏ-
+vsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ó×ŒÏ-
+qsquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ó×ŒÏ-
+qsquid:S00117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ó×ŒÏ-
+vsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+vsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ó×ŒÏ-
+qsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ó×ŒÏ-
+qsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ó×ŒÏ-
+qsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨“„•8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ‡’ÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ó×ŒÏ-
+qsquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8ó×ŒÏ-
+vsquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ó×ŒÏ-
+qsquid:S00117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8ó×ŒÏ-
+qsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ß±‰8ó×ŒÏ-
+qsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ó×ŒÏ-
+qsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ó×ŒÏ-
+qsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8ó×ŒÏ-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ú¦“üÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ó×ŒÏ-
+qsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8ó×ŒÏ-
+vsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ó×ŒÏ-
+qsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ó×ŒÏ-
+qsquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8ó×ŒÏ-
+vsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+qsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8ó×ŒÏ-
+vsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+vsquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8ó×ŒÏ-
+qsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ó×ŒÏ-
+qsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ó×ŒÏ-
+qsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ó×ŒÏ-
+qsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8ó×ŒÏ-
+Gsquid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148Ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148î"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Bsquid:S1148å"#Use a logger to log this exception.(¹ñ¦ç8ó×ŒÏ-
+Gsquid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148‚"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148¼	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148¿	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148Ç	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-
+Gsquid:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ó×ŒÏ-

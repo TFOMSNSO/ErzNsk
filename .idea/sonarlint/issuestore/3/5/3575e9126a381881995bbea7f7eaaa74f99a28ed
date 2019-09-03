@@ -1,36 +1,38 @@
 
-=squid:S1148"#Use a logger to log this exception.(Çºíøÿÿÿÿ
-msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÛ
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‰Íâèşÿÿÿÿ8ç»§ƒÅ-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8ç»§ƒÅ-
+³%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(š¡»Éüÿÿÿÿ8‡Ù†Æ-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(»¬£8ç»§ƒÅ-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔİŞ²8‡Ù†Æ-
+Dsquid:S1148"#Use a logger to log this exception.(şÃ¯şÿÿÿÿ8òÏ§ƒÅ-
+Ksquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ8ç»§ƒÅ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(„ûÂ­ÿÿÿÿÿ8òÏ§ƒÅ-
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÉ€8¤®ˆÄ-
-Msquid:S1197"8Move the array designator from the variable to the type.(õ£Ü®
-[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¤Ê‚Œ
- %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(š¡»Éüÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(şÃ¯şÿÿÿÿ
-8squid:S1148"#Use a logger to log this exception.(‚¦…º
-nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Î­ƒ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Şƒ•¾şÿÿÿÿ
-asquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÀÊ“úÿÿÿÿ
-Osquid:S1161":Add the "@Override" annotation above this method signature(»¬£
-¬%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(š¡»Éüÿÿÿÿ
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÇÛÅûÿÿÿÿ
-asquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ
-`squid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(áò‰øÿÿÿÿ
-8squid:S1148"#Use a logger to log this exception.(¤Ê‚Œ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ
-nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔİŞ²
-Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Áí‡§
-Tsquid:S1161":Add the "@Override" annotation above this method signature(ÆÇÛÅûÿÿÿÿ
-Dsquid:S2093"*Change this "try" to a try-with-resources.(ç£êúÿÿÿÿ
-asquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‰Íâèşÿÿÿÿ
-gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(»¬£
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-Lsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚¦…º
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åû»8‡Ù†Æ-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(»¬£8ç»§ƒÅ-
+Tsquid:S1197"8Move the array designator from the variable to the type.(õ£Ü®8‡Ù†Æ-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¤Ê‚Œ8‡Ù†Æ-
+gsquid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(áò‰øÿÿÿÿ8òÏ§ƒÅ-
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(„ûÂ­ÿÿÿÿÿ8ı³‡ˆÄ-
-nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔİŞ²
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ·•‚ûÿÿÿÿ8òÏ§ƒÅ-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Î­ƒ8‡Ù†Æ-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ8òÏ§ƒÅ-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔİŞ²8‡Ù†Æ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8òÏ§ƒÅ-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆÇÛÅûÿÿÿÿ8‡Ù†Æ-
+hsquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ8òÏ§ƒÅ-
+[squid:S1161":Add the "@Override" annotation above this method signature(ÆÇÛÅûÿÿÿÿ8‡Ù†Æ-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÛ8ç»§ƒÅ-
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñ·•‚ûÿÿÿÿ8Äƒ£Ä-
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë­¿¾şÿÿÿÿ8–õı€Æ-
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(š¡»Éüÿÿÿÿ8‡Ù†Æ-
+?squid:S1148"#Use a logger to log this exception.(Åû»8‡Ù†Æ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÉ€8òÏ§ƒÅ-
+Dsquid:S1148"#Use a logger to log this exception.(Çºíøÿÿÿÿ8ç»§ƒÅ-
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Áí‡§8‡Ù†Æ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şƒ•¾şÿÿÿÿ8òÏ§ƒÅ-
+?squid:S1148"#Use a logger to log this exception.(¤Ê‚Œ8‡Ù†Æ-
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÀÊ“úÿÿÿÿ8òÏ§ƒÅ-

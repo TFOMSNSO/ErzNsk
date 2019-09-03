@@ -2,13 +2,16 @@ $.getScript('js/spin.js');
 var full = location.protocol+'//'+location.hostname+(location.port ? ':'+location.port: '');
 var port = +location.port ? ':'+location.port: '';
 
-//var webSocket = new WebSocket("ws://192.168.199.240:8081/wsanswernew");
 
 
 
-var ws = new WebSocket("ws://192.168.199.240"+port+"/wsAnswerNew");
-//var ws = new WebSocket("ws://asu-srp"+port+"/ErzNsk_1/wsAnswerNew");
+// var ws = new WebSocket("ws://192.168.199.240"+port+"/wsAnswerNew");
+// var ws = new WebSocket("ws://localhost"+port+"/wsAnswerNew");
+var ws = new WebSocket("ws://asu-srp"+port+"/ErzNsk/wsAnswerNew");
 console.log('Connect to :'+ "ws://" + location.hostname +port+"/wsAnswerNew");
+
+
+
 //var ws = new WebSocket("ws://" + location.hostname +port+"/wsAnswer");
 
 //флаг открытли запрос
@@ -36,6 +39,7 @@ var opts = {
 		var ajax_cnt = 0; // Support for parallel AJAX requests
 
 ws.onopen = function() {
+	console.log('on open websocket');
     postToServerOtladkaXMLNO();
  }
 
@@ -45,7 +49,9 @@ function getNowCount()
 	{
 		return true;
 	}
-	else{return false;}
+	else{
+		return false;
+	}
 }
 
 

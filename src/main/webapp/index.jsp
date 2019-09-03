@@ -787,8 +787,10 @@ $(document).ready(function()
 		        	        	     		$("#dim2").fadeIn();
 		        	        	     		spinner.spin($('#spinner_center')[0]);
 		        	        	        	 ajax_cnt++;
-	        	        	        	    
-		        	        	        	 $.ajax({
+
+	        	        	        	    console.log('a08p08:' + JSON.stringify(myData));
+
+	        	        	        	    $.ajax({
 			        						        url: "process_A08P08",
 			        						        type: 'POST',
 			        						        dataType: 'json',
@@ -824,7 +826,75 @@ $(document).ready(function()
 	        	            	 			
 				        		 		}
 					        	     });
-			        	     
+									$('#A08P08pr').click(function ()
+									{
+
+										if ($('.panel#tableexcel').is(':visible'))
+										{
+
+											$('#modalfoms').modal('hide');
+											//setTimeout ("$('ul#login-dp').slideDown(2000);", 1000);
+											//$('#tamessage').val("> Послан запрос "+this.value+"...");
+											// отправляем ключ что это такой-то запрос
+
+
+											let hotInstan1 = $('#list1onsc').handsontable('getInstance');
+											let e1 =hotInstan1.countRows()-hotInstan1.countEmptyRows(true);
+											let wd1 = hotInstan1.countCols()-hotInstan1.countEmptyCols(true);
+
+											let hotInstance2 = $('#list2onsc').handsontable('getInstance');
+											let e2 =hotInstance2.countRows()-hotInstance2.countEmptyRows(true);
+											let wd2 = hotInstance2.countCols()-hotInstance2.countEmptyCols(true);
+
+											let hotInstance3 = $('#list3onsc').handsontable('getInstance');
+											let e3 =hotInstance3.countRows()-hotInstance3.countEmptyRows(true);
+											let wd3 = hotInstance3.countCols()-hotInstance3.countEmptyCols(true);
+
+											let myData = { list1:hotInstan1.getData(0,0,e1-1,wd1-1), list2:hotInstance2.getData(0,0,e2-1,wd2-1), list3:hotInstance3.getData(0,0,e3-1,wd3-1)	};
+
+											$("#dim2").css("height", $(document).height());
+											$("#dim2").fadeIn();
+											spinner.spin($('#spinner_center')[0]);
+											ajax_cnt++;
+
+											// console.log('a08p08:' + JSON.stringify(myData));
+
+											$.ajax({
+												url: "process_A08P08_prizyv",
+												type: 'POST',
+												dataType: 'json',
+												data: JSON.stringify(myData),
+												contentType: 'application/json',
+												success: function (res)
+												{
+													hotInstan1.loadData(res.list1);
+
+													$('#btnexportfromhandsontableTOExcel').trigger('click');
+													$('#dim2').fadeOut();spinner.stop();ajax_cnt = 0;
+
+													if(res.info > 0){console.log('info '+res.info); setTimeout ("$('#warning1').modal('show');", 2000);}
+
+													// берем значение с нажатой кнопки  с меню запросы ффомс (кнопка верхнего уровня)
+													var val = $('#'+id).attr("value");
+													// включаем кнопку сформированного запроса
+													$('#zaprosWebExcel').prop('disabled', false);
+													// включаем кнопку расформировать запрос
+													$('#zaprosWebExcelCancel').prop('disabled', false);
+													// обновляем кнопку: имя запроса
+													$('#zaprosWebExcel').text('Отправить А08П08');
+													// устанавливаем value кнопке запрос несформирован или сформирован
+													$('#zaprosWebExcel').prop('value', 'A08P08');
+												},
+												error: function (jqXHR, textStatus, errorThrown){
+													$('#dim2').fadeOut();spinner.stop();ajax_cnt = 0; console.log(' Произошла ошибка загрузки. Обновитесь и повторите.'+JSON.stringify(jqXHR));
+													console.log(' textStatus '+JSON.stringify(textStatus));
+													console.log(' errorThrown '+JSON.stringify(errorThrown));
+												}
+
+											});
+
+										}
+									});
 			        	     
 			        	     
 			        	     
@@ -1696,6 +1766,9 @@ $(document).ready(function()
 										</li>
 										<li>
 										<button style="background-color: #4193ab;" type="button" id="A03P07" class="btn btn-primary" value="A03P07">А03П07</button>
+										</li>
+										<li>
+										<button style="background-color: #4193ab;" type="button" id="A08P08pr" class="btn btn-primary" value="A08P08">А08П08prizyv</button>
 										</li>
 										<li>
 										<button style="background-color: #4193ab;" type="button" id="A08P08" class="btn btn-primary" value="A08P08">А08П08</button>

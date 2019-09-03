@@ -48,7 +48,6 @@ public class MessageA08p08 extends MessageCommon {
 	protected void createMiddle(int count, Namespace namespace,	Element rootElement, String curDate) {
 		
 		for (int i = 0; i < count; i++) {
-			
 			Element adt_a01 = new Element("ADT_A01", namespace);
 			rootElement.addContent(adt_a01);
 
@@ -59,6 +58,7 @@ public class MessageA08p08 extends MessageCommon {
 			evn.addContent(new Element("EVN.2", namespace).addContent(curDate));
 			evn.addContent(new Element("EVN.4", namespace).addContent("Ï04"));
 
+			System.out.println("creating middle a08p08");
 			createPid(namespace, i, adt_a01);
 
 			adt_a01.addContent(new Element("PV1", namespace).addContent(new Element("PV1.2", namespace).addContent("1")));
@@ -94,7 +94,7 @@ public class MessageA08p08 extends MessageCommon {
 			in1.addContent(new Element("IN1.12", namespace).addContent(dataList.get(i).get(D_12)));
 
 			in1.addContent(new Element("IN1.13", namespace).addContent(dataList.get(i).get(D_13)));
-			
+			System.out.println("in12:" + dataList.get(i).get(D_12) + " in13:" + dataList.get(i).get(D_13));
 			in1.addContent(new Element("IN1.15", namespace).addContent("50000"));
 			
 			in1.addContent(new Element("IN1.18", namespace).addContent(dataList.get(i).get(PERSON_BIRTHDAY)));
@@ -116,7 +116,7 @@ public class MessageA08p08 extends MessageCommon {
 protected void createMiddle(int count, Namespace namespace,	Element rootElement, String curDate,boolean tt) {
 		
 		for (int i = 0; i < count; i++) {
-			
+			System.out.println("dataList(i):" + dataList.get(i));
 			Element adt_a01 = new Element("ADT_A01", namespace);
 			rootElement.addContent(adt_a01);
 
@@ -132,9 +132,9 @@ protected void createMiddle(int count, Namespace namespace,	Element rootElement,
 			Element pv1 = new Element("PV1", namespace);
 			adt_a01.addContent(pv1);
 			pv1.addContent(new Element("PV1.2", namespace).addContent("1"));
-			pv1.addContent(new Element("PV1.4", namespace).addContent(dataList.get(i).get(PERSON_ADDRESSID)));
-			pv1.addContent(new Element("PV1.44", namespace).addContent(dataList.get(i).get(USER_PERSON_SURNAME)));
-			
+			pv1.addContent(new Element("PV1.4", namespace).addContent(dataList.get(i).get(PERSON_ADDRESSID)));//13
+			pv1.addContent(new Element("PV1.44", namespace).addContent(dataList.get(i).get(USER_PERSON_SURNAME)));//14
+
 			Element adt_a01insurance = new Element("ADT_A01.INSURANCE", namespace);
 			adt_a01.addContent(adt_a01insurance);
 			
@@ -151,9 +151,9 @@ protected void createMiddle(int count, Namespace namespace,	Element rootElement,
 			in1_3.addContent(new Element("CX.1", namespace).addContent(dataList.get(i).get(PERSON_LINKSMOESTABLISHMENTID)));
 			in1_3.addContent(new Element("CX.5", namespace).addContent("NII"));
 
-			in1.addContent(new Element("IN1.12", namespace).addContent(dataList.get(i).get(D_12)));
+			in1.addContent(new Element("IN1.12", namespace).addContent(dataList.get(i).get(D_12)));//16
 
-			in1.addContent(new Element("IN1.13", namespace).addContent(dataList.get(i).get(D_13)));
+			in1.addContent(new Element("IN1.13", namespace).addContent(dataList.get(i).get(D_13)));//17
 			
 			in1.addContent(new Element("IN1.15", namespace).addContent("50000"));
 			

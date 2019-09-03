@@ -201,3 +201,13 @@ R
 "src/main/java/servlet/TaskP03.java,9\d\9dd19a8e87682bca7932c5163eb0b66d5afd42ec
 T
 $src/main/java/services/Services.java,0\f\0fc237630526f0105067044ae5ad126a23c070a4
+b
+2src/main/java/model/other/ListWebForXMLQuery2.java,9\8\98e0bf0edf79a9a1b0f613191c974db26abc406a
+U
+%src/main/java/oracle/AppakOracle.java,7\1\714cf8b08e8cf4cd7d4cabd401c6d9726e04e402
+K
+src/main/webapp/loginNY.jsp,1\9\19a191ea992359d4c80c13efdb9bbaabbc56f6c8
+`
+0src/main/java/model/other/SnilsSaveResponse.java,e\3\e30076d0beb2aaa404ec403f00582dd043527a48
+a
+1src/main/java/model/message/MessageA08p03PRZ.java,4\2\429378e5f83a1afd045788a963d2cade12c114b7

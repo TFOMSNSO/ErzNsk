@@ -1,81 +1,87 @@
 
-[squid:S1192"FDefine a constant instead of duplicating this literal "CWE.1" 4 times.(Ï¤•¦
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ
-Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ
-lsquid:S1192"RDefine a constant instead of duplicating this literal "ADT_A01.INSURANCE" 4 times.(×»³Êøÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ï¾
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹Ûòùÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï
-[squid:S1192"FDefine a constant instead of duplicating this literal "IN1.2" 4 times.(Ï¤•¦
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ
-asquid:S1192"GDefine a constant instead of duplicating this literal "IN1.35" 8 times.(ûşÉ†ùÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì‡×ÿÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À˜¦Àùÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì‡×ÿÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ
-\squid:S1192"GDefine a constant instead of duplicating this literal "IN1.15" 4 times.(±é…â
-\squid:S1192"GDefine a constant instead of duplicating this literal "IN1.12" 4 times.(ï†ş¯
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ú¦“üÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×»³Êøÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ï¾
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À˜¦Àùÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹ûøÿÿÿÿ
-`squid:S1192"FDefine a constant instead of duplicating this literal "IN1.3" 4 times.(åì‡×ÿÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜÈÈùÿÿÿÿ
-Lsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ
-bsquid:S1192"HDefine a constant instead of duplicating this literal "ADT_A01" 4 times.(âÜÈÈùÿÿÿÿ
-\squid:S1192"GDefine a constant instead of duplicating this literal "IN1.36" 8 times.(˜Ó¯Ó
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×»³Êøÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜÈÈùÿÿÿÿ
-\squid:S1192"GDefine a constant instead of duplicating this literal "IN1.13" 4 times.(Ë´Äƒ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ß±‰
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹Ûòùÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©òœşÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¯ã€ÿÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©òœşÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹ûøÿÿÿÿ
-[squid:S1192"FDefine a constant instead of duplicating this literal "IN1.1" 4 times.(ÚîÔÚ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ
-Lsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¯ã€ÿÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ
-Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ
+usquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì‡×ÿÿÿÿÿ8…±Í‹Ï-
+Vsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8…±Í‹Ï-
+dsquid:S1192K"FDefine a constant instead of duplicating this literal "CWE.1" 4 times.(Ï¤•¦8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8…±Í‹Ï-
+usquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜÈÈùÿÿÿÿ8…±Í‹Ï-
+psquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ï¾8…±Í‹Ï-
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ôĞ™û8‘¨Ğ‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šõ€­ıÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8…±Í‹Ï-
+psquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8…±Í‹Ï-
+psquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À˜¦Àùÿÿÿÿ8…±Í‹Ï-
+usquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹ûøÿÿÿÿ8…±Í‹Ï-
+jsquid:S1192a"GDefine a constant instead of duplicating this literal "IN1.35" 8 times.(ûşÉ†ùÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8…±Í‹Ï-
+usquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¯ã€ÿÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8…±Í‹Ï-
+Vsquid:S1135Š"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8…±Í‹Ï-
+esquid:S1192c"GDefine a constant instead of duplicating this literal "IN1.36" 8 times.(˜Ó¯Ó8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€ùå8…±Í‹Ï-
+ksquid:S11924"HDefine a constant instead of duplicating this literal "ADT_A01" 4 times.(âÜÈÈùÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹«ì³ûÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( „¸ìşÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8…±Í‹Ï-
+vsquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×»³Êøÿÿÿÿ8…±Í‹Ï-
+vsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÜÈÈùÿÿÿÿ8…±Í‹Ï-
+isquid:S1192M"FDefine a constant instead of duplicating this literal "IN1.3" 4 times.(åì‡×ÿÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8…±Í‹Ï-
+vsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¯ã€ÿÿÿÿÿ8…±Í‹Ï-
+usquid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹Ûòùÿÿÿÿ8…±Í‹Ï-
+vsquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©òœşÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßù°ì8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í†ƒ²ıÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú»©Ë8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8…±Í‹Ï-
+usquid:S00117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©òœşÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á“µ†8…±Í‹Ï-
+usquid:S1192C"RDefine a constant instead of duplicating this literal "ADT_A01.INSURANCE" 4 times.(×»³Êøÿÿÿÿ8…±Í‹Ï-
+esquid:S1192V"GDefine a constant instead of duplicating this literal "IN1.15" 4 times.(±é…â8…±Í‹Ï-
+psquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8…±Í‹Ï-
+vsquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹Ûòùÿÿÿÿ8…±Í‹Ï-
+psquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‰àï8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8…±Í‹Ï-
+dsquid:S1192K"FDefine a constant instead of duplicating this literal "IN1.2" 4 times.(Ï¤•¦8…±Í‹Ï-
+Usquid:S1135-"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ú¦“üÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ß±‰8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒãÙòûÿÿÿÿ8…±Í‹Ï-
+usquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×»³Êøÿÿÿÿ8…±Í‹Ï-
+Usquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ñÑÅ8…±Í‹Ï-
+dsquid:S1192I"FDefine a constant instead of duplicating this literal "IN1.1" 4 times.(ÚîÔÚ8…±Í‹Ï-
+esquid:S1192R"GDefine a constant instead of duplicating this literal "IN1.12" 4 times.(ï†ş¯8…±Í‹Ï-
+[
+squid:S106f"9Replace this use of System.out or System.err by a logger.(Ê³şÎüÿÿÿÿ8ì½Î‹Ï-
+qsquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ï¾8…±Í‹Ï-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ş¼ô8…±Í‹Ï-
+vsquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¹ûøÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å„Ğ–úÿÿÿÿ8…±Í‹Ï-
+vsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì‡×ÿÿÿÿÿ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ìÿÿÿÿÿ8…±Í‹Ï-
+esquid:S1192T"GDefine a constant instead of duplicating this literal "IN1.13" 4 times.(Ë´Äƒ8…±Í‹Ï-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À˜¦Àùÿÿÿÿ8…±Í‹Ï-
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(¸‘Í†8×ÜÄŒÏ-

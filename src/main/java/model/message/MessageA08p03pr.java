@@ -48,7 +48,7 @@ public class MessageA08p03pr extends MessageCommon {
 	protected void createMiddle(int count, Namespace namespace,
 			Element rootElement, String curDate) {
 		for (int i = 1; i < count; i++) {
-		
+			System.out.println("middle a08p03");
 			Element adt_a01 = new Element("ADT_A01", namespace);
 			rootElement.addContent(adt_a01);
 			
@@ -99,7 +99,8 @@ public class MessageA08p03pr extends MessageCommon {
 			in1_1.addContent(new Element("IN1.36", namespace).addContent(dataList.get(i).get(POL)));
 	
 			in1_1.addContent(new Element("IN1.52", namespace).addContent(dataList.get(i).get(BORN)));
-	
+			System.out.println("snils:" + dataList.get(i).get(SNILS));
+			System.out.println("pfr_snils:" + dataList.get(i).get(PFR_SNILS));
 			//IN1-2
 			Element adt_a01_2insurance = new Element("ADT_A01.INSURANCE", namespace);
 			adt_a01.addContent(adt_a01_2insurance);

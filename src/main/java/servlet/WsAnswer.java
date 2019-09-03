@@ -433,7 +433,6 @@ public class WsAnswer extends WebSocketServlet {
 									}
 
 								}
-
 							} else {
 								System.out
 										.println("загрузки в эксель не произошло");

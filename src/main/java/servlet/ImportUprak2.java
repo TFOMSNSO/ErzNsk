@@ -76,7 +76,7 @@ public class ImportUprak2 extends HttpServlet
 		    	ArrayList<String> list3 = new ArrayList<String>();
 		    	list3.add("zp1");
 		      	
-		    	Map<String, ArrayList<	String>	> ind = new LinkedHashMap<String, ArrayList<	String	>>();
+		    	Map<String, ArrayList<String>> ind = new LinkedHashMap<String, ArrayList<	String	>>();
 			  	ind.put("data1", list1);
 			  	ind.put("data2", list2);
 			  	ind.put("data3", list3);

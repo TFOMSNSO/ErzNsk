@@ -1,0 +1,53 @@
+
+isquid:S2077	"RUse a variable binding mechanism to construct this query instead of concatenation.(¤ÒÓğ
+squid:S1192/"qDefine a constant instead of duplicating this literal "(pa.last_fam,pa.last_im,pa.last_ot,pa.last_dr ) " 4 times.(ë†äçüÿÿÿÿ
+osquid:S11922"XDefine a constant instead of duplicating this literal "and pa.last_fam is null" 4 times.(¦ä‰Ê
+¨squid:S11921"Define a constant instead of duplicating this literal "where pa.personadd_addressid in (select personadd_addressid from error_goznak) " 4 times.(¦¡£¤
+usquid:S1192."YDefine a constant instead of duplicating this literal "update personadd pa set " 4 times.(ˆİÛêÿÿÿÿÿ
+fsquid:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+csquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+csquid:S20954"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+csquid:S2095J"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+csquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+fsquid:S20953"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+csquid:S2095T"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+csquid:S2095?"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+csquid:S2095""GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+fsquid:S2095I"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+fsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+fsquid:S2095S"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+csquid:S2095a"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ü·şÿÿÿÿ
+fsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+fsquid:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+fsquid:S2095`"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(úØ˜ó
+Xsquid:S1226"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S1226"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S1226!"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226""?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S12263"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S12264"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S1226>"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226?"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S1226I"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226J"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S1226S"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226T"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+Xsquid:S1226`"AIntroduce a new variable instead of reusing the parameter "stmt".(úØ˜ó
+[squid:S1226a"?Introduce a new variable instead of reusing the parameter "rs".(ü·şÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äµ„úÿÿÿÿ
+ksquid:S00100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÂšÈúÿÿÿÿ
+ksquid:S00100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( õ¾Àúÿÿÿÿ
+Rsquid:S1854"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S1854"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S1854""6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S18544"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S1854?"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S1854J"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S1854T"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+Rsquid:S1854a"6Remove this useless assignment to local variable "rs".(ü·şÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

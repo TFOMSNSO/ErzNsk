@@ -37,7 +37,9 @@ public class ImportZP1fromXMLToHandsontable extends HttpServlet {
 	  String json = null ;
 	  //ловим данные с webSocketAnswer.js
 	  String uprak2 = request.getParameter("uprak2");
+	  System.out.println("uprak2:" + uprak2);
 	  String upr = request.getParameter("datauprmessZP");
+	  System.out.println("upr:" + upr);
 	  //String kluch = request.getParameter("kluch");
 	  // парсим данные с нашей базы
 	  //ArrayList<ArrayList<String>> parsedatauprmessZP1 = parsedatauprmessZP(upr);
@@ -50,7 +52,8 @@ public class ImportZP1fromXMLToHandsontable extends HttpServlet {
 	  } catch (JAXBException e) {
 	  	e.printStackTrace();
 	  }
-	  
+
+
 	  // парсим uprak2. ключ нужен для определения какой упрак какого запроса будем парсить.    
 	  ZpLoadMock2 zpLoad = new ZpLoadMock2();
 	  ArrayList<ArrayList<String>>  parsedUprak2 = zpLoad.load(uprak2);
@@ -97,7 +100,7 @@ public class ImportZP1fromXMLToHandsontable extends HttpServlet {
   
  
   
-  private void compare(ArrayList<ArrayList<String>> parsedatauprmessZP1,ArrayList<ArrayList<String>> parsedatauprak2ZP1 )
+  private void compare(ArrayList<ArrayList<String>> parsedatauprmessZP1,ArrayList<ArrayList<String>> parsedatauprak2ZP1)
   {
   	System.out.println("------------------------------------before compare:\nparsedatauprmessZP1(0) size:" + parsedatauprak2ZP1.get(0).size());
   	for(int i =0; i < parsedatauprmessZP1.size(); i++){

@@ -51,8 +51,11 @@ private static final long serialVersionUID = 1L;
         if(br != null){
             json = br.readLine();
         }
+        System.out.println("json before encode:" + json);
         String fg = URLEncoder.encode(json, "Cp1251");
+        System.out.println("json after encode:" + fg);
         String fg2 = URLDecoder.decode(fg, "UTF-8");
+        System.out.println("json after decode:" + fg2);
         if(fg2.substring(2, 9).equals("disband"))
         {
       	  // 2. initiate jackson mapper
@@ -95,15 +98,15 @@ private static final long serialVersionUID = 1L;
   		 int zadershka=1000;
   		 // задаем задержку в зависимости от количества обрабатываемы строк (чем больше строк тем меньше задержка)
   		 if(x <= 10)zadershka = 1000;
-  		 if(x <= 50 && x > 10)zadershka = 200;
-  		 if(x <= 100 && x > 50)zadershka = 100;
-  		 if(x <= 5000 && x > 100)zadershka = 10;
+  		 if(x <= 50 && x > 10) zadershka = 200;
+  		 if(x <= 100 && x > 50) zadershka = 100;
+  		 if(x <= 5000 && x > 100) zadershka = 10;
   		 double res =0;
   		
   		 for (int i = 0; i < listWeb.getList1().size(); i++)
   		 {
   			 String mas[] = listWeb.getList1().get(i).toString().split(",");
-  			 
+  			 System.out.println("MAS:" + mas);
   			 if ( !mas[8].trim().equalsIgnoreCase("")) 
   			 {
   				 if(mas.length >= 24 && ((
@@ -122,7 +125,7 @@ private static final long serialVersionUID = 1L;
 	  				 }
 	  				 table.add(rows);
 	  				 try {Thread.sleep(zadershka);} catch (InterruptedException e) {e.printStackTrace();}*/
-  				 // условие ZP3 -> A08P02	 
+  				 // условие ZP3 -> A08P02
   				 }else if(mas[4].trim().equals("")){ 
   				 }else {
   					

@@ -392,6 +392,8 @@ public abstract class MessageCommon implements Message {
 		pid26.addContent(new Element("CWE.1", namespace).addContent(dataList.get(i).get(RUSSIAN)));
 		pid26.addContent(new Element("CWE.3", namespace).addContent("1.2.643.2.40.5.0.25.3"));
 
+
+
 		/*
 		 * ѕризнак иностранца в соотсесвии 7 приказом.
 		 * ѕришлось сделать таблицу соответсви€ тк у нас другие ид 

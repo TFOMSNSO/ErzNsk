@@ -92,11 +92,12 @@ private static final long serialVersionUID = 1L;
 	        
 	        res = stat.executeQuery("select t.enp,d.serdoc,d.numdoc,d.docpersonid,d.date_input from person t, person_doc_history d  "
 	        		+ "where "
-	        		+ "t.person_linksmoestablishmentid  > 0 and t.person_dateinput=d.date_input  and t.person_addressid=d.id  and t.person_dateinput between  '"+databegin+"' and '"+datalimit+"'");
+	        		+ "t.person_linksmoestablishmentid  > 0 and trunc(t.person_dateinput) = trunc(d.date_input)  and t.person_addressid=d.id  and t.person_dateinput between  '" + databegin + "' and '"+datalimit+"'");
 			
 			
 			while(res.next()) {l.add(res.getString(1));}
 	     	if(!l.isEmpty()) System.out.println("L.size:" + l.size() + "L(0):" + l.get(0));
+			else System.out.println("L empty");
 				
 			for(int i=0;i<l.size();i++)
 			{
@@ -136,8 +137,10 @@ private static final long serialVersionUID = 1L;
 		finally
 		{ 
 			if (res != null) {  try {res.close();} catch (SQLException e) {e.printStackTrace();}  }
-		if (stat != null) {  try {stat.close();} catch (SQLException e) {e.printStackTrace();}  }
-        if (conn != null) { try {conn.close();} catch (SQLException e) {e.printStackTrace();} System.out.println("Скинули в пул!");}
+			if (stat != null) {  try {stat.close();} catch (SQLException e) {e.printStackTrace();}  }
+        	if (conn != null) {
+				try {conn.close();
+				} catch (SQLException e) {e.printStackTrace();}System.out.println("Скинули в пул!");}
         }
         ConnectionPoolOracle.printStatus();
            

@@ -1,37 +1,38 @@
 
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(§œØŞüÿÿÿÿ8¡‡¦„½-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÈİ¼8Ó¼»Â-
 zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Š€ìşÿÿÿÿ8‰À€½-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌØ²Üüÿÿÿÿ8Ó¼»Â-
+Vsquid:S1854":Remove this useless assignment to local variable "second".(‚òÑò8‰À€½-
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(®¿“Š8Ó¼»Â-
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷úİÜşÿÿÿÿ8‰À€½-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌØ²Üüÿÿÿÿ8Ó¼»Â-
+`squid:UselessImportCheck"2Remove this unused import 'model.other.ZpParser2'.(¸éæÖşÿÿÿÿ8‰À€½-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì˜…8‰À€½-
+[squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8‰À€½-
+squid:S1319"mThe type of the "ls" object should be an interface such as "List" rather than the implementation "ArrayList".(‚Ç¶şÿÿÿÿ8‰À€½-
+°%squid:RedundantThrowsDeclarationCheck"uRemove the declaration of thrown exception 'javax.xml.bind.JAXBException', as it cannot be thrown from method's body.(ğÙ™Úøÿÿÿÿ8·Ï€Å-
 ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šæ¤Ùûÿÿÿÿ8Ó¼»Â-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‰É‚øÿÿÿÿ8Ó¼»Â-
+]squid:S1854"<Remove this useless assignment to local variable "secondAL".(ÈÕ¿’ùÿÿÿÿ8‰À€½-
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î¼¼M8‰À€½-
+Rsquid:S1854"7Remove this useless assignment to local variable "emp".(Äê£=8‰À€½-
+]squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8‰À€½-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç¦ƒãıÿÿÿÿ8Ó¼»Â-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÛÑı8Ç…Û„½-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ù•úÿÿÿÿ8Ó¼»Â-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì˜…8‰À€½-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛìÒğşÿÿÿÿ8Ó¼»Â-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Š€ìşÿÿÿÿ8‰À€½-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—­‘“ûÿÿÿÿ8‰À€½-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏØÏ¬şÿÿÿÿ8‰À€½-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šæ¤Ùûÿÿÿÿ8Ó¼»Â-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¹öüÿÿÿÿ8Ó¼»Â-
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(”şŸ8Ó¼»Â-
 Ssquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ó¼»Â-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ù•úÿÿÿÿ8Ó¼»Â-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÊÛñ8Ó¼»Â-
-‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(æÈµøÿÿÿÿ8‰À€½-
-squid:S1319"mThe type of the "ls" object should be an interface such as "List" rather than the implementation "ArrayList".(‚Ç¶şÿÿÿÿ8‰À€½-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÏØÏ¬şÿÿÿÿ8‰À€½-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛìÒğşÿÿÿÿ8Ó¼»Â-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(šæ¤Ùûÿÿÿÿ8Ó¼»Â-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÈİ¼8Ó¼»Â-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—­‘“ûÿÿÿÿ8‰À€½-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(åÛÑı8Ç…Û„½-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‰É‚øÿÿÿÿ8Ó¼»Â-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç¦ƒãıÿÿÿÿ8Ó¼»Â-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(§œØŞüÿÿÿÿ8¡‡¦„½-
-Rsquid:S1854"7Remove this useless assignment to local variable "emp".(Äê£=8‰À€½-
-`squid:UselessImportCheck"2Remove this unused import 'model.other.ZpParser2'.(¸éæÖşÿÿÿÿ8‰À€½-
-ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì˜…8‰À€½-
-]squid:S1854"<Remove this useless assignment to local variable "secondAL".(ÈÕ¿’ùÿÿÿÿ8‰À€½-
-[squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8‰À€½-
 zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈÕ¿’ùÿÿÿÿ8‰À€½-
-‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷úİÜşÿÿÿÿ8‰À€½-
-Vsquid:S1854":Remove this useless assignment to local variable "second".(‚òÑò8‰À€½-
-zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡Š€ìşÿÿÿÿ8‰À€½-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ì˜…8‰À€½-
-]squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8‰À€½-
-tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î¼¼M8‰À€½-
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¥¹öüÿÿÿÿ8Ó¼»Â-
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(æÈµøÿÿÿÿ8‰À€½-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÊÛñ8Ó¼»Â-

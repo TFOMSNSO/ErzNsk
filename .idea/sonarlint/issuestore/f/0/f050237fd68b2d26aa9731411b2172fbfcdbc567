@@ -1,50 +1,58 @@
 
-8squid:S1148"#Use a logger to log this exception.(¤Ê‚Œ
-?squid:S00108")Either remove or fill this block of code.(İß®é
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôäùƒÿÿÿÿÿ
-›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(±ò¨ 
-Msquid:S1197"8Move the array designator from the variable to the type.(õ£Ü®
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ
-=squid:S1989"(Add a "try/catch" block for "readValue".(£î±ì
-[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¤Ê‚Œ
-§%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(±ò¨ 
-›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½œ•Æşÿÿÿÿ
-Bsquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ
-_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÄÈ{
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÙÀ
-=squid:S1989"(Add a "try/catch" block for "readValue".(õİøš
-Msquid:S1989"3Add a "try/catch" block for "setCharacterEncoding".(áò‰øÿÿÿÿ
-`squid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(áò‰øÿÿÿÿ
-[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¤Ê‚Œ
-nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Î­ƒ
-Msquid:S1989"3Add a "try/catch" block for "responseDelEmptyRows".(íšùÿÿÿÿÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®›ß‡ùÿÿÿÿ
-=squid:S1989"(Add a "try/catch" block for "readValue".(õİøš
-?squid:S1989"%Add a "try/catch" block for "decode".(‡¡ùúÿÿÿÿ
-asquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ
-lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(È•œÏøÿÿÿÿ
-Lsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-<squid:S1989"'Add a "try/catch" block for "readLine".(œœÏ¡
-=squid:S1989"(Add a "try/catch" block for "readValue".(õİøš
-nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Î­ƒ
-qsquid:UselessImportCheck"JRemove this unused import 'com.fasterxml.jackson.core.type.TypeReference'.(ãĞß¤ÿÿÿÿÿ
-=squid:S1989"(Add a "try/catch" block for "readValue".(£î±ì
-8squid:S1148"#Use a logger to log this exception.(¤Ê‚Œ
-Osquid:S1161":Add the "@Override" annotation above this method signature(»¬£
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®›ß‡ùÿÿÿÿ
-gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(±ò¨ 
-Msquid:S1197"8Move the array designator from the variable to the type.(š‘æã
-Rsquid:UselessImportCheck"0Remove this unused import 'model.other.ListWeb'.(­¥š³
-Qsquid:S2589"7Remove this expression which always evaluates to "true"(¦†âÿøÿÿÿÿ
-=squid:S1989"(Add a "try/catch" block for "readValue".(£î±ì
-Msquid:S1989"3Add a "try/catch" block for "responseDelEmptyRows".(íšùÿÿÿÿÿ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ
-Tsquid:S1161":Add the "@Override" annotation above this method signature(½œ•Æşÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢¬ä¦
-Bsquid:S1989"-Add a "try/catch" block for "getInputStream".(ò™°è
-asquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ
-Bsquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôäùƒÿÿÿÿÿ
-:squid:S1989"%Add a "try/catch" block for "encode".(’Ååî
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ù¤›µøÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(õ£Ü®8«Ô‹†Å-
+xsquid:UselessImportCheck"JRemove this unused import 'com.fasterxml.jackson.core.type.TypeReference'.(ãĞß¤ÿÿÿÿÿ8«Ô‹†Å-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ8«Ô‹†Å-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôäùƒÿÿÿÿÿ8«Ô‹†Å-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ùë‹şÿÿÿÿ8«Ô‹†Å-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(»¬£8«Ô‹†Å-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôäùƒÿÿÿÿÿ8«Ô‹†Å-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Î­ƒ8«Ô‹†Å-
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÄÈ{8«Ô‹†Å-
+gsquid:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(áò‰øÿÿÿÿ8«Ô‹†Å-
+Tsquid:S1989"3Add a "try/catch" block for "responseDelEmptyRows".(íšùÿÿÿÿÿ8«Ô‹†Å-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ş¢Æûşÿÿÿÿ8«Ô‹†Å-
+Dsquid:S1989"(Add a "try/catch" block for "readValue".(õİøš8«Ô‹†Å-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ù¤›µøÿÿÿÿ8«Ô‹†Å-
+Tsquid:S1989"3Add a "try/catch" block for "setCharacterEncoding".(áò‰øÿÿÿÿ8«Ô‹†Å-
+Fsquid:S1989"%Add a "try/catch" block for "decode".(‡¡ùúÿÿÿÿ8«Ô‹†Å-
+Tsquid:S1989"3Add a "try/catch" block for "responseDelEmptyRows".(íšùÿÿÿÿÿ8«Ô‹†Å-
+Dsquid:S1989"(Add a "try/catch" block for "readValue".(õİøš8«Ô‹†Å-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ8«Ô‹†Å-
+Fsquid:S00108")Either remove or fill this block of code.(İß®é8«Ô‹†Å-
+Tsquid:S1197"8Move the array designator from the variable to the type.(š‘æã8«Ô‹†Å-
+Isquid:S1989"-Add a "try/catch" block for "getInputStream".(ò™°è8«Ô‹†Å-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢¬ä¦8«Ô‹†Å-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÎ†ù8«Ô‹†Å-
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­Î­ƒ8«Ô‹†Å-
+®%squid:RedundantThrowsDeclarationCheck"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(±ò¨ 8«Ô‹†Å-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÙÀ8«Ô‹†Å-
+Ysquid:UselessImportCheck"0Remove this unused import 'model.other.ListWeb'.(­¥š³8«Ô‹†Å-
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(¦†âÿøÿÿÿÿ8«Ô‹†Å-
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8«Ô‹†Å-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(È•œÏøÿÿÿÿ8«Ô‹†Å-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®›ß‡ùÿÿÿÿ8«Ô‹†Å-
+?squid:S1148"#Use a logger to log this exception.(¤Ê‚Œ8«Ô‹†Å-
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(±ò¨ 8«Ô‹†Å-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÕØ‹Éúÿÿÿÿ8«Ô‹†Å-
+Dsquid:S1989"(Add a "try/catch" block for "readValue".(£î±ì8«Ô‹†Å-
+Asquid:S1989"%Add a "try/catch" block for "encode".(’Ååî8«Ô‹†Å-
+Dsquid:S1989"(Add a "try/catch" block for "readValue".(£î±ì8«Ô‹†Å-
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(±ò¨ 8«Ô‹†Å-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰Š¶çùÿÿÿÿ8«Ô‹†Å-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¤Ê‚Œ8«Ô‹†Å-
+Csquid:S1989"'Add a "try/catch" block for "readLine".(œœÏ¡8«Ô‹†Å-
+Dsquid:S1989"(Add a "try/catch" block for "readValue".(õİøš8«Ô‹†Å-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½œ•Æşÿÿÿÿ8«Ô‹†Å-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®›ß‡ùÿÿÿÿ8«Ô‹†Å-
+hsquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ8«Ô‹†Å-
+hsquid:S1858"G"json" is already a string, there's no need to call "toString()" on it.(ßœ±—ûÿÿÿÿ8«Ô‹†Å-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(ßœ±—ûÿÿÿÿ8«Ô‹†Å-
+?squid:S1148"#Use a logger to log this exception.(¤Ê‚Œ8«Ô‹†Å-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(¤Ê‚Œ8«Ô‹†Å-
+Dsquid:S1989"(Add a "try/catch" block for "readValue".(£î±ì8«Ô‹†Å-
+[squid:S1161":Add the "@Override" annotation above this method signature(½œ•Æşÿÿÿÿ8«Ô‹†Å-

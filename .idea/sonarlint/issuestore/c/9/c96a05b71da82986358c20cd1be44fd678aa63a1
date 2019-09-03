@@ -1,14 +1,14 @@
 
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å¾¯®øÿÿÿÿ8£—ðè¹-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8£—ðè¹-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(²Ú¸ùÿÿÿÿ8£—ðè¹-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘œîŸ8£—ðè¹-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Ô¥žùÿÿÿÿ8£—ðè¹-
-ssquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ý›¿s8£—ðè¹-
-esquid:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(«“ŠÓ8£—ðè¹-
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û‚½ÿÿÿÿÿ8£—ðè¹-
 Psquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸŽìúÿÿÿÿ8£—ðè¹-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¼’ˆûÿÿÿÿ8£—ðè¹-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÕã¤þÿÿÿÿ8£—ðè¹-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Ô¥žùÿÿÿÿ8£—ðè¹-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8£—ðè¹-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å¾¯®øÿÿÿÿ8£—ðè¹-
+esquid:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(«“ŠÓ8£—ðè¹-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘œîŸ8£—ðè¹-
 lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öÊ²œûÿÿÿÿ8£—ðè¹-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÕã¤þÿÿÿÿ8£—ðè¹-
+ssquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ý›¿s8£—ðè¹-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¼’ˆûÿÿÿÿ8£—ðè¹-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(²Ú¸ùÿÿÿÿ8£—ðè¹-
